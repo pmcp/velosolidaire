@@ -3,7 +3,7 @@
       <FormulateForm
         v-model="values"
         :schema="schema"
-        :action="`/registered.${lang}`"
+        @submit="submitHandler"
         name="name_of_my_form"
         method="POST"
         data-netlify="true"
@@ -59,6 +59,30 @@ export default {
   data () {
     return {
       values: {}
+    }
+  },
+  methods : {
+    encode (data) {
+      return Object.keys(data)
+        .map(
+          key => `${encodeURIComponent(key)}=${encodeURIComponent(data[key])}`
+        )
+        .join("&");
+    },
+    submitHandler (values) {
+      console.log('clicked')
+      fetch("/", {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: this.encode({
+          "form-name": 'name_of_my_form',
+          ...this.values,
+        }),
+      })
+        .then(() => {
+          console.log('Send')
+        })
+    .catch((error) => alert(error));
     }
   }
 }
