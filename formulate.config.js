@@ -51,7 +51,7 @@ export default {
     input(context) {
       switch (context.classification) {
         case 'button':
-          return 'bg-blue-400 hover:bg-blue-500 hover:text-white text-white font-bold py-2 px-4'
+          return 'bg-pink-100 border-2 text-pink-500 border-pink-500 hover:bg-pink-500 hover:text-pink-100 rounded p-2 my-4'
         case 'textarea':
           return 'border border-black px-3 py-2 leading-none focus:border-green-light outline-none border-box w-full mb-1'
         case 'box':

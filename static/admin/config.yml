@@ -156,4 +156,4 @@ collections:
             fields:
               - { label: Label, name: label, widget: string }
               - { label: Help, name: help, widget: string }
-      - {label: "Email to send form to", name: "emailForForm", required: false, widget: "string"}
+      - {label: "Message after sending", name: "formSend", required: false, widget: "string"}

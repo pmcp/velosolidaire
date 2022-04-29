@@ -99,7 +99,10 @@
         </h1>
         <nuxt-content :document="content" />
         <div v-if="content.formActive">
-          <register-form class="my-10" :form="content.form" :title="content.slug" />
+          <register-form v-if="!formIsSend" @send="sendForm" class="my-10" :form="content.form" :title="content.slug" />
+          <div v-else>
+            {{ content.formSend}}
+          </div>
         </div>
       </div>
     </div>
@@ -119,7 +122,15 @@ export default {
       user: 'auth/user',
     })
   },
+  data  () {
+    return {
+      formIsSend: false,
+    }
+  },
   methods: {
+    sendForm() {
+      this.formIsSend = !this.formIsSend
+    },
     ...mapActions({
       openLogin: 'auth/openLogin',
     }),
