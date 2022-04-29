@@ -3,21 +3,21 @@
       <FormulateForm
         v-model="values"
         :schema="schema"
-        @submit="submitHandler"
+        @submit="submitHandler(e)"
         name="name_of_my_form"
         method="POST"
         data-netlify="true"
         data-netlify-honeypot="bot-field"
       />
-      <button class=" bg-pink-100
-                border-2
-                text-pink-500
-                border-pink-500
-                hover:bg-pink-500 hover:text-pink-100
-                rounded
-                p-2
-                my-4"
-              type="submit"><translation :id="38" /></button>
+<!--      <button class=" bg-pink-100-->
+<!--                border-2-->
+<!--                text-pink-500-->
+<!--                border-pink-500-->
+<!--                hover:bg-pink-500 hover:text-pink-100-->
+<!--                rounded-->
+<!--                p-2-->
+<!--                my-4"-->
+<!--              type="submit"><translation :id="38" /></button>-->
   </div>
 </template>
 
@@ -40,7 +40,7 @@ export default {
       const fields = this.form.map((field) => {
         const fieldToSend = {
           type: field.type,
-          name: field.name,
+          name: field.label,
           label: field.label,
           validation: 'required'
         }
@@ -50,7 +50,7 @@ export default {
       console.log(fields)
       fields.push({
         "type": "submit",
-        "label": "Order pizza"
+        "label": "Send"
       })
       return fields
 
@@ -69,15 +69,19 @@ export default {
         )
         .join("&");
     },
-    submitHandler (values) {
+    submitHandler (e) {
+      console.log(e)
       console.log('clicked')
+      console.log(this.values)
+      const encoded = this.encode({
+        "form-name": 'name_of_my_form',
+        ...this.values,
+      })
+      console.log(encoded)
       fetch("/", {
         method: "POST",
         headers: { "Content-Type": "application/x-www-form-urlencoded" },
-        body: this.encode({
-          "form-name": 'name_of_my_form',
-          ...this.values,
-        }),
+        body: encoded,
       })
         .then(() => {
           console.log('Send')
