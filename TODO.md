@@ -18,6 +18,8 @@
 # TODO
 - See TODOs Velotheek for main todos
 
+- Couple Sheets
+- Set up Mailgun
 - Home= Nom de domaine propre (Location Vélo Solidaire)
 - Check page creation + create pages
   - Contact = Demande d’informations, problème avec les réservations, problème avec les vélos = velosolidaire@cyclo.org

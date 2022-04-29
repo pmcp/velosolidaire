@@ -64,13 +64,13 @@ export default {
         "form-name": this.title,
         ...this.values,
       })
-      console.log(encoded)
       fetch("/", {
         method: "POST",
         headers: { "Content-Type": "application/x-www-form-urlencoded" },
         body: encoded,
       })
         .then(() => {
+          console.log('Send')
           this.$emit('sendForm')
         })
     .catch((error) => alert(error));
