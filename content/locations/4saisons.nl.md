@@ -8,7 +8,7 @@ info: |-
   Horaires d’ouverture : lundi à Jeudi 9h30-16h30
 street: Abattoirs rue Chaudron Ropsy
 zip: 1070
-city: Sint-Gillis
+city: Anderlecht
 mails:
   confirmation:
     subject: Bevestiging van uw reservering
