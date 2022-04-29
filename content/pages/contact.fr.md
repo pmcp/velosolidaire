@@ -2,6 +2,6 @@
 title: Contact
 intro: ""
 ---
-Véronique Gallez
-Email: vgallez@stgilles.brussels
-Tel: 0491/86 57 42
+Demande d’informations, problème avec les réservations, problème avec les vélos:
+
+velosolidaire@cyclo.org

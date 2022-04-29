@@ -2,6 +2,6 @@
 title: Contact
 intro: " "
 ---
-Linde Maes
-Email: lmaes@stgilles.brussels
-Tel: 0490/52 30 09
+Demande d’informations, problème avec les réservations, problème avec les vélos:
+
+velosolidaire@cyclo.org
