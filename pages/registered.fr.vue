@@ -1,1 +1,3 @@
-in frr
+<template>
+  <div>FR</div>
+</template>

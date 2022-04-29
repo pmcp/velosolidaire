@@ -1,5 +1,12 @@
 <template>
-  <form :name="title" method="POST" data-netlify="true">
+  <form
+    :name="title"
+    method="POST"
+    data-netlify="true"
+    data-netlify-honeypot="bot-field"
+  >
+    {{ title }}
+    <input type="hidden" name="form-name" :value="title" />
     <FormulateForm
       v-model="values"
       :schema="schema"
