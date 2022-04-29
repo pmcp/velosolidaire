@@ -1,10 +1,13 @@
 ---
-title: 4 Saisons
-idInSheet: 4saisons
-location: '{"type":"Point","coordinates":[4.33828,50.8307297]}'
-info: "\n"
-street: Bethlehemplein 10
-zip: 1060
+title: "Abattoirs "
+idInSheet: "abattoirs "
+location: '{"type":"Point","coordinates":[4.3381405,50.8319562]}'
+info: |-
+  Géré par Cultureghem
+
+  Horaires d’ouverture : lundi à Jeudi 9h30-16h30
+street: Abattoirs rue Chaudron Ropsy
+zip: 1070
 city: Sint-Gillis
 mails:
   confirmation:
@@ -77,27 +80,4 @@ mails:
 
       Het Vélotek Team
 ---
-* ###### **2 volwassen fietsen (kleurcode wit)**
-
-  * ###### leeftijd: 14 jaar en ouder
-  * ###### grootte: 170 cm en meer
-* ###### **6 26-inch fietsen (kleurcode oranje)**
-
-  * ###### leeftijd: 11 jaar tot 14 jaar
-  * ###### grootte: 145 cm tot 170 cm
-* ###### **10 24-inch fietsen (kleurcode geel)**
-
-  * ###### leeftijd: 9 jaar tot 11 jaar
-  * ###### grootte: 135 cm tot 145 cm
-* ###### **5 20-inch fietsen (kleurcode blauw)**
-
-  * ###### leeftijd: 7 jaar tot 9 jaar
-  * ###### grootte: 120cm tot 135 cm
-* ###### **8 16-inch fietsen (kleurcode rode)**
-
-  * ###### leeftijd: 5 jaar tot 7 jaar
-  * ###### grootte: 110 cm tot 120 cm
-* ###### **1 grote fietspomp**
-* ###### **1 set pionnen**
-* ###### **1 x 10 meter kabel (voor het vastzetten van fietsen)**
-* ###### **1 fietstas met gereedschap en reparatiemateriaal (inclusief een kleine pomp)**
+...
