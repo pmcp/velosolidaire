@@ -14,13 +14,16 @@
     <form
       name="name_of_my_form"
       method="POST"
-      netlify
+      data-netlify="true" data-netlify-honeypot="bot-field"
     >
-      <input type="hidden" name="form-name" value="name_of_my_form" />
+
       <FormulateForm
         v-model="values"
         :schema="schema"
         :action="`/registered.${lang}`"
+        name="name_of_my_form"
+        method="POST"
+        data-netlify="true" data-netlify-honeypot="bot-field"
       />
       <button class=" bg-pink-100
                 border-2
