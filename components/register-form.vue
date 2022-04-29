@@ -61,7 +61,7 @@ export default {
     },
     submitHandler () {
       const encoded = this.encode({
-        "form-name": 'name_of_my_form',
+        "form-name": this.title,
         ...this.values,
       })
       console.log(encoded)
