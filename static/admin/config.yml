@@ -116,8 +116,8 @@ collections:
     #   preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string', required: true, i18n: true }
-      - { label: 'Intro', name: 'intro', widget: 'text', required: true, i18n: true }
-      - { label: 'Content', name: 'body', widget: 'markdown', required: true, i18n: true }
+      - { label: 'Intro', name: 'intro', widget: 'text', i18n: true }
+      - { label: 'Content', name: 'body', widget: 'markdown', i18n: true }
       - label: "Featured Image"
         required: false
         name: "image"
@@ -127,3 +127,33 @@ collections:
         media_library:
           config:
             multiple: false
+      - {label: "Active Form", name: "formActive", widget: "boolean", required: false, default: false}
+      - label: 'Fields'
+        i18n: true
+        required: false
+        name: 'form'
+        label_singular: 'Field'
+        widget: 'list'
+        types:
+          - label: 'Text (short)'
+            name: 'text'
+            widget: object
+            summary: '{{fields.label}}'
+            fields:
+              - { label: Label, name: label, widget: string }
+              - { label: Help, name: help, widget: string}
+          - label: 'Email'
+            name: 'email'
+            widget: object
+            summary: '{{fields.label}}'
+            fields:
+              - { label: Label, name: label, widget: string }
+              - { label: Help, name: help, widget: string }
+          - label: 'Text (long)'
+            name: 'textarea'
+            widget: object
+            summary: '{{fields.label}}'
+            fields:
+              - { label: Label, name: label, widget: string }
+              - { label: Help, name: help, widget: string }
+      - {label: "Email to send form to", name: "emailForForm", required: false, widget: "string"}

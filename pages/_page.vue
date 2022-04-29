@@ -97,11 +97,10 @@
         >
           <span class="block xl:inline whitespace-pre">{{ content.title }}</span>
         </h1>
-        <div v-if="$route.path == `/register.${lang}`"
-          <register-form />
-        </div>
         <nuxt-content :document="content" />
-
+        <div v-if="content.formActive">
+          <register-form class="my-10" :form="content.form" :title="content.slug" />
+        </div>
       </div>
     </div>
   </main>
