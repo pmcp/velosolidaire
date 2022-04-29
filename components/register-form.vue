@@ -14,8 +14,7 @@
     <form
       name="name_of_my_form"
       method="POST"
-      data-netlify="true"
-      data-netlify-honeypot="bot-field"
+      netlify
     >
       <input type="hidden" name="form-name" value="name_of_my_form" />
       <FormulateForm
