@@ -1,29 +1,13 @@
 <template>
   <div>
-    <form name="test" netlify>
-      <p>
-        <label>Name <input type="text" name="name" /></label>
-      </p>
-      <p>
-        <label>Email <input type="email" name="email" /></label>
-      </p>
-      <p>
-        <button type="submit">Send</button>
-      </p>
-    </form>
-    <form
-      name="name_of_my_form"
-      method="POST"
-      data-netlify="true" data-netlify-honeypot="bot-field"
-    >
-
       <FormulateForm
         v-model="values"
         :schema="schema"
         :action="`/registered.${lang}`"
         name="name_of_my_form"
         method="POST"
-        data-netlify="true" data-netlify-honeypot="bot-field"
+        data-netlify="true"
+        data-netlify-honeypot="bot-field"
       />
       <button class=" bg-pink-100
                 border-2
@@ -34,7 +18,6 @@
                 p-2
                 my-4"
               type="submit"><translation :id="38" /></button>
-    </form>
   </div>
 </template>
 
@@ -54,8 +37,7 @@ export default {
       return this.$store.state.lang
     },
     schema () {
-      return this.form.map((field) => {
-        console.log(field)
+      const fields = this.form.map((field) => {
         const fieldToSend = {
           type: field.type,
           name: field.name,
@@ -64,32 +46,19 @@ export default {
         }
         if(field.type === 'email') fieldToSend.validation = 'required|email'
         return fieldToSend
-
       }, {});
+      console.log(fields)
+      fields.push({
+        "type": "submit",
+        "label": "Order pizza"
+      })
+      return fields
+
     }
   },
   data () {
     return {
-      values: {},
-      // schema: [
-      //   {
-      //     type: 'password',
-      //     name: 'password',
-      //     label: 'Enter a new password',
-      //     validation: 'required'
-      //   },
-      //   {
-      //     type: 'password',
-      //     name: 'password_confirm',
-      //     label: 'Confirm your password',
-      //     validation: '^required|confirm:password',
-      //     validationName: 'Password confirmation'
-      //   },
-      //   {
-      //     type: 'submit',
-      //     label: 'Change password'
-      //   }
-      // ]
+      values: {}
     }
   }
 }

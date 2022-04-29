@@ -13,6 +13,7 @@
   - Envoyer -> envoie le formulaire par mail à velosolidaire@cyclo.org
   - Renvoie un texte sur l’écran : « Merci pour votre demande d’inscription à Vélo Solidaire, nous traitons votre demande et vous y donnerons accès le plus rapidement possible.
 
+- Design form
   
 # TODO
 - See TODOs Velotheek for main todos
