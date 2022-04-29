@@ -9,7 +9,7 @@
       </nuxt-link>
 
       <div v-if="user">
-        <nuxt-link v-for="(p, key) in pages" :key="`navPages-${key}`" :to="`/${p.slug}`">
+        <nuxt-link v-for="(p, key) in pages" :key="`navPages-${key}`" :to="`/${p.slug}`" class="flex">
           <div
             class="underline mr-5"
             :class="[
@@ -64,8 +64,10 @@ export default {
       return this.$store.state.lang
     },
     pages() {
+      console.log(this.$route.path)
       if (this.allPages.length < 1) return []
-      return this.allPages.filter((p) => p.slug.slice(-2) === this.lang && p.title !== 'Home')
+      console.log(this.allPages)
+      return this.allPages.filter((p) => p.slug.slice(-2) === this.lang && (p.title !== 'Home' && !p.slug.includes("register")))
     },
     userBookings() {
       if (this.$store.getters.userBookings) return this.$store.getters.userBookings.length
