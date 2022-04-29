@@ -18,23 +18,7 @@ export const state = () => ({
       available: true,
     },
   ],
-  grades: [
-    { name: { nl: 'Eerste Leerjaar', fr: 'Première primaire' } },
-    { name: { nl: 'Tweede Leerjaar', fr: 'Deuxième primaire' } },
-    { name: { nl: 'Derde Leerjaar', fr: 'Troisième primaire' } },
-    { name: { nl: 'Vierde Leerjaar', fr: 'Quatrième primaire' } },
-    { name: { nl: 'Vijfde Leerjaar', fr: 'Cinquième primaire' } },
-    { name: { nl: 'Zesde Leerjaar', fr: 'Sixième primaire' } },
-    { name: { nl: 'Eerste Middelbaar', fr: 'Première secondaire' } },
-    { name: { nl: 'Tweede Middelbaar', fr: 'Deuxième secondaire' } },
-    { name: { nl: 'Derde Middelbaar', fr: 'Troisième secondaire' } },
-    { name: { nl: 'Vierde Middelbaar', fr: 'Quatrième secondaire' } },
-    { name: { nl: 'Vijfde Middelbaar', fr: 'Cinquième secondaire' } },
-    { name: { nl: 'Zesde Middelbaar', fr: 'Sixième secondaire' } },
-    { name: { nl: 'Volwassenen', fr: 'Adultes' } },
-  ],
   translations: null,
-  activeGrade: null,
   bookings: [],
   unavailable: [],
   sessionBookings: [],
@@ -118,9 +102,6 @@ export const mutations = {
   setActiveStatus(state, val) {
     state.activeStatus = val
   },
-  setActiveGrade(state, val) {
-    state.activeGrade = val
-  },
   removeFromBookingsSelection(state, key) {
     const filteredBookings = state.sessionBookings.filter(function (value, index) {
       return index !== key
@@ -129,7 +110,6 @@ export const mutations = {
   },
   reset(state) {
     state.activeDate = null
-    state.activeGrade = null
   },
 }
 
@@ -222,10 +202,6 @@ export const actions = {
     commit('setActiveDate', date)
   },
 
-  setActiveGrade({ state, commit }, val) {
-    commit('setActiveGrade', val)
-  },
-
   selectMoment({ state, commit, dispatch }, moment) {
     commit('setActiveMoment', moment)
     dispatch('addBookingToSelection')
@@ -234,7 +210,6 @@ export const actions = {
   addBookingToSelection({ state, commit }) {
     const moment = state.activeMoment
     const date = state.activeDate
-    const grade = state.activeGrade
     // find location in active location and add details for mail
     // const filteredLocation = state.locations[state.lang].filter(l => l.idInSheet === state.activeLocationId)
 
@@ -244,8 +219,7 @@ export const actions = {
       location: state.activeLocationId,
       language: state.lang,
       email: state.auth.user.email,
-      name: state.auth.user.username,
-      grade: grade,
+      name: state.auth.user.username
     }
 
     commit('addToBookingsSelection', booking)
@@ -529,12 +503,6 @@ export const getters = {
   statusDescription: (state) => {
     const translationId = state.status[state.activeStatus].translationId
     return state.translations[translationId][state.lang]
-  },
-
-  gradesForUser: (state) => {
-    return state.grades.map((g) => {
-      return g.name[state.lang]
-    })
   },
 
   activeDateReadable: (state) => {

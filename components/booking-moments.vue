@@ -1,12 +1,11 @@
 <template>
   <div>
     <custom-transition :id="2">
-      <div v-if="activeDate != null && activeGrade != null" class="bg-gray-50 border border-gray-200 rounded-lg pt-4 w-full relative -top-5">
+      <div v-if="activeDate != null" class="bg-gray-50 border border-gray-200 rounded-lg pt-4 w-full relative -top-5">
         <ul class="divide-y divide-gray-200 relative">
           <li>
             <div class="px-4 py-4 sm:px-6">
               <div class="italic">
-                <p class="text-md text-gray-400 mt-3"><translation :id="31" class="font-bold"/>: {{ activeGrade }}</p>
                 <p class="text-md text-gray-400 mb-5"><translation :id="19" class="font-bold" />: {{ activeDateReadable }}</p>
               </div>
               <heading-two>
@@ -114,9 +113,6 @@ export default {
     },
     activeDateReadable() {
       return this.$store.getters.activeDateReadable
-    },
-    activeGrade() {
-      return this.$store.state.activeGrade
     },
   },
   methods: {

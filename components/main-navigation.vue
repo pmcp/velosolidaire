@@ -8,22 +8,22 @@
         <span class="underline text-gray-600 hover:text-gray-900 mr-5">Home</span>
       </nuxt-link>
 
-      <div v-if="user">
-        <nuxt-link v-for="(p, key) in pages" :key="`navPages-${key}`" :to="`/${p.slug}`" class="flex">
-          <div
-            class="underline mr-5"
-            :class="[
-              $route.path == `/${p.slug}` ? 'text-pink-500  hover:text-pink-900' : 'text-gray-600 hover:text-gray-900',
-            ]"
-          >
-            {{ p.title }}
-          </div>
-        </nuxt-link>
-      </div>
+
+      <nuxt-link v-for="(p, key) in pages" :key="`navPages-${key}`" :to="`/${p.slug}`" class="flex">
+        <div
+          class="underline mr-5"
+          :class="[
+            $route.path == `/${p.slug}` ? 'text-pink-500  hover:text-pink-900' : 'text-gray-600 hover:text-gray-900',
+          ]"
+        >
+          {{ p.title }}
+        </div>
+      </nuxt-link>
     </div>
     <div class="flex flex-col md:flex-row md:justify-between md:items-center" :class="{ hidden: !user }">
+      <!--      TODO: Make variabale-->
       <nuxt-link
-        :to="`/locations/4saisons.${lang}`"
+        :to="`/locations/abbatoirs.${lang}`"
         class="text-gray-600 hover:text-gray-900 mr-5 underline px-1 py-1 md:py-3 md:px-2 rounded"
         :class="[$route.path.includes('/locations/') ? 'border-2 border-pink-500' : '']"
       >

@@ -47,12 +47,10 @@ emailFn.getContent = (b, type) => {
   const bookingDetails = {
     nl: `Datum: ${date},
 Tijdslot: ${moment}
-Graad: ${b.grade}
 Velotek: ${b.location}, ${address.street} ${address.zip} ${address.city}
 `,
     fr: `Date: ${date},
 Horaire: ${moment}
-Niveau: ${b.grade}
 Vélotek: ${b.location}, ${address.street}, ${address.zip} ${address.city}
 `,
   }

@@ -118,9 +118,6 @@ export const mutations = {
   setActiveStatus(state, val) {
     state.activeStatus = val
   },
-  setActiveGrade(state, val) {
-    state.activeGrade = val
-  },
   removeFromBookingsSelection(state, key) {
     const filteredBookings = state.sessionBookings.filter(function (value, index) {
       return index !== key
@@ -220,10 +217,6 @@ export const actions = {
   setActiveDate({ state, commit }, date) {
     commit('setActiveMoment', null)
     commit('setActiveDate', date)
-  },
-
-  setActiveGrade({ state, commit }, val) {
-    commit('setActiveGrade', val)
   },
 
   selectMoment({ state, commit, dispatch }, moment) {

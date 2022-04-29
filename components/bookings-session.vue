@@ -80,10 +80,7 @@ export default {
     },
     statusDescription() {
       return this.$store.getters.statusDescription
-    },
-    grades() {
-      return this.$store.state.grades
-    },
+    }
   },
   methods: {
     toggle() {
