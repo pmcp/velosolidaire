@@ -24,7 +24,7 @@ export default {
         case 'box':
           return 'bg-orange-dark flex-grow'
         default:
-          return 'w-full block text-black px-4 text-lg'
+          return 'w-full block text-base'
       }
     },
     element({ classification }) {

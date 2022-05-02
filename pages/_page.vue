@@ -1,11 +1,11 @@
 <template>
-  <main class="relative bg-gray-50 prose">
+  <main class="relative bg-gray-50">
     <div v-if="content.image">
       <div class="flex flex-col md:flex-row">
         <div class="relative flex md:w-1/2 mr-4 bg-pink-500 justify-items-stretch items-stretch">
           <img class="object-cover" :src="content.image" alt="" />
         </div>
-        <div class="pb-20 md:w-1/2 ml-4 mt-5 flex flex-col">
+        <div class="prose pb-20 md:w-1/2 ml-4 mt-5 flex flex-col ">
           <heading-one>
             {{ content.intro }}
           </heading-one>
@@ -56,7 +56,7 @@
           </div>
 
           <div class="prose prose-indigo prose-lg text-gray-500 mx-auto w-full">
-            <nuxt-content class="prose lg:prose-xl" :document="content" />
+            <nuxt-content class="prose lg:prose-md" :document="content" />
           </div>
 
 
@@ -80,7 +80,7 @@
     </div>
 
     <div v-else>
-      <div class="text-base max-w-prose pt-10">
+      <div class="prose text-base max-w-prose pt-10">
         <h1
           class="
             py-5
