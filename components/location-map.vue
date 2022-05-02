@@ -37,7 +37,7 @@ export default {
       const coordinates = JSON.parse(this.locations[0].location).coordinates
 
       const map = new mapboxgl.Map({
-        accessToken: 'pk.eyJ1IjoicG1jcCIsImEiOiJja3JmMWY4emswdDloMnBvZXhsbTh4OXBrIn0.xOUAdPFdzCU9sSsBbsE-7g',
+        accessToken: 'pk.eyJ1IjoicG1jcCIsImEiOiJjbDJwMHhxdjgxbWgzM2NwazQydnlhbWVuIn0.EeF1nO2u3BmpdwsrHoGtUw',
         container: 'map',
         style: 'mapbox://styles/mapbox/streets-v9',
         center: coordinates, // starting position as [lng, lat]
