@@ -41,8 +41,10 @@ const emailFn = {}
 emailFn.getContent = (b, type) => {
   const moment = `${moments[b.moment * 1]['name'][b.language]}, ${moments[b.moment * 1]['descr'][b.language]}`
   const date = format(new Date(b.date), 'dd/MM/yyyy')
+
   const address = emails[`${b.location}.${b.language}`].address
   const contentFromDb = emails[`${b.location}.${b.language}`].mails[type]
+
 
   const bookingDetails = {
     nl: `Datum: ${date},

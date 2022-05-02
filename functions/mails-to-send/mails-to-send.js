@@ -11,7 +11,7 @@ const { schedule } = require('@netlify/functions')
 
 const handler = async function (event, context) {
   // const data = JSON.parse(event.body)
-  // console.log('here', data)
+
 
   const sheet = await sheetAPI.getSheet('reservations')
   const rows = await sheetAPI.getRows(sheet)

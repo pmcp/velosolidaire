@@ -1,5 +1,5 @@
 <template>
-  <main class="relative bg-gray-50">
+  <main class="relative bg-gray-50 prose">
     <div v-if="content.image">
       <div class="flex flex-col md:flex-row">
         <div class="relative flex md:w-1/2 mr-4 bg-pink-500 justify-items-stretch items-stretch">
@@ -38,7 +38,7 @@
           <div class="my-4" v-show="user && content.title === 'Home'">
             <nuxt-link
 
-              :to="`/locations/4saisons.${lang}`"
+              :to="`/locations/abattoirs.${lang}`"
               class="
                 bg-pink-100
                 border-2
@@ -129,7 +129,6 @@ export default {
   },
   methods: {
     sendForm() {
-      console.log('here')
       this.formIsSend = !this.formIsSend
     },
     ...mapActions({

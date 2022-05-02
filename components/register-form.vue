@@ -70,7 +70,6 @@ export default {
         body: encoded,
       })
         .then(() => {
-          console.log('Send')
           this.$emit('sendForm')
         })
     .catch((error) => alert(error));

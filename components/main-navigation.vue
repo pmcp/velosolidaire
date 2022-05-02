@@ -23,7 +23,7 @@
     <div class="flex flex-col md:flex-row md:justify-between md:items-center" :class="{ hidden: !user }">
       <!--      TODO: Make variabale-->
       <nuxt-link
-        :to="`/locations/abbatoirs.${lang}`"
+        :to="`/locations/abattoirs.${lang}`"
         class="text-gray-600 hover:text-gray-900 mr-5 underline px-1 py-1 md:py-3 md:px-2 rounded"
         :class="[$route.path.includes('/locations/') ? 'border-2 border-pink-500' : '']"
       >
@@ -64,9 +64,7 @@ export default {
       return this.$store.state.lang
     },
     pages() {
-      console.log(this.$route.path)
       if (this.allPages.length < 1) return []
-      console.log(this.allPages)
       return this.allPages.filter((p) => p.slug.slice(-2) === this.lang && (p.title !== 'Home' && !p.slug.includes("register")))
     },
     userBookings() {
