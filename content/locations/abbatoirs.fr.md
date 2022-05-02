@@ -12,7 +12,7 @@ city: Anderlecht
 mails:
   confirmation:
     subject: Confirmation de votre réservation
-    from: velosolidaire.be
+    from: booking@velosolidaire.be
     body: >
       Cher/Chère %NAME%,
 
