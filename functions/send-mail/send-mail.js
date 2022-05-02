@@ -8,12 +8,16 @@ if (!process.env.NETLIFY) {
 if (!process.env.MAILGUN_API) throw new Error('no MAILGUN_API env var set')
 
 if (!process.env.MAILGUN_DOMAIN) throw new Error('no MAILGUN_DOMAIN env var set')
+//
+// var mailgun = require('mailgun-js')({
+//   apiKey: process.env.MAILGUN_API,
+//   domain: process.env.MAILGUN_DOMAIN,
+// })
 
-var mailgun = require('mailgun-js')({
-  apiKey: process.env.MAILGUN_API,
-  domain: process.env.MAILGUN_DOMAIN,
-  // domain: 'velotheek.friendlyinter.net'
-})
+const formData = require('form-data');
+const Mailgun = require('mailgun.js');
+const mailgun = new Mailgun(formData);
+const mg = mailgun.client({username: 'api', key: process.env.MAILGUN_API, url: 'https://api.eu.mailgun.net'});
 
 const { format } = require('date-fns')
 
@@ -88,12 +92,9 @@ emailFn.sendEmail = ({ copy: copy, to: to, replyTo: replyTo, subject: subject })
     }
     if (to) {
       // console.dir(mailgun.messages())
-      mailgun.messages().send(data, (error, body) => {
-        // return
-        console.log(error)
-        // if(error) console.log(error)
-        resolve(body)
-      })
+      mg.messages.create(process.env.MAILGUN_DOMAIN, data)
+        .then((msg) => console.log(msg))
+        .catch((err) => console.log(err));
     }
   })
 }
