@@ -77,7 +77,6 @@ Vélotek: ${b.location}, ${address.street}, ${address.zip} ${address.city}
 }
 
 emailFn.sendEmail = ({ copy: copy, to: to, replyTo: replyTo, subject: subject }) => {
-  console.log(copy)
   return new Promise((resolve) => {
     const data = {
       from: replyTo,
