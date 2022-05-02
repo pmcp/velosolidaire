@@ -12,7 +12,7 @@ city: Anderlecht
 mails:
   confirmation:
     subject: Bevestiging van uw reservering
-    from: booking@schoolvelotek.be
+    from: booking@velosolidaire.be
     body: >-
       Beste %NAME%,
 
@@ -34,7 +34,7 @@ mails:
 
       Het Velotek Team
   reminder:
-    from: info@schoolvelothek.be
+    from: info@velosolidaire.be
     subject: Herinnering van uw reservering
     body: >-
       Beste %NAME%,
@@ -58,7 +58,7 @@ mails:
       Het Velotek Team
   retour:
     subject: Terugbrengen van je reservering
-    from: info@schoolvelothek.be
+    from: info@velosolidaire.be
     body: >-
       Beste %NAME%,
 
