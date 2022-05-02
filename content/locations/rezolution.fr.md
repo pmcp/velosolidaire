@@ -1,7 +1,7 @@
 ---
 title: Rezolution
 idInSheet: rezolution
-location: '{"type":"Point","coordinates":[4.3502855,50.8275717]}'
+location: '{"type":"Point","coordinates":[4.3336681,50.8458073]}'
 info: |-
   Géré par MJ Rezolution
   Horaires d’ouverture : lundi à Jeudi 10h à 17Hh et Vendredi de 14h à 20h

@@ -1,7 +1,7 @@
 ---
 title: Abattoirs
 idInSheet: abattoirs
-location: '{"type":"Point","coordinates":[4.3381405,50.8319562]}'
+location: '{"type":"Point","coordinates":[4.3280253,50.8436959]}'
 info: |-
   Géré par Cultureghem
 
