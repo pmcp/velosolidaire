@@ -239,7 +239,6 @@ export const actions = {
 
     if (state.sessionBookings.length === 0) return
 
-    console.log(state.sessionBookings)
     const body = {
       bookings: state.sessionBookings,
       sheet: 'reservations',

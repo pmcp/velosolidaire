@@ -39,9 +39,6 @@ const moments = [
 const emailFn = {}
 
 emailFn.getContent = (b, type) => {
-  console.log(b)
-  console.log('MOMENTS', moments, b.moment)
-  return;
   const moment = `${moments[b.moment * 1]['name'][b.language]}, ${moments[b.moment * 1]['descr'][b.language]}`
   const date = format(new Date(b.date), 'dd/MM/yyyy')
 
@@ -80,6 +77,7 @@ Vélotek: ${b.location}, ${address.street}, ${address.zip} ${address.city}
 }
 
 emailFn.sendEmail = ({ copy: copy, to: to, replyTo: replyTo, subject: subject }) => {
+  console.log(copy)
   return new Promise((resolve) => {
     const data = {
       from: replyTo,
