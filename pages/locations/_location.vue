@@ -6,6 +6,7 @@
           <translation :id="35" />
         </heading-two>
         <locations-list class="text-sm text-gray-500 md:sticky top-20 z-20" :horizontal="true" />
+        <location-map></location-map>
         <heading-two class="mt-5">
           <translation :id="17" />
         </heading-two>
