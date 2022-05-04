@@ -3,4 +3,6 @@ title: Home
 intro: Welkom bij Vélo Solidaire
 image: /img/christin-hume-zbuh21c9ark-unsplash.jpg
 ---
-Bienvenue sur le site de réservation des vélos solidaires. Vélo solidaire est un projet de la Région de Bruxelles Capitale qui vise à faciliter la pratique et l’accès au vélo.
+Welkom op de reserveringswebsite voor Vélo Solidaire. Vélo Solidaire is een project van het Brussels Hoofdstedelijk Gewest dat het gebruik van en de toegang tot de fiets wil vergemakkelijken.
+
+Deze site is uitsluitend gereserveerd voor het gebruik van verenigingen, wij maken geen reserveringen voor particulieren.
