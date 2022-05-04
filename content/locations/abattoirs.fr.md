@@ -17,7 +17,7 @@ mails:
       Cher/Chère %NAME%,
 
 
-      Vous avez réservés des vélos via School Vélotek.
+      Vous avez réservés des vélos Vélo Solidaires.
 
 
       %BOOKING%

@@ -17,7 +17,7 @@ mails:
       Beste %NAME%,
 
 
-      U heeft fietsen geboekt via School Vélotek.
+      U heeft fietsen geboekt Velo Solidaires fietsen.
 
 
       %BOOKING%
