@@ -1,5 +1,5 @@
 ---
-title: Schrijf je in
+title: Inscrits-toi
 intro: schrijf je in ofzo
 image: null
 formActive: true
@@ -28,5 +28,7 @@ form:
   - type: text
     label: Nombre de participant.e.s estimé
     help: Nombre de participant.e.s estimé
+formSend: Merci pour votre demande d’inscription à Vélo Solidaire, nous traitons
+  votre demande et vous y donnerons accès le plus rapidement possible.
 ---
 met wat content
