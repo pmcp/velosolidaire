@@ -16,53 +16,53 @@ mails:
       Cher/Chère %NAME%,
 
 
-      Vous avez réservés des vélos via School Vélotek.
+      Vous avez réservés des vélos via Vélo Solidaire.
 
 
       %BOOKING%
 
 
-      Le jour de la réservation, vous devrez sonner au secrétariat de l’école Peter Pan (13 rue de la Rhétorique 1060 St Gilles). Veuillez décliner votre identité et le fait que vous venez pour la Vélotek. La porte vous sera ouverte. Les clefs de la Vélotek se trouvent dans une boîte à clef à votre gauche. Le code d’accès est le 1060. Merci de bien faire attention de ne pas divulguer le code ainsi que de brouiller celui-ci après ouverture. Les vélos sont stockés dans un local dont l’accès se fait deux portes plus à droite que l’entrée principale de l’école Peter Pan derrière une porte métallique blanche. Les vélos se trouvent au fond du couloir. Une fois que vous aurez pris les vélos que vous désirez, vous sortirez sur le trottoir en n’oubliant pas d’éteindre la lumière et de fermer la porte à clef derrière vous. Vous garderez les clefs pendant votre formation. 
+      Le jour de la réservation, vous devrez sonner au 33 rue du chimiste (sonette Rezolution) et demander à parler à Céline.  La porte vous sera ouverte et Céline vous donnera accès aux vélos. Une fois que vous aurez pris les vélos qui vous conviennent, vous sortirez sur le trottoir en n’oubliant pas de fermer la porte derrière vous. 
 
 
-      Une fois votre formation terminée,  vous ouvrez la Vélotek, remettez les vélos et le matériel à sa place. En sortant n’oubliez pas d’éteindre la lumière et de fermez à clef la porte. Vous sonnerez ensuite à nouveau à la sonnette du secrétariat de l’école Peter pan pour remettre la clef dans la boîte à clef. N’oubliez pas de brouiller le code après avoir remis les clefs.
+      Une fois votre formation ou activité terminée,  vous reviendrez à Rezolution (33 rue du Chimiste) re-sonnez et Céline (ou quelqu'un de son équipe vous donnera accès au local vélo pour que vous les, remettiez en place. En sortant n’oubliez pas de fermer la porte.
 
 
-      Bonne route à vous !
+      Bonne route !
 
 
-      Team Vélotek
+      L'équipe Vélo Solidaire
 
 
   reminder:
     subject: Rappel de votre réservation
     from: info@schoolvelotek.be
-    body: >
+    body: >-
       Cher/Chère %NAME%,
 
 
-      Vous avez réservés des vélos via School Vélotek.
+      Vous avez réservé des vélos via Vélo Solidaire
 
 
       %BOOKING%
 
 
-      Le jour de la réservation, vous devrez sonner au secrétariat de l’école Peter Pan (13 rue de la Rhétorique 1060 St Gilles). Veuillez décliner votre identité et le fait que vous venez pour la Vélotek. La porte vous sera ouverte. Les clefs de la Vélotek se trouvent dans une boîte à clef à votre gauche. Le code d’accès est le 1060. Merci de bien faire attention de ne pas divulguer le code ainsi que de brouiller celui-ci après ouverture. Les vélos sont stockés dans un local dont l’accès se fait deux portes plus à droite que l’entrée principale de l’école Peter Pan derrière une porte métallique blanche. Les vélos se trouvent au fond du couloir. Une fois que vous aurez pris les vélos que vous désirez, vous sortirez sur le trottoir en n’oubliant pas d’éteindre la lumière et de fermer la porte à clef derrière vous. Vous garderez les clefs pendant votre formation. 
+      Le jour de la réservation, vous devrez sonner au 33 rue du chimiste (sonette Rezolution) et demander à parler à Céline.  La porte vous sera ouverte et Céline vous donnera accès aux vélos. Une fois que vous aurez pris les vélos qui vous conviennent, vous sortirez sur le trottoir en n’oubliant pas de fermer la porte derrière vous. 
 
 
-      Une fois votre formation terminée,  vous ouvrez la Vélotek, remettez les vélos et le matériel à sa place. En sortant n’oubliez pas d’éteindre la lumière et de fermez à clef la porte. Vous sonnerez ensuite à nouveau à la sonnette du secrétariat de l’école Peter pan pour remettre la clef dans la boîte à clef. N’oubliez pas de brouiller le code après avoir remis les clefs.
+      Une fois votre formation ou activité terminée,  vous reviendrez à Rezolution (33 rue du Chimiste) re-sonnez et Céline (ou quelqu'un de son équipe vous donnera accès au local vélo pour que vous les, remettiez en place. En sortant n’oubliez pas de fermer la porte.
 
 
-      Bonne route à vous !
+      Bonne route !
 
 
-      Team Vélotek
+      L'équipe Vélo Solidaire
   retour:
     body: >
       Cher/Chère %NAME%,
 
 
-      Vous avez réservés des vélos via School Vélotek.
+      Vous avez réservé des vélos via Vélo Solidaire
 
 
       %BOOKING%
@@ -74,7 +74,7 @@ mails:
       A tout bientôt.
 
 
-      Team Vélotek
+      L'équipe Vélo Solidaire
     from: info@schoolvelothek.be
     subject: Retour de votre réservation
 ---

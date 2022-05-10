@@ -16,22 +16,22 @@ mails:
       Beste %NAME%,
 
 
-      U heeft fietsen geboekt via School Vélotek.
+      U heeft fietsen geboekt via Vélo Solidaire.
 
 
       %BOOKING%
 
 
-      Op de dag van uw reservatie, belt u aan bij het secretariaat van de school Peter Pan (Retoricastraat 13). Gelieve uzelf te identificeren en te melden dat u voor de Vélotek komt. Dan zal de deur open gaan en de sleutels die u toegang geven tot het lokaal van de Vélotek hangen links in een kastje tegen de muur. De toegangscode is 1060. Wees voorzichtig om de code niet te onthullen en de cijfers terug van plaats te wisselen. Het lokaal van de fietsen bevindt zich achter de tweede deur rechts na de toegangspoort. Na de metalen deur, bevinden de fietsen zich op het einde van de gang. Na het ophalen van de fietsen, ga je naar buiten op het voetpad, vergeet niet het licht uit te doen en de deur achter je op slot te doen. U houdt de sleutels bij gedurende de fietsles/fietsactiviteit. 
+      Op de dag van de reservering moet u aanbellen bij de bel van 33 rue du chimiste (Rezolution bel) en vragen om Céline te spreken.  De deur wordt geopend en Céline geeft u toegang tot de fietsen. Als u de fietsen hebt genomen die u bevallen, gaat u naar buiten op de stoep, en vergeet niet de deur achter u dicht te doen. 
 
 
-      Na de fietsles, kan u met de sleutels binnen gaan in het lokaal van de Vélotek en het materiaal op een gepaste manier terugzetten. Vergeet niet om bij het verlaten van de Vélotek het licht uit te schakelen en het fietsenkot op slot te doen. Daarna belt u aan bij het secretariaat van de school. Wanneer u binnen gelaten wordt, kan u de sleutel terug in het kluisje tegen de muur stoppen. Vergeet niet de cijfers terug van plaats te wisselen nadat je de sleutels hebt ingeleverd.
+      Zodra u klaar bent met uw training of activiteit, komt u terug naar Rezolution (33 rue du Chimiste) en Céline (of iemand van haar team) zal u toegang geven tot de fietsenkamer zodat u ze terug kunt zetten. Als je weggaat, vergeet dan niet de deur te sluiten.
 
 
-      Groet,
+      Een goede rit!
 
 
-      Het Vélotek Team
+      Het team van Vélo Solidaire
   reminder:
     subject: Herinnering aan uw reservering
     from: info@schoolvelotek.be
@@ -39,28 +39,28 @@ mails:
       Beste %NAME%,
 
 
-      U heeft fietsen geboekt via School Vélotek.
+      U heeft fietsen geboekt via Vélo Solidaire
 
 
       %BOOKING%
 
 
-      Op de dag van uw reservatie, belt u aan bij het secretariaat van de school Peter Pan (Retoricastraat 13). Gelieve uzelf te identificeren en te melden dat u voor de Vélotek komt. Dan zal de deur open gaan en de sleutels die u toegang geven tot het lokaal van de Vélotek hangen links in een kastje tegen de muur. De toegangscode is 1060. Wees voorzichtig om de code niet te onthullen en de cijfers terug van plaats te wisselen. Het lokaal van de fietsen bevindt zich achter de tweede deur rechts na de toegangspoort. Na de metalen deur, bevinden de fietsen zich op het einde van de gang. Na het ophalen van de fietsen, ga je naar buiten op het voetpad, vergeet niet het licht uit te doen en de deur achter je op slot te doen. U houdt de sleutels bij gedurende de fietsles/fietsactiviteit. 
+      Op de dag van de reservering moet u aanbellen bij de bel van 33 rue du chimiste (Rezolution bel) en vragen om Céline te spreken.  De deur wordt geopend en Céline geeft u toegang tot de fietsen. Als u de fietsen hebt genomen die u bevallen, gaat u naar buiten op de stoep, en vergeet niet de deur achter u dicht te doen. 
 
 
-      Na de fietsles, kan u met de sleutels binnen gaan in het lokaal van de Vélotek en het materiaal op een gepaste manier terugzetten. Vergeet niet om bij het verlaten van de Vélotheek het licht uit te schakelen en het fietsenkot op slot te doen. Daarna belt u aan bij het secretariaat van de school. Wanneer u binnen gelaten wordt, kan u de sleutel terug in het kluisje tegen de muur stoppen. Vergeet niet de cijfers terug van plaats te wisselen nadat je de sleutels hebt ingeleverd.
+      Zodra u klaar bent met uw training of activiteit, komt u terug naar Rezolution (33 rue du Chimiste) en Céline (of iemand van haar team) zal u toegang geven tot de fietsenkamer zodat u ze terug kunt zetten. Als je weggaat, vergeet dan niet de deur te sluiten.
 
 
-      Groet,
+      Een goede rit!
 
 
-      Het Vélotek Team
+      Het team van Vélo Solidaire
   retour:
     body: >-
       Beste %NAME%,
 
 
-      U heeft fietsen geboekt via School Vélotek.
+      U heeft fietsen geboekt via Vélo Solidaire
 
 
       %BOOKING%
@@ -75,7 +75,7 @@ mails:
       Groet,
 
 
-      Het Vélotek Team
+      Het team van Vélo Solidaire
     subject: Terugbrengen van je reservatie
     from: info@schoolvelothek.be
 ---
