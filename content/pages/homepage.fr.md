@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Accueil
 intro: Bienvenue à Vélo Solidaire
 image: /img/christin-hume-zbuh21c9ark-unsplash.jpg
 ---
