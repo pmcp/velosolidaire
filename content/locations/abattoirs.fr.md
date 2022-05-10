@@ -79,4 +79,4 @@ mails:
 
       L'équipe Vélo Solidaire
 ---
-...
+Test Vélo
