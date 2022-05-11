@@ -61,16 +61,12 @@
       "nl": "Nieuwe reservatie"
     },
     {
-      "fr": "Sélectionnez le niveau de votre classe",
-      "nl": "Selecteer het jaar"
+      "fr": "Choisissez un emplacement Vélo Solidaire",
+      "nl": "Kies een Vélo Solidaire plaats"
     },
     {
-      "fr": "Choisissez une Vélotek",
-      "nl": "Kies een Vélotek"
-    },
-    {
-      "fr": "Matériel disponible dans cette Vélotek",
-      "nl": "Beschikbaar materiaal in deze Vélotek"
+      "fr": "Vélos disponible dans cet emplacement",
+      "nl": "Beschikbaar fietsen in deze plaats"
     },
     {
       "fr": "Choisissez une date",
@@ -85,19 +81,19 @@
       "nl": "Vandaag"
     },
     {
-      "fr": "Toute la journée est disponible",
+      "fr": "Disponible toute la journée",
       "nl": "Hele dag beschikbaar"
     },
     {
-      "fr": "L'après-midi est disponible",
+      "fr": "Disponible l'après-midi",
       "nl": "Namiddag beschikbaar"
     },
     {
-      "fr": "La matinée est disponible",
+      "fr": "Disponible la matinée",
       "nl": "Voormiddag beschikbaar"
     },
     {
-      "fr": "Réservations sélectionnées (pour cette Vélotek)",
+      "fr": "Réservations sélectionnées (pour cet emplacement)",
       "nl": "Geselecteerde momenten (voor deze locatie)"
     },
     {
@@ -121,10 +117,6 @@
       "nl": "Voeg boeking toe"
     },
     {
-      "fr": "Sélectionnez une année scolaire",
-      "nl": "Selecteer een jaar"
-    },
-    {
       "fr": "Année",
       "nl": "Jaar"
     },
@@ -141,8 +133,8 @@
       "nl": "Toon minder"
     },
     {
-      "fr": "Choisissez votre Vélotek",
-      "nl": "Kies je Vélotek"
+      "fr": "Choisissez votre emplacement Vélo Solidaire",
+      "nl": "Kies je Vélo Solidaire plaats"
     },
     {
       "fr": "Sélectionner",
