@@ -17,7 +17,7 @@ mails:
       Cher/Chère %NAME%,
 
 
-      Vous avez réservés des vélos Vélo Solidaires.
+      Vous avez réservé des vélos via Vélo Solidaire.
 
 
       %BOOKING%
@@ -41,7 +41,7 @@ mails:
       Cher/Chère %NAME%,
 
 
-      Vous avez réservés des vélos via Velos Solidaires.
+      Vous avez réservé des vélos via Velos Solidaire
 
 
       %BOOKING%
@@ -65,13 +65,13 @@ mails:
       Cher/Chère %NAME%,
 
 
-      Vous avez réservés des vélos via Vélo Solidaire.
+      Vous avez réservé des vélos via Vélo Solidaire.
 
 
       %BOOKING%
 
 
-      J'espère que votre réservation c'est bien déroulée. Est ce que certains vélos ont eu des dégâts? Veuillez dans ce cas nous transmettre par retour de cet Email les numéros des vélos endommagés ainsi que les problèmes détectés pour que nous puissions au plus vite les réparer. 
+      J'espère que votre réservation c'est bien déroulée. Est ce que certains vélos ont été endommagés? Veuillez dans ce cas nous transmettre par retour de cet Email les numéros des vélos endommagés ainsi que les problèmes détectés pour que nous puissions au plus vite les réparer. 
 
 
       A tout bientôt.
@@ -81,18 +81,18 @@ mails:
 ---
 <!--StartFragment-->
 
-| ID         | Marque       | Modèle      | Type                | Taille | Couleur  | Vitesses   |
-| ---------- | ------------ | ----------- | ------------------- | ------ | -------- | ---------- |
-| SFL22-115C | Novy         |             | Vélo de ville homme | L      | Gris     | 3x Sachs   |
-| SFL22-116C | Vedette      |             | Vélo de ville homme | M      | Vert     | 3x Sturmey |
-| SFL22-117C | Gouden Leeuw |             | Vélo de ville homme | M      | Bleu     | 3x Sturmey |
-| SFL22-118C | Peugeot      |             | Vélo de ville mixte | M      | Vert     | 3x Sturmey |
-| SFL22-119C | Pointer      | Unica       | Vélo de ville homme | M      | Vert     | 3x Sturmey |
-| SFL22-120C | Limit        | Tour TK3    | Vélo de ville homme | M      | Noir     | 3x Sturmey |
-| SFL22-121C | Rudge        |             | Vélo de ville homme | M      | Vert     | 3x Sachs   |
-| SFL22-122C | Kynast       | Luxus Klass | Vélo de ville mixte | M      | Vert     | 3x Sturmey |
-| SFL22-123C | Balmoral     | Hercules    | Vélo de ville mixte | M      | Bordeaux | 3x Sturmey |
-| SFL22-124C | Gerdino      |             | Vélo de ville mixte | M      | Bleu     | 3x Sturmey |
-| SFL22-125C | Raleigh      |             | Vélo de ville mixte | M      | Noir     | 3x Sturmey |
+| ID         | Marque       | Type           | Taille | Couleur  | Vitesses   |
+| ---------- | ------------ | -------------- | ------ | -------- | ---------- |
+| SFL22-115C | Novy         | Vélo de ville  | L      | Gris     | 3x Sachs   |
+| SFL22-116C | Vedette      | Vélo de ville  | M      | Vert     | 3x Sturmey |
+| SFL22-117C | Gouden Leeuw | Vélo de ville  | M      | Bleu     | 3x Sturmey |
+| SFL22-118C | Peugeot      | Vélo de ville  | M      | Vert     | 3x Sturmey |
+| SFL22-119C | Pointer      | Vélo de ville  | M      | Vert     | 3x Sturmey |
+| SFL22-120C | Limit        | Vélo de ville  | M      | Noir     | 3x Sturmey |
+| SFL22-121C | Rudge        | Vélo de ville  | M      | Vert     | 3x Sachs   |
+| SFL22-122C | Kynast       | Vélo de ville  | M      | Vert     | 3x Sturmey |
+| SFL22-123C | Balmoral     | Vélo de ville  | M      | Bordeaux | 3x Sturmey |
+| SFL22-124C | Gerdino      | Vélo de ville  | M      | Bleu     | 3x Sturmey |
+| SFL22-125C | Raleigh      | Vélo de ville  | M      | Noir     | 3x Sturmey |
 
 <!--EndFragment-->

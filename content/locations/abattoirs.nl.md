@@ -3,9 +3,9 @@ title: Abattoirs - MA-DO 9u30-16u30
 idInSheet: abattoirs
 location: '{"type":"Point","coordinates":[4.3280253,50.8436959]}'
 info: |-
-  Géré par Cultureghem
+  Beheer door Cultureghem
 
-  Horaires d’ouverture : lundi à Jeudi 9h30-16h30
+  Opening uur : maandag tot donderdag 9u30-16u30
 street: Abattoirs rue Chaudron Ropsy
 zip: 1070
 city: Anderlecht
@@ -84,18 +84,18 @@ mails:
 ---
 <!--StartFragment-->
 
-| ID         | Merk         | Modele      | Type                | Maat | Kleur    | Snelheid   |
-| ---------- | ------------ | ----------- | ------------------- | ---- | -------- | ---------- |
-| SFL22-115C | Novy         |             | Vélo de ville homme | L    | Gris     | 3x Sachs   |
-| SFL22-116C | Vedette      |             | Vélo de ville homme | M    | Vert     | 3x Sturmey |
-| SFL22-117C | Gouden Leeuw |             | Vélo de ville homme | M    | Bleu     | 3x Sturmey |
-| SFL22-118C | Peugeot      |             | Vélo de ville mixte | M    | Vert     | 3x Sturmey |
-| SFL22-119C | Pointer      | Unica       | Vélo de ville homme | M    | Vert     | 3x Sturmey |
-| SFL22-120C | Limit        | Tour TK3    | Vélo de ville homme | M    | Noir     | 3x Sturmey |
-| SFL22-121C | Rudge        |             | Vélo de ville homme | M    | Vert     | 3x Sachs   |
-| SFL22-122C | Kynast       | Luxus Klass | Vélo de ville mixte | M    | Vert     | 3x Sturmey |
-| SFL22-123C | Balmoral     | Hercules    | Vélo de ville mixte | M    | Bordeaux | 3x Sturmey |
-| SFL22-124C | Gerdino      |             | Vélo de ville mixte | M    | Bleu     | 3x Sturmey |
-| SFL22-125C | Raleigh      |             | Vélo de ville mixte | M    | Noir     | 3x Sturmey |
+| ID         | Merk         | Modele       | Maat | Kleur    | Snelheid   |
+| ---------- | ------------ | ------------ | ---- | -------- | ---------- |
+| SFL22-115C | Novy         | stads fiets  | L    | Gris     | 3x Sachs   |
+| SFL22-116C | Vedette      | stads fiets  | M    | Vert     | 3x Sturmey |
+| SFL22-117C | Gouden Leeuw | stads fiets  | M    | Bleu     | 3x Sturmey |
+| SFL22-118C | Peugeot      | stads fiets  | M    | Vert     | 3x Sturmey |
+| SFL22-119C | Pointer      | stads fiets  | M    | Vert     | 3x Sturmey |
+| SFL22-120C | Limit        | stads fiets  | M    | Noir     | 3x Sturmey |
+| SFL22-121C | Rudge        | stads fiets  | M    | Vert     | 3x Sachs   |
+| SFL22-122C | Kynast       | stads fiets  | M    | Vert     | 3x Sturmey |
+| SFL22-123C | Balmoral     | stads fiets  | M    | Bordeaux | 3x Sturmey |
+| SFL22-124C | Gerdino      | stads fiets  | M    | Bleu     | 3x Sturmey |
+| SFL22-125C | Raleigh      | stads fiets  | M    | Noir     | 3x Sturmey |
 
 <!--EndFragment-->
