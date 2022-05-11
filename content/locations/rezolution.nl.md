@@ -1,5 +1,5 @@
 ---
-title: Rezolution
+title: Rezolution - Onder constructie
 idInSheet: rezolution
 location: '{"type":"Point","coordinates":[4.3336681,50.8458073]}'
 info: |-
