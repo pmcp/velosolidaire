@@ -1,6 +1,6 @@
 ---
-title: Inscrits-toi
-intro: schrijf je in ofzo
+title: Inscription
+intro: Pour vous inscrire
 image: null
 formActive: true
 form:
@@ -31,4 +31,4 @@ form:
 formSend: Merci pour votre demande d’inscription à Vélo Solidaire, nous traitons
   votre demande et vous y donnerons accès le plus rapidement possible.
 ---
-met wat content
+Remplissez le questionnaire suivant, nous traitons votre demande dés que possible.
