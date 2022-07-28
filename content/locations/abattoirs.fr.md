@@ -79,20 +79,24 @@ mails:
 
       L'équipe Vélo Solidaire
 ---
-<!--StartFragment-->
+<!--StartFragment--
 
-| ID         | Marque       | Type           | Taille | Couleur  | Vitesses   |
-| ---------- | ------------ | -------------- | ------ | -------- | ---------- |
-| SFL22-115C | Novy         | Vélo de ville  | L      | Gris     | 3x Sachs   |
-| SFL22-116C | Vedette      | Vélo de ville  | M      | Vert     | 3x Sturmey |
-| SFL22-117C | Gouden Leeuw | Vélo de ville  | M      | Bleu     | 3x Sturmey |
-| SFL22-118C | Peugeot      | Vélo de ville  | M      | Vert     | 3x Sturmey |
-| SFL22-119C | Pointer      | Vélo de ville  | M      | Vert     | 3x Sturmey |
-| SFL22-120C | Limit        | Vélo de ville  | M      | Noir     | 3x Sturmey |
-| SFL22-121C | Rudge        | Vélo de ville  | M      | Vert     | 3x Sachs   |
-| SFL22-122C | Kynast       | Vélo de ville  | M      | Vert     | 3x Sturmey |
-| SFL22-123C | Balmoral     | Vélo de ville  | M      | Bordeaux | 3x Sturmey |
-| SFL22-124C | Gerdino      | Vélo de ville  | M      | Bleu     | 3x Sturmey |
-| SFL22-125C | Raleigh      | Vélo de ville  | M      | Noir     | 3x Sturmey |
+| ID         | Marque       | Modèle     | Taille | Couleur | Vitesses   |
+| ---------- | ------------ | ---------- | ------ | ------- | ---------- |
+| SFL22-094C | Rambler      | vélo ville | M      | Vert    |            |
+| SFL22-116C | Vedette      | vélo ville | M      | Vert    | 3x Sturmey |
+| SFL22-117C | Gouden Leeuw | vélo ville | M      | Bleu    | 3x Sturmey |
+| SFL22-118C | Peugeot      | vélo ville | M      | Vert    | 3x Sturmey |
+| SFL22-122C | Kynast       | vélo ville | M      | Vert    | 3x Sturmey |
+| SFL22-124C | Gerdino      | vélo ville | M      | Bleu    | 3x Sturmey |
+| SFL22-125C | Raleigh      | vélo ville | M      | Noir    | 3x Sturmey |
+| Etk22-001  |              | vélo ville | L      | Bleu    |            |
+| Etk22-002  | Decathlon    | vélo ville | S      | Rouge   |            |
+| Etk22-003  | British      | vélo ville | S      | Mauve   |            |
+| Etk22-004  | Emile        | vélo ville | S      | Bleu    |            |
+| Etk22-005  | Digit        | vélo ville | S      | Gris    |            |
+| Etk22-006  | Orbis        | vélo ville | S      | Blanc   |            |
+| Etk22-007  | Btwin        | vélo ville | S      | Gris    |            |
+| Etk22-008  | Orbis        | vélo ville | S      | Gris    |            |
 
 <!--EndFragment-->
