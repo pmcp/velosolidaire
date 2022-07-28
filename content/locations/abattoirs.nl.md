@@ -84,18 +84,22 @@ mails:
 ---
 <!--StartFragment-->
 
-| ID         | Merk         | Modele       | Maat | Kleur    | Snelheid   |
-| ---------- | ------------ | ------------ | ---- | -------- | ---------- |
-| SFL22-115C | Novy         | stads fiets  | L    | Gris     | 3x Sachs   |
-| SFL22-116C | Vedette      | stads fiets  | M    | Vert     | 3x Sturmey |
-| SFL22-117C | Gouden Leeuw | stads fiets  | M    | Bleu     | 3x Sturmey |
-| SFL22-118C | Peugeot      | stads fiets  | M    | Vert     | 3x Sturmey |
-| SFL22-119C | Pointer      | stads fiets  | M    | Vert     | 3x Sturmey |
-| SFL22-120C | Limit        | stads fiets  | M    | Noir     | 3x Sturmey |
-| SFL22-121C | Rudge        | stads fiets  | M    | Vert     | 3x Sachs   |
-| SFL22-122C | Kynast       | stads fiets  | M    | Vert     | 3x Sturmey |
-| SFL22-123C | Balmoral     | stads fiets  | M    | Bordeaux | 3x Sturmey |
-| SFL22-124C | Gerdino      | stads fiets  | M    | Bleu     | 3x Sturmey |
-| SFL22-125C | Raleigh      | stads fiets  | M    | Noir     | 3x Sturmey |
+| ID         | Merk         | Modele      | Maat | Kleur | Snelheid            |
+| ---------- | ------------ | ----------- | ---- | ----- | ------------------- |
+| SFL22-094C | Rambler      | stads fiets | M    | Groen |                     |
+| SFL22-116C | Vedette      | stads fiets | M    | Groen | 3x Sturmey          |
+| SFL22-117C | Gouden Leeuw | stads fiets | M    | Blauw | 3x Sturmey          |
+| SFL22-118C | Peugeot      | stads fiets | M    | Groen | 3x Sturmey          |
+| SFL22-122C | Kynast       | stads fiets | M    | Groen | 3x Sturmey          |
+| SFL22-124C | Gerdino      | stads fiets | M    | Blauw | 3x Sturmey          |
+| SFL22-125C | Raleigh      | stads fiets | M    | Zwart | 3x Sturmey          |
+| Etk22-001  |              | stads fiets | L    | Blauw |                     |
+| Etk22-002  | Decathlon    | stads fiets | S    | Rood  |                     |
+| Etk22-003  | British      | stads fiets | S    | Paars |                     |
+| Etk22-004  | Emile        | stads fiets | S    | Blauw |                     |
+| Etk22-005  | Digit        | stads fiets | S    | Grijs |                     |
+| Etk22-006  | Orbis        | stads fiets | S    | Wit   |                     |
+| Etk22-007  | Btwin        | stads fiets | S    | Grijs |                     |
+| Etk22-008  | Orbis        | stads fiets | S    | Grijs |  <!--EndFragment--> |
 
 <!--EndFragment-->
