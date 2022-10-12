@@ -25,14 +25,6 @@
             >
               Log In
             </button>
-
-            <nuxt-link
-              :to="`/register.${lang}`"
-              class="text-gray-600 hover:text-gray-900 mr-5 underline px-1 py-1 md:py-3 md:px-2 rounded"
-              :class="[$route.path == `/register.${lang}` ? 'border-2 bosrder-pink-500' : '']"
-            >
-              <translation :id="37" />
-            </nuxt-link>
           </div>
 
           <div class="my-4" v-show="user && content.title === 'Home'">
@@ -58,9 +50,6 @@
           <div class="prose prose-indigo prose-lg text-gray-500 mx-auto w-full">
             <nuxt-content class="prose lg:prose-md" :document="content" />
           </div>
-
-
-
           <div v-if="content.title === 'Home'" class="mt-6 grid grid-cols-1 gap-0.5 md:grid-cols-4 lg:mt-8">
             <div class="col-span-1 flex justify-center py-2 px-2 bg-gray-50">
               <img class="max-h-12 object-contain" src="~/assets/logos/solidaire.jpg" alt="Vélo Solidaire">
@@ -137,6 +126,7 @@ export default {
   },
   async asyncData({ $content, params, error, payload }) {
     if (payload) {
+      console.log(payload)
       return { content: payload }
     } else {
       const page = await $content('pages', params.page).fetch()

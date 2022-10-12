@@ -1,4 +1,4 @@
----
+    ---
 title: Contact
 intro: Inscrivez-vous ou contactez nous
 image: /img/bmbgen10439_solidaire_velo_logo_final-2-.jpg

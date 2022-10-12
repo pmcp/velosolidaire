@@ -25,7 +25,7 @@ const { format } = require('date-fns')
 const moments = [
   {
     name: { nl: 'Voormiddag', fr: 'Matin' },
-    descr: { nl: 'Van 8u30 tot 12u30', fr: 'de 8h30 a 12h30' },
+    descr: { nl: 'Van 9u30 tot 12u30', fr: 'de 9h30 a 12h30' },
     available: true,
   },
   {
@@ -35,7 +35,7 @@ const moments = [
   },
   {
     name: { nl: 'Hele dag', fr: 'Toute la journée' },
-    descr: { nl: 'Van 8u30 tot 16u30', fr: 'de 8h30 a 16h30' },
+    descr: { nl: 'Van 9u30 tot 16u30', fr: 'de 9h30 a 16h30' },
     available: true,
   },
 ]
@@ -92,10 +92,14 @@ emailFn.sendEmail = ({ copy: copy, to: to, replyTo: replyTo, subject: subject })
     }
     if (to) {
       // console.dir(mailgun.messages())
-      mg.messages.create(process.env.MAILGUN_DOMAIN, data)
-        .then((msg) => console.log(msg))
-        .catch((err) => console.log(err));
+      return mg.messages.create(process.env.MAILGUN_DOMAIN, data)
+        .then((msg) => {
+          resolve(msg);
+        })
+        .catch((err) => console.log('that', err));
     }
+
+
   })
 }
 

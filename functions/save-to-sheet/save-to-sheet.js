@@ -47,6 +47,7 @@ exports.handler = async function (event, context) {
     try {
       await emailFn.sendEmail(emailFn.getContent(b, 'confirmation'))
       // TODO: Change this to webhook flow of mailgun
+      console.log('gonna update Row')
       const updatedRow = { ...b, confirmationSend: true }
       await sheetAPI.updateRow(sheet, updatedRow)
     } catch (error) {

@@ -1,5 +1,5 @@
 ---
-title: Onthaal
+title: Home
 intro: Welkom bij Vélo Solidaire
 image: /img/christin-hume-zbuh21c9ark-unsplash.jpg
 ---
