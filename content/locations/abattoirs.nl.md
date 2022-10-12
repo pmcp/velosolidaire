@@ -88,8 +88,6 @@ mails:
 
       Het team van Vélo Solidaires
 ---
-<!--StartFragment-->
-
 | ID         | Merk         | Modele      | Maat | Kleur | Snelheid            |
 | ---------- | ------------ | ----------- | ---- | ----- | ------------------- |
 | SFL22-094C | Rambler      | stads fiets | M    | Groen |                     |

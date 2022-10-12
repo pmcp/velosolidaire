@@ -90,10 +90,6 @@ mails:
 
       L'équipe Vélo Solidaire
 ---
-<!--StartFragment--
-
-
-
 | ID         | Marque       | Modele        | Taille | Couleur | Vitesses   |
 | ---------- | ------------ | ------------- | ------ | ------- | ---------- |
 | SFL22-094C | Rambler      | Vélo de ville | M      | Vert    |            |
