@@ -1,6 +1,9 @@
 ---
+draft: false
 title: Gebruiksvoorwaarden
-intro: /
+intro: ""
+nav: true
+layout: "0"
 image: /img/20210429_090804.jpg
 formActive: false
 ---
