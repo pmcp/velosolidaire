@@ -1,3 +1,7 @@
+---
+draft: false
+nav: false
+---
     ---
 title: Contact
 intro: Inscrivez-vous ou contactez nous
