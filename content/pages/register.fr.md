@@ -1,6 +1,8 @@
 ---
 title: Inscription
 intro: Pour vous inscrire
+nav: false
+draft: true
 image: null
 formActive: true
 form:

@@ -1,6 +1,7 @@
 ---
-title: Schrijf je in
 intro: schrijf je in ofzo
+nav: false
+draft: true
 formActive: true
 form:
   - type: text
@@ -27,8 +28,9 @@ form:
   - type: text
     label: Nombre de participant.e.s estimé
     help: Nombre de participant.e.s estimé
-emailForForm: hi@maartenlauwaert.eu
 formSend: Merci pour votre demande d’inscription à Vélo Solidaire, nous traitons
   votre demande et vous y donnerons accès le plus rapidement possible.
+emailForForm: hi@maartenlauwaert.eu
+title: Schrijf je in
 ---
 met wat content
