@@ -1,6 +1,6 @@
 ---
 intro: schrijf je in ofzo
-nav: false
+nav: true
 draft: true
 formActive: true
 form:
