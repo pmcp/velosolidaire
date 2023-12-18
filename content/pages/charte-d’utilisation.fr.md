@@ -1,6 +1,7 @@
 ---
 title: Charte d’utilisation
 intro: ""
+nav: true
 image: /img/20210429_090804.jpg
 ---
 Bienvenue!
