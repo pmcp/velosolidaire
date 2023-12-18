@@ -1,7 +1,8 @@
 ---
+draft: false
 intro: schrijf je in ofzo
 nav: true
-draft: false
+layout: "1"
 formActive: false
 form:
   - type: text
