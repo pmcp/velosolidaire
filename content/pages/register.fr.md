@@ -2,9 +2,9 @@
 title: Inscription
 intro: Pour vous inscrire
 nav: false
-draft: true
+draft: false
 image: null
-formActive: true
+formActive: false
 form:
   - type: text
     label: Association

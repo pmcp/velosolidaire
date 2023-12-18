@@ -1,8 +1,8 @@
 ---
 intro: schrijf je in ofzo
 nav: true
-draft: true
-formActive: true
+draft: false
+formActive: false
 form:
   - type: text
     label: Association
@@ -32,5 +32,6 @@ formSend: Merci pour votre demande d’inscription à Vélo Solidaire, nous trai
   votre demande et vous y donnerons accès le plus rapidement possible.
 emailForForm: hi@maartenlauwaert.eu
 title: Schrijf je in
+image: /img/20210429_090804.jpg
 ---
-met wat content?
+content
