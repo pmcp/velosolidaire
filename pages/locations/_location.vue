@@ -1,18 +1,23 @@
 <template>
   <div>
-    <div class="flex flex-col md:flex-row min-h-screen">
-      <div class="pt-1 w-full">
-        <heading-two class="mb-3">
-          <translation :id="35" />
-        </heading-two>
+    <div class="pt-1 w-full mb-8">
+      <!-- Locations-->
+      <heading-two class="mb-4 mt-8">
+        <translation :id="35" />
+      </heading-two>
+      <div class="w-full grid grid-cols-1 gap-8 md:grid-cols-2">
         <locations-list class="text-sm text-gray-500 md:sticky top-20 z-20" :horizontal="true" />
-        <location-map></location-map>
-        <heading-two class="mt-5">
+        <location-map class="bg-red-400 h-40 md:h-full "></location-map>
+      </div>
+    </div>
+
+
+    <div class="w-full grid grid-cols-1 gap-8 md:grid-cols-2 mt-12">
+      <div>
+        <heading-two class="mt-4">
           <translation :id="17" />
         </heading-two>
-<!--        <location-content class="hidden md:block" :content="location" />-->
         <div>
-
           <div class="h-80 overflow-hidden" :class="{ 'h-auto': showContent }">
             <location-content :content="location" />
           </div>
@@ -24,7 +29,7 @@
             <div class="bg-gray-50 h-10">
               <button
                 @click="showContent = !showContent"
-                class="italic bg-white text-gray-500 rounded border border-gray-500 py-1 px-2 hover:bg-gray-200"
+                class="italic bg-white text-gray-500 rounded border border-gray-500 py-1 px-2 hover:bg-gray-200 mt-4"
               >
                 <translation v-if="showContent" :id="34" />
                 <translation v-else :id="33" />
@@ -35,12 +40,17 @@
         </div>
       </div>
 
-      <div class="md:pl-6 w-full">
-        <div class="sticky top-20 mb-20">
-          <booking-module />
-        </div>
+    <div class="mt-4 w-full">
+      <heading-two class="pb-4">
+        <translation :id="18" />
+      </heading-two>
+      <div class="sticky top-20 mb-20">
+
+        <booking-module />
       </div>
     </div>
+    </div>
+
   </div>
 </template>
 
