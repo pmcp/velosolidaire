@@ -55,7 +55,7 @@
 </template>
 
 <script>
-import { mapActions, mapGetters } from 'vuex'
+import { mapActions } from 'vuex'
 import HeadingTwo from '~/components/heading-two'
 import Translation from '~/components/translation'
 
@@ -69,7 +69,7 @@ export default {
       },
     ],
   },
-  async asyncData({ $content, params, error, payload }) {
+  async asyncData({ $content, params, payload }) {
     //TODO: Fix differently
     if (payload) {
       return { location: payload }
