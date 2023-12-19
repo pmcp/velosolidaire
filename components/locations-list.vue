@@ -1,7 +1,9 @@
 <template>
-  <div class="flex gap-4">
-    <div v-for="(l, key) in locations" :key="`${key}-locations`" class="flex-grow rounded-md p-px bg-gray-100 "
+  <div class="grid gap-4">
+
+    <div v-for="(l, key) in locations" :key="`${key}-locations`" class=" flex-grow rounded-md p-px bg-gray-100 "
          :class="{ 'border-2 border-pink-500': l.idInSheet === activeLocationId, 'border-2 border-gray-100': l.idInSheet !== activeLocationId }">
+
       <nuxt-link :to="l.path">
         <div
           class="rounded px-3 py-2 h-full w-full border border-gray-400 bg-white"

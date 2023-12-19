@@ -115,8 +115,17 @@ collections:
     # editor:
     #   preview: true
     fields:
+      - { label: "Draft", name: "draft", widget: "boolean", default: true, required: true, i18n: true }
       - { label: 'Title', name: 'title', widget: 'string', required: true, i18n: true }
-      - { label: 'Intro', name: 'intro', widget: 'text', i18n: true }
+      - { label: 'Intro', name: 'intro', widget: 'text', i18n: true, required: false }
+      - { label: "In navigation", name: "nav", widget: "boolean", default: false, required: true, i18n: true }
+      - { label: 'Name in navigation', name: 'navTitle', widget: 'string', i18n: true }
+      - label: "Page layout"
+        name: "layout"
+        widget: "select"
+        options:
+          - { label: "Two columns", value: "0" }
+          - { label: "One column", value: "1" }
       - { label: 'Content', name: 'body', widget: 'markdown', i18n: true }
       - label: "Featured Image"
         required: false

@@ -16,12 +16,14 @@
             $route.path == `/${p.slug}` ? 'text-pink-500  hover:text-pink-900' : 'text-gray-600 hover:text-gray-900',
           ]"
         >
-          {{ p.title }}
+          {{ p.navTitle }}
         </div>
       </nuxt-link>
     </div>
     <div class="flex flex-col md:flex-row md:justify-between md:items-center" :class="{ hidden: !user }">
       <!--      TODO: Make variabale-->
+
+
       <nuxt-link
         :to="`/locations/abattoirs.${lang}`"
         class="text-gray-600 hover:text-gray-900 mr-5 underline px-1 py-1 md:py-3 md:px-2 rounded"
@@ -57,7 +59,7 @@ export default {
   },
 
   async mounted() {
-    this.allPages = await this.$content('pages').only(['title', 'slug']).fetch()
+    this.allPages = await this.$content('pages').where({ nav: true }).only(['title', 'slug', 'navTitle']).fetch()
   },
   computed: {
     lang() {
@@ -65,7 +67,7 @@ export default {
     },
     pages() {
       if (this.allPages.length < 1) return []
-      return this.allPages.filter((p) => p.slug.slice(-2) === this.lang && (p.title !== 'Home' && !p.slug.includes("register")))
+      return this.allPages.filter((p) => p.slug.slice(-2) === this.lang && (p.title !== 'Home' && !p.slug.includes("register")) )
     },
     userBookings() {
       if (this.$store.getters.userBookings) return this.$store.getters.userBookings.length

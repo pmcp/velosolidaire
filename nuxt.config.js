@@ -13,6 +13,12 @@ module.exports = {
   components: true,
   generate: {
     crawler: false,
+    /**
+     * Retrieves the routes and payloads for the async routes.
+     *
+     * @async
+     * @returns {Array} An array of objects containing the route and payload for each location and published page.
+     */
     async routes() {
       const { $content } = require('@nuxt/content')
       const locations = await $content('locations').fetch()
@@ -46,8 +52,16 @@ module.exports = {
         }
       })
 
+
+      // Get all pages
       const pages = await $content('pages').fetch()
-      const generatedPages = pages.map((file) => {
+      console.log('PAGES LENGTH', pages.length)
+      const publishedPages = pages.filter((page) => {
+        if(page.draft) return false
+        return true
+      })
+      console.log('PUBLISHED PAGES LENGTH', publishedPages.length)
+      const generatedPages = publishedPages.map((file) => {
         return {
           route: `/${file.slug}`,
           payload: file,

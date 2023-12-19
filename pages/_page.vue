@@ -1,11 +1,20 @@
 <template>
   <main class="relative bg-gray-50">
     <div v-if="content.image">
-      <div class="flex flex-col md:flex-row">
-        <div class="relative flex md:w-1/2 mr-4 bg-pink-500 justify-items-stretch items-stretch">
-          <img class="object-cover" :src="content.image" alt="" />
+
+      <div class="flex flex-col"
+       :class="[(content.layout === '1') ? '' : 'md:flex-row']">
+
+
+
+        <div
+          class="relative flex mr-4 bg-pink-500 justify-items-stretch items-stretch"
+          :class="[(content.layout === '1') ? 'w-full h-128' : 'md:w-1/2']"
+        >
+          <img class="object-cover w-full" :src="content.image" alt="" />
         </div>
-        <div class="prose pb-20 md:w-1/2 ml-4 mt-5 flex flex-col ">
+        <div class="prose pb-20 ml-4 mt-5 flex flex-col "
+          :class="[(content.layout ===  '1')? 'w-full' : 'md:w-1/2']">
           <heading-one>
             {{ content.intro }}
           </heading-one>
