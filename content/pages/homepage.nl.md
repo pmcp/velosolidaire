@@ -2,7 +2,8 @@
 draft: false
 title: Home
 intro: Welkom bij Vélo Solidaire
-nav: false
+nav: true
+navTitle: Home
 layout: "0"
 image: /img/christin-hume-zbuh21c9ark-unsplash.jpg
 ---
