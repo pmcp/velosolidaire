@@ -1,6 +1,7 @@
 ---
 draft: false
 nav: false
+navTitle: Contact
 ---
     ---
 title: Contact

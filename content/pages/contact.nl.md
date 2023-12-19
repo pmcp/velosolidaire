@@ -3,6 +3,7 @@ draft: false
 title: Contact
 intro: " "
 nav: false
+navTitle: Contact
 layout: "0"
 image: /img/bmbgen10439_solidaire_velo_logo_final-2-.jpg
 formActive: true
