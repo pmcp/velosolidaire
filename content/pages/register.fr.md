@@ -3,6 +3,7 @@ draft: false
 title: Inscription
 intro: Pour vous inscrire
 nav: false
+navTitle: Inscription
 image: null
 formActive: false
 form:

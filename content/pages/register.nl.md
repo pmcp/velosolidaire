@@ -33,6 +33,7 @@ formSend: Merci pour votre demande d’inscription à Vélo Solidaire, nous trai
   votre demande et vous y donnerons accès le plus rapidement possible.
 emailForForm: hi@maartenlauwaert.eu
 title: Schrijf je in
+navTitle: Schrijf je in
 image: /img/20210429_090804.jpg
 ---
 content
