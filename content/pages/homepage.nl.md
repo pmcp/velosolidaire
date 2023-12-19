@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Home
+title: Homes
 intro: Welkom bij Vélo Solidaire
 nav: true
 navTitle: Home
