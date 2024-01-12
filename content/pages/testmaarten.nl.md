@@ -1,7 +1,7 @@
 ---
 draft: false
 title: testMaarten
-nav: false
+nav: true
 navTitle: testMaarten
 layout: "1"
 image: /img/20210429_090804.jpg
