@@ -147,6 +147,10 @@
     {
       "fr": "Sélectionner",
       "nl": "Selecteer"
+    },
+    {
+      "fr": "Cet emplacement n'est pas disponible",
+      "nl": "Deze locatie is niet beschikbaar"
     }
   ]
 }

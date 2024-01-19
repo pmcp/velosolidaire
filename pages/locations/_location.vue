@@ -14,6 +14,9 @@
 
     <div class="w-full grid grid-cols-1 gap-8 md:grid-cols-2 mt-12">
       <div>
+        <div v-if="location.active" class="mt-4 font-semibold">
+          <translation :id="37" />
+        </div>
         <heading-two class="mt-4">
           <translation :id="17" />
         </heading-two>
@@ -45,7 +48,9 @@
         <translation :id="18" />
       </heading-two>
       <div class="sticky top-20 mb-20">
-
+        <div v-if="location.active" class="w-full h-full bg-gray-50 absolute top-o left-0 z-30 opacity-80 flex justify-center items-center font-semibold">
+          <translation :id="37" />
+        </div>
         <booking-module />
       </div>
     </div>

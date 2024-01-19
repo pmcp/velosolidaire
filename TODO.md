@@ -1,6 +1,11 @@
 # DOING
   
 # TODO
+- Check email nu .brussels
+- Twee weken na datum pas inhuurbaar nekkersdal 
+- Google tags toevoegen in settings
+- https://search.google.com/search-console
+
 - Mail not sending? Or not setting to true? Check flow
 - check if uploadcare works
 - Unavailable is not coming through in agenda
