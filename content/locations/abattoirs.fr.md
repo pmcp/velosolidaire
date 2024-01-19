@@ -1,5 +1,6 @@
 ---
 title: Abattoirs - LU-JE 9h30-16h30
+active: true
 idInSheet: abattoirs
 location: '{"type":"Point","coordinates":[4.3280253,50.8436959]}'
 info: |-
