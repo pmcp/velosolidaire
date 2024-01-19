@@ -42,15 +42,6 @@ mails:
       Cher/Chère %NAME%,
 
 
-      Vous avez réservé des vélos via Velos Solidaire
-
-
-      %BOOKING%
-
-
-      Cher/Chère %NAME%,
-
-
       Vous avez réservé des vélos via Vélo Solidaire.
 
 
@@ -82,7 +73,7 @@ mails:
       %BOOKING%
 
 
-      J'espère que votre réservation c'est bien déroulée. Est ce que certains vélos ont été endommagés? Veuillez dans ce cas nous transmettre par retour de cet Email les numéros des vélos endommagés (ils commencent par SFL ou ETK) ainsi que les problèmes détectés pour que nous puissions au plus vite les réparer. 
+      J'espère que votre réservation s'est bien déroulée. Est-ce que certains vélos ont été endommagés? Veuillez dans ce cas nous transmettre décrire les problèmes détectés par retour de cet Email pour que nous puissions au plus vite les réparer. 
 
 
       A tout bientôt.
@@ -90,20 +81,12 @@ mails:
 
       L'équipe Vélo Solidaire
 ---
-| ID         | Marque       | Modele        | Taille | Couleur | Vitesses   |
-| ---------- | ------------ | ------------- | ------ | ------- | ---------- |
-| SFL22-094C | Rambler      | Vélo de ville | M      | Vert    |            |
-| SFL22-116C | Vedette      | Vélo de ville | M      | Vert    | 3x Sturmey |
-| SFL22-117C | Gouden Leeuw | Vélo de ville | M      | Bleu    | 3x Sturmey |
-| SFL22-118C | Peugeot      | Vélo de ville | M      | Vert    | 3x Sturmey |
-| SFL22-122C | Kynast       | Vélo de ville | M      | Vert    | 3x Sturmey |
-| SFL22-124C | Gerdino      | Vélo de ville | M      | Bleu    | 3x Sturmey |
-| SFL22-125C | Raleigh      | Vélo de ville | M      | Noir    | 3x Sturmey |
-| Etk22-001  |              | Vélo de ville | L      | Bleu    |            |
-| Etk22-002  | Decathlon    | Vélo de ville | S      | Rouge   |            |
-| Etk22-003  | British      | Vélo de ville | S      | Mauve   |            |
-| Etk22-004  | Emile        | Vélo de ville | S      | Bleu    |            |
-| Etk22-005  | Digit        | Vélo de ville | S      | Gris    |            |
-| Etk22-006  | Orbis        | Vélo de ville | S      | Blanc   |            |
-| Etk22-007  | Btwin        | Vélo de ville | S      | Gris    |            |
-| Etk22-008  | Orbis        | Vélo de ville | S      | Gris    |            |
+M﻿atériel disponible :
+
+F﻿lotte d'apprentissage : 11 vélos Altec Metro 26''
+
+F﻿lotte de sortie : 17 vélos décathlon Elops 360 taille M
+
+C﻿asques, chasubles
+
+O﻿utils pour les petites réparations
