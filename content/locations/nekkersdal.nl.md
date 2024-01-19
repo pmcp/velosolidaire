@@ -1,5 +1,6 @@
 ---
 title: Nekkersdal
+active: false
 idInSheet: Nekkersdal
 location: '{"type":"Point","coordinates":[4.346331,50.8733201]}'
 info: L'accès à la flotte est géré par le Centre Communautaire Nekkersdal et
