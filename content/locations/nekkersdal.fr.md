@@ -2,10 +2,9 @@
 title: Nekkersdal
 idInSheet: Nekkersdal
 location: '{"type":"Point","coordinates":[4.346331,50.8733201]}'
-info: >-
-  La flotte est gérée par le Centre Communautaire Nekkersdal.
-
-  Pour une bonne organisation, la flotte doit être réservée minimum 2 semaines à l'avance.
+info: L'accès à la flotte est géré par le Centre Communautaire Nekkersdal et
+  c'est la KWB (qui occupe la cave du GC Nekkersdal) qui accepte de nous
+  réserver un espace pour la flotte.
 street: Avenue Emile Bockstael 107
 zip: 1020
 city: Laeken
@@ -86,3 +85,6 @@ V﻿élos disponibles :
 F﻿lotte d'apprentissage : 11 vélos Oxford 26''
 
 F﻿lotte de sortie : 15 vélos taille M (à venir)
+
+L'accès à la flotte est géré par le Centre Communautaire Nekkersdal.
+Pour une bonne organisation, la flotte doit être réservée minimum 2 semaines à l'avance.
