@@ -122,12 +122,8 @@ export const actions = {
     await dispatch('getTranslations')
     // await dispatch('getLocations')
     const allLocations = await this.$content('locations').fetch()
-    // TODO: This solution (altho not scalable), might be too easy
-    // Can make it scalable and more cool looking with a reducer
-    // But don't really have the time. Almost holiday!
-    // ¯\_(ツ)_/¯
-    // Will probably drive for three weeks through Croatia
-    // ᕕ( ᐛ )ᕗ
+    // TODO: This solution might be too easy
+    // Can make it scalable with a reducer
 
     const locationsFR = allLocations.filter((l) => l.slug.slice(-2) === 'fr')
     const locationsNL = allLocations.filter((l) => l.slug.slice(-2) === 'nl')
@@ -181,12 +177,9 @@ export const actions = {
 
   async getLocations({ commit }) {
     const allLocations = await this.$content('locations').fetch()
-    // TODO: This solution (altho not scalable), might be too easy
-    // Can make it scalable and more cool looking with a reducer
-    // But don't really have the time. Almost holiday!
-    // ¯\_(ツ)_/¯
-    // Will probably drive for three weeks through Croatia
-    // ᕕ( ᐛ )ᕗ
+    // TODO: This solution might be too easy
+    // Can make it scalable with a reducer
+
     const locationsFR = allLocations.filter((l) => l.slug.slice(-2) === 'fr')
     const locationsNL = allLocations.filter((l) => l.slug.slice(-2) === 'nl')
 
@@ -358,6 +351,10 @@ export const getters = {
   },
 
   disabledDates: (state, getters) => {
+    // Get the dates settings for this location
+    const datesSettingsForActiveLocation = state.activeLocationId
+    console.log(datesSettingsForActiveLocation)
+
     // Filter out only bookings with the active location
     const filteredBookings = getters.combinedBookings.filter((b) => b.location === state.activeLocationId)
     const filteredUnavailable = state.unavailable.filter((b) => b.location === state.activeLocationId)
@@ -385,9 +382,6 @@ export const getters = {
 
     // Create an array with only the dates
     const onlyDates = onlyDisabledDates.map((b, key) => new Date(b[0]))
-
-
-
 
     // Add dates to disabled dates
     return [
