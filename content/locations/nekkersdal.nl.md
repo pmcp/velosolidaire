@@ -81,7 +81,7 @@ mails:
       L'équipe Vélo Solidaire
     subject: Terugbrengen van je reservering
 ---
-V﻿élos disponibles:
+V﻿élos disponibles: 
 
 F﻿lotte d'apprentissage : 11 vélos Oxford 26''
 
