@@ -55,16 +55,10 @@ module.exports = {
 
       // Get all pages
       const pages = await $content('pages').fetch()
-      console.log('PAGES LENGTH', pages.length)
-      const publishedPages = pages.filter((page) => {
-        if(page.draft) return false
-        return true
-      })
-      console.log('PUBLISHED PAGES LENGTH', publishedPages.length)
-      const generatedPages = publishedPages.map((file) => {
+      const generatedPages = pages.map((file) => {
         return {
           route: `/${file.slug}`,
-          payload: file,
+          payload: file
         }
       })
       return [...generatedLocations, ...generatedPages]
