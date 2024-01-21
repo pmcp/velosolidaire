@@ -51,7 +51,6 @@
         <div v-if="!location.active" class="w-full h-full bg-gray-50 absolute top-o left-0 z-30 opacity-80 flex justify-center items-center font-semibold">
           <translation :id="37" />
         </div>
-        <pre>Safety Period: {{ location.safetyPeriod }}</pre>
         <booking-module :safetyPeriod="location.safetyPeriod || 0"/>
       </div>
     </div>

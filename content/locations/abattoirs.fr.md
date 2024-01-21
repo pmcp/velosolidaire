@@ -2,7 +2,7 @@
 title: Abattoirs - LU-JE 9h30-16h30
 active: true
 idInSheet: abattoirs
-safetyPeriod: 5
+safetyPeriod: 0
 location: '{"type":"Point","coordinates":[4.3280253,50.8436959]}'
 info: |-
   Géré par Cultureghem

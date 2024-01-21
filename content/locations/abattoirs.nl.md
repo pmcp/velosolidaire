@@ -2,7 +2,7 @@
 title: Abattoirs - MA-DO 9u30-16u30
 active: true
 idInSheet: abattoirs
-safetyPeriod: 5
+safetyPeriod: 0
 location: '{"type":"Point","coordinates":[4.3280253,50.8436959]}'
 info: |-
   Beheer door Cultureghem

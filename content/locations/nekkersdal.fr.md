@@ -2,6 +2,7 @@
 title: Nekkersdal
 active: false
 idInSheet: Nekkersdal
+safetyPeriod: 14
 location: '{"type":"Point","coordinates":[4.346331,50.8733201]}'
 info: L'accès à la flotte est géré par le Centre Communautaire Nekkersdal et
   c'est la KWB (qui occupe la cave du GC Nekkersdal) qui accepte de nous
