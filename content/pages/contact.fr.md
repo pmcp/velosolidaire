@@ -1,27 +1,25 @@
 ---
 draft: false
+title: Contact
 nav: false
 navTitle: Contact
 ---
-    ---
-title: Contact
-intro: Inscrivez-vous ou contactez nous
-image: /img/bmbgen10439_solidaire_velo_logo_final-2-.jpg
-form:
-  - type: text
-    label: Nom de l'association
-  - type: text
-    label: Nom de la personne de contact
-  - type: email
-    label: Adresse mail de la personne de contact
-  - type: text
-    label: Téléphone de la personne de contact
-formSend: >-
-  Merci de votre demande d'inscription à la flotte de Vélos Solidaires! Nous
-  traitons votre demande dés que possible.
+V﻿ous êtes intéressé.e par les parcours Vélo Solidaire ? Veuillez remplir [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSeeFDRdUBAyHJ_UOU4R6lsb7VYAh_v39RN3zw9hxA-YE6lblw/viewform) et nous vous recontacterons pour discuter de votre projet ensemble.
 
-  Au plaisir de vous retrouver à vélo!
----
-Demande d'inscription, d’informations, problème avec les réservations, problème avec les vélos contactez nous via
 
-velosolidaire@cyclo.org. Nous vous répondrons dés que possible.
+
+P﻿our toute autre question :
+
+C﻿écile Van Overstraeten
+
+c﻿ecile@cyclo.org
+
+0﻿470/94 50 35
+
+
+
+N﻿oémie Dembour
+
+n﻿.dembour@provelo.org
+
+0﻿474/23 98 47
