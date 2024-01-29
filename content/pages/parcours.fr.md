@@ -18,13 +18,16 @@ V﻿ous avez besoin de :
 
 ## A﻿voir accès à des vélos
 
+* R﻿éservation d'une flotte
 
+  P﻿our avoir accès à notre [page de réservation de flotte](https://www.velosolidaire.brussels/locations/abattoirs.fr), veuillez d'abord envoyer votre demande à velosolidaire@cyclo.org 
+* I﻿nstallation d'une flotte chez vous
+
+  V﻿ous avez de la place dans vos locaux et vous êtes disposé à y accueillir une flotte qui serait ouverte à d'autres associations ? Contactez-nous par mail velosolidaire@cyclo.org !
 
 ## R﻿éparer des vélos*
 
 \*Seulement pour des vélos remis dans le cadre de Vélos Solidaire les années précédentes
-
-
 
 ## A﻿pprendre à un groupe à pédaler
 
@@ -35,3 +38,7 @@ V﻿ous avez besoin de :
 
 
 ## P﻿roposer des sorties à ses participant.e.s
+
+https://bikeexperience.brussels/
+
+https://www.provelo.org/services/balades-programmees/
