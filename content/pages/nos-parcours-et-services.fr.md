@@ -1,6 +1,6 @@
 ---
 title: Nos parcours et services
-nav: false
+nav: true
 navTitle: parcours-services
 ---
 ## Nos parcours pour votre public
