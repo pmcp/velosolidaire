@@ -23,4 +23,8 @@ Vélo Solidaire est un projet porté par CyCLO, les Ateliers de la rue Voot et P
 
 ![](/img/logo-cyclo.png)
 
+
+
+![](/img/voot_noir-h-1.png)
+
 ![](/img/logo-bxl-mob.png)
