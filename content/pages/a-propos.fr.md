@@ -17,11 +17,7 @@ R﻿apport d'activité
 
 E﻿tude d'impact
 
-
-
 Vélo Solidaire est un projet porté par CyCLO, les Ateliers de la rue Voot et Pro Velo et financé par Bruxelles Mobilité.
-
-
 
 ![](/img/logo-pro-vélo.png)
 
