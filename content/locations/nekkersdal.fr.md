@@ -1,5 +1,5 @@
 ---
-title: Nekkersdal
+title: Flotte de Nekkersdal
 active: false
 idInSheet: Nekkersdal
 safetyPeriod: 14
@@ -24,12 +24,12 @@ mails:
       %BOOKING%
 
 
-      Le jour de votre réservation, vous devrez vous rendre dans les locaux du Gemeenschapcentrum Nekkersdal, vous présenter à l'accueil et demander l'accès aux vélos solidaires en mentionnant votre nom et votre association.
+      Le jour de votre réservation, vous devrez vous rendre dans les locaux du Gemeenschapcentrum Nekkersdal, vous présenter à l'accueil et demander l'accès à la flotte de Vélo Solidaire en mentionnant votre nom et votre association.
        
       La personne de l'accueil vous accompagnera jusqu'à la cave où se trouve la flotte de Vélo Solidaire.
 
 
-      Quand vous avez terminé, c'est à nouveau la personne de l'accueil qui vous donnera accès à la cave. Remettez les vélos à leur place et si un vélo était défectueux, rangez le dans l'espace prévu à cet effet et dites le nous!
+      Quand vous avez terminé, c'est à nouveau la personne de l'accueil qui vous donnera accès à la cave. Remettez les vélos à leur place et si un vélo était défectueux, rangez-le dans l'espace prévu à cet effet et dites-le nous!
 
 
       Bonne route, 
@@ -49,12 +49,12 @@ mails:
       %BOOKING%
 
 
-      Le jour de votre réservation, vous devrez vous rendre dans les locaux du Gemeenschapcentrum Nekkersdal, vous présenter à l'accueil et demander l'accès aux vélos solidaires en mentionnant votre nom et votre association.
+      Le jour de votre réservation, vous devrez vous rendre dans les locaux du Gemeenschapcentrum Nekkersdal, vous présenter à l'accueil et demander l'accès à la flotte de Vélo Solidaire en mentionnant votre nom et votre association.
        
       La personne de l'accueil vous accompagnera jusqu'à la cave où se trouve la flotte de Vélo Solidaire.
 
 
-      Quand vous avez terminé, c'est à nouveau la personne de l'accueil qui vous donnera accès à la cave. Remettez les vélos à leur place et si un vélo était défectueux, rangez le dans l'espace prévu à cet effet et dites le nous!
+      Quand vous avez terminé, c'est à nouveau la personne de l'accueil qui vous donnera accès à la cave. Remettez les vélos à leur place et si un vélo était défectueux, rangez-le dans l'espace prévu à cet effet et dites-le nous!
 
 
       Bonne route, 
@@ -74,7 +74,7 @@ mails:
       %BOOKING%
 
 
-      J'espère que votre réservation s'est bien déroulée. Est-ce que certains vélos ont été endommagés? Veuillez dans ce cas nous transmettre décrire les problèmes détectés par retour de cet Email pour que nous puissions au plus vite les réparer. 
+      J'espère que votre réservation s'est bien déroulée. Est-ce que certains vélos ont été endommagés? Veuillez dans ce cas nous décrire les problèmes détectés par retour de cet Email pour que nous puissions au plus vite les réparer. 
 
 
       A tout bientôt.
