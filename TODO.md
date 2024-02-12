@@ -1,6 +1,28 @@
 # DOING
-  
+
 # TODO
+
+- Logos aanpasbaar maken
+    - Module maken in de admin
+- NU: WEGNEMEN
+- Navigatie: Uitleenmodule nav in component, extra nav
+    - 1 pagina in de hoofdnavigatie “reservation”
+        - Daaronder mini nav met “charte dutilisation “ + Nouvelle res + my res
+        - Op die pagina de login knop
+    -
+- Nouvelle reservation : wegnemen op home
+
+- Mogelijkheid om PDF op te laden + download link
+- Navigatie volgorde aanpasbaar
+- Matériel disponible dans cette Vélotek
+    - Verwijderen
+- Toon meer / toon minder Omdraaien
+
+
+
+
+
+
 - Check email nu .brussels
 - Twee weken na datum pas inhuurbaar nekkersdal 
 - Google tags toevoegen in settings

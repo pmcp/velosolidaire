@@ -7,7 +7,7 @@
       </heading-two>
       <div class="w-full grid grid-cols-1 gap-8 md:grid-cols-2">
         <locations-list class="text-sm text-gray-500 md:sticky top-20 z-20" :horizontal="true" />
-        <location-map class="bg-red-400 h-40 md:h-full "></location-map>
+        <location-map class="h-40 md:h-full "></location-map>
       </div>
     </div>
 
