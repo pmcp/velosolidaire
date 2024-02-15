@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Homepage
 intro: ""
 layout: "0"
 elements:
