@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-row justify-between">
-    <div class="flex flex-col md:flex-row md:justify-between md:items-center" :class="{ hidden: !user }">
+    <div class="flex flex-row md:justify-between md:items-center" :class="{ hidden: !user }">
       <nuxt-link
         :to="`/locations/abattoirs.${lang}`"
         class="text-gray-600 hover:text-gray-900 mr-5 underline px-1 py-1 md:py-2 md:px-2 rounded"
@@ -19,7 +19,7 @@
       </nuxt-link>
 
     </div>
-    <user />
+<!--    <user />-->
   </div>
 </template>
 

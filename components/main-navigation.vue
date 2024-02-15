@@ -18,7 +18,7 @@
       </nuxt-link>
     </div>
 
-    <div class="py-2 flex flex-col md:flex-row justify-between md:justify-center">
+    <div class=" flex flex-col md:flex-row justify-between md:justify-center">
       <user />
       <language-toggle class="ml-5" />
     </div>
