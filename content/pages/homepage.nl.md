@@ -1,6 +1,6 @@
 ---
 title: Homepage
-intro: ""
+intro: Welkom bij Vélo Solidaire
 layout: "0"
 elements:
   - type: text
