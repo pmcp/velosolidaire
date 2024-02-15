@@ -5,7 +5,14 @@
     {
       "titleFr": "asfd",
       "titleNl": "sdfsdf",
-      "page": "Gebruiksvoorwaarden"
+      "page": "charte-d’utilisation",
+      "label.fr": "test FR",
+      "label.nl": "test NL"
+    },
+    {
+      "label.fr": "test 2 FR",
+      "label.nl": "test 2 NL",
+      "page": "nos-parcours-et-services"
     }
   ]
 }
