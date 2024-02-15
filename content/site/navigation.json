@@ -17,13 +17,6 @@
       "page": "nos-parcours-et-services",
       "labelfr": "Test 2 FR",
       "labelnl": "Test 2 NL"
-    },
-    {
-      "label.fr": "Bookings FR",
-      "label.nl": "Bookings NL",
-      "page": "bookings",
-      "labelfr": "Bookings FR",
-      "labelnl": "Bookings NL"
     }
   ]
 }
