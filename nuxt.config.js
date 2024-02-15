@@ -148,7 +148,10 @@ module.exports = {
   /*
    ** Nuxt.js modules
    */
-  modules: ['@nuxt/content', 'nuxt-purgecss', 'nuxt-highcharts'],
+  modules: ['@nuxt/content', 'nuxt-purgecss', 'nuxt-highcharts', '@nuxtjs/markdownit'],
+  markdownit: {
+    runtime: true // Support `$md()`
+  },
   /*
    ** Build configuration
    */

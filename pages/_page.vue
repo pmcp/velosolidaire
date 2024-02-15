@@ -1,84 +1,52 @@
 <template>
   <main class="relative bg-gray-50">
+
     <div v-if="content.image">
 
       <div class="flex flex-col"
        :class="[(content.layout === '1') ? '' : 'md:flex-row']">
-
-
-
         <div
           class="relative flex mr-4 bg-pink-500 justify-items-stretch items-stretch"
           :class="[(content.layout === '1') ? 'w-full h-128' : 'md:w-1/2']"
         >
           <img class="object-cover w-full" :src="content.image" alt="" />
         </div>
-        <div class="prose pb-20 ml-4 mt-5 flex flex-col "
+        <div class="prose pb-20 ml-4 flex flex-col "
           :class="[(content.layout ===  '1')? 'w-full' : 'md:w-1/2']">
-          <heading-one>
+          <heading-one v-if="content.title !== 'Home'">
             {{ content.intro }}
           </heading-one>
-          <div v-show="!user && content.title === 'Home'">
-            <button
-              @click.prevent="openLogin"
-              class="
-                bg-pink-100
-                border-2
-                text-pink-500
-                border-pink-500
-                hover:bg-pink-500 hover:text-pink-100
-                rounded
-                p-2
-                my-4
-              "
-            >
-              Log In
-            </button>
-          </div>
-
-          <div class="my-4" v-show="user && content.title === 'Home'">
-            <nuxt-link
-
-              :to="`/locations/abattoirs.${lang}`"
-              class="
-                bg-pink-100
-                border-2
-                text-pink-500
-                border-pink-500
-                hover:bg-pink-500 hover:text-pink-100
-                rounded
-                p-2
-                w-auto
-
-              "
-            >
-              <translation :id="14" class="" />
-            </nuxt-link>
-          </div>
-
           <div class="prose prose-indigo prose-lg text-gray-500 mx-auto w-full">
-            <nuxt-content class="prose lg:prose-md" :document="content" />
+            <div v-for="(element, key) in content.elements" :key="`el${key}`">
+              <div v-if="element.type === 'text'" class="prose lg:prose-md" v-html="$md.render(element.markdown)"></div>
+              <logos v-if="element.type === 'logos'" :logos="element.logo"/>
+
+              <div v-if="element.type === 'buttons'" class="flex flex-row flex-wrap w-full gap-2">
+                <div v-for="(b, key) in element.button" :key="`button-${key}`">
+
+                  <a v-if="b.download" :href="b.download" download class="group hover:bg-pink-700  px-1 pb-1 md:pb md:px-2 rounded border-2 border-pink-500" style="text-decoration: none !important">
+                    <span class="prose text-gray-600 group-hover:text-gray-100">{{ b.label }}</span>
+                  </a>
+
+                  <a v-else :href="b.link" target="_blank" class="group hover:bg-pink-700 px-1 pb-1 md:pb md:px-2 rounded border-2 border-pink-500" style="text-decoration: none !important">
+                    <span class="prose text-gray-600 group-hover:text-gray-100">{{ b.label }}</span>
+                  </a>
+                </div>
+
+
+              </div>
+
+
+            </div>
           </div>
-          <div v-if="content.title === 'Home'" class="mt-6 grid grid-cols-1 gap-0.5 md:grid-cols-4 lg:mt-8">
-            <div class="col-span-1 flex justify-center py-2 px-2 bg-gray-50">
-              <img class="max-h-12 object-contain" src="~/assets/logos/solidaire.jpg" alt="Vélo Solidaire">
-            </div>
-            <div class="col-span-1 flex justify-center py-2 px-2 bg-gray-50 ">
-              <img class="max-h-12 object-contain" src="~/assets/logos/provelo.png" alt="Provelo">
-            </div>
-            <div class="col-span-1 flex justify-center py-2 px-2 bg-gray-50">
-              <img class="max-h-12 object-contain" src="~/assets/logos/ateliers.png" alt="Ateliers ">
-            </div>
-            <div class="col-span-1 flex justify-center py-2 px-2 bg-gray-50">
-              <img class="max-h-12 object-contain" src="~/assets/logos/bruxellesmobilite.png" alt="Bruxelles Mobilite">
-            </div>
-          </div>
+
+
         </div>
       </div>
     </div>
-
     <div v-else>
       <div class="prose text-base max-w-prose pt-10">
+
         <h1
           class="
             py-5
@@ -95,13 +63,26 @@
         >
           <span class="block xl:inline whitespace-pre">{{ content.title }}</span>
         </h1>
-        <nuxt-content :document="content" />
-        <div v-if="content.formActive">
-          <register-form v-if="!formIsSend" @sendForm="sendForm" class="my-10" :form="content.form" :title="content.slug" />
-          <div v-else>
-            {{ content.formSend}}
+
+        <div v-for="(element, key) in content.elements" :key="`el${key}`">
+          {{ element }}
+
+          <div v-if="element.type === 'text'" class="prose lg:prose-md" v-html="$md.render(element.markdown)"></div>
+          <logos v-if="element.type === 'logos'" :logos="element.logo"/>
+
+          <div v-if="element.type === 'buttons'">
+            {{ element }}
+
           </div>
         </div>
+
+        <!--        <nuxt-content :document="content" />-->
+<!--        <div v-if="content.formActive">-->
+<!--          <register-form v-if="!formIsSend" @sendForm="sendForm" class="my-10" :form="content.form" :title="content.slug" />-->
+<!--          <div v-else>-->
+<!--            {{ content.formSend}}-->
+<!--          </div>-->
+<!--        </div>-->
       </div>
     </div>
   </main>
@@ -115,10 +96,7 @@ export default {
   computed: {
     lang() {
       return this.$store.state.lang
-    },
-    ...mapGetters({
-      user: 'auth/user',
-    })
+    }
   },
   data  () {
     return {
