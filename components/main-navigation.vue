@@ -31,7 +31,6 @@ import Vue from 'vue'
 export default {
   data() {
     return {
-      allPages: [],
       navigation: null
     }
   },
@@ -46,14 +45,6 @@ export default {
     lang() {
       return this.$store.state.lang
     },
-    nav() {
-      console.log(this.navigation)
-      return this.navigation;
-    },
-    // pages() {
-    //   if (this.allPages.length < 1) return []
-    //   return this.allPages.filter((p) => p.slug.slice(-2) === this.lang && (p.title !== 'Home' && !p.slug.includes("register")) )
-    // },
     userBookings() {
       if (this.$store.getters.userBookings) return this.$store.getters.userBookings.length
     },

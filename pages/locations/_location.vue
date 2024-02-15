@@ -1,6 +1,9 @@
 <template>
   <div>
     <div class="pt-1 w-full mb-8">
+      <div class="w-full flex justify-center">
+        <app-navigation></app-navigation>
+      </div>
       <!-- Locations-->
       <heading-two class="mb-4 mt-8">
         <translation :id="35" />

@@ -1,6 +1,6 @@
 <template>
   <div class="bg-gray-50">
-    <div class="bg-white md:sticky top-0 z-50 shadow-sm mb-5">
+    <div class="bg-white md:sticky top-0 z-50 shadow-sm mb-2">
       <div class="relative max-w-6xl mx-auto px-4">
         <!-- TODO: Had to put this in client only because of hidration issues: should optimize -->
         <client-only>

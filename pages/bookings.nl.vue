@@ -1,6 +1,8 @@
 <template>
   <main class="flex flex-col mt-5">
-    
+    <div class="w-full flex justify-center shadow-sm mb-5">
+      <app-navigation></app-navigation>
+    </div>
     
     
       <h1 class="text-xl py-5"><translation :id="7"/></h1>

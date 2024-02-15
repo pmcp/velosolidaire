@@ -1,5 +1,8 @@
 <template>
-  <main class="flex flex-col mt-5">
+  <main class="flex flex-col">
+    <div class="w-full flex justify-center">
+      <app-navigation></app-navigation>
+    </div>
     <h1 class="text-xl py-5"><translation :id="7" /></h1>
     <client-only>
       <bookings-all :bookings="userBookings" />

@@ -3,13 +3,11 @@
   "page": "Contact",
   "navigation": [
     {
-      "labelfrddd": "fr 1",
       "labelnl": "nl 1",
       "page": "charte-d’utilisation",
       "labelfr": "fr 1"
     },
     {
-      "labelfrddd": "bookings fr",
       "labelnl": "bookings nl",
       "page": "bookings",
       "labelfr": "bookings fr"
