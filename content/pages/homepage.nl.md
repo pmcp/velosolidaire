@@ -19,6 +19,12 @@ elements:
       - name: logo 2
         link: https://www.google.com/
         image: /img/logotype_jaune-1-.png
+  - type: buttons
+    button:
+      - label: test link
+        link: https://www.google.com/
+      - label: test dowload
+        download: /img/20231120_invoice_tml_02.pdf
 image: /img/20210429_090804.jpg
 formActive: false
 ---
