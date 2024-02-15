@@ -5,7 +5,9 @@
     {
       "titleFr": "asfd",
       "titleNl": "sdfsdf",
-      "page": "Gebruiksvoorwaarden"
+      "page": "Gebruiksvoorwaarden",
+      "label.fr": "test FR",
+      "label.nl": "test NL"
     }
   ]
 }
