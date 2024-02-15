@@ -2,45 +2,22 @@
   <div class="flex flex-row justify-between">
     <!-- TODO: Problems with hydration, so made it client only. Makes no sense. -->
 
+<!--    <pre>{{ navigation }}</pre>-->
+<!--    <pre>{{ allPages }}</pre>-->
     <!-- HINT: If you put a v-if on a nuxt-link, it breaks hydration, so I'm using display none (class 'hidden') -->
     <div class="flex flex-col md:flex-row md:justify-between md:items-center">
-      <nuxt-link :to="`/homepage.${lang}`">
-        <span class="underline text-gray-600 hover:text-gray-900 mr-5">Home</span>
-      </nuxt-link>
-
-
-      <nuxt-link v-for="(p, key) in pages" :key="`navPages-${key}`" :to="`/${p.slug}`" class="flex">
+      <nuxt-link v-for="(p, key) in navigation" :key="`navPages-${key}`" :to="`/${p.page}.${lang}`" class="flex">
         <div
           class="underline mr-5"
           :class="[
-            $route.path == `/${p.slug}` ? 'text-pink-500  hover:text-pink-900' : 'text-gray-600 hover:text-gray-900',
+            $route.path == `/${p.page}.${lang}` ? 'text-pink-500  hover:text-pink-900' : 'text-gray-600 hover:text-gray-900',
           ]"
         >
-          {{ p.navTitle }}
+          {{ p[`label${lang}`] }}
         </div>
       </nuxt-link>
     </div>
-    <div class="flex flex-col md:flex-row md:justify-between md:items-center" :class="{ hidden: !user }">
-      <!--      TODO: Make variabale-->
 
-
-      <nuxt-link
-        :to="`/locations/abattoirs.${lang}`"
-        class="text-gray-600 hover:text-gray-900 mr-5 underline px-1 py-1 md:py-3 md:px-2 rounded"
-        :class="[$route.path.includes('/locations/') ? 'border-2 border-pink-500' : '']"
-      >
-        <translation :id="14" class="" />
-      </nuxt-link>
-
-      <!-- HINT: If you put a v-if on a nuxt-link, it breaks hydration, so I'm using display none (class 'hidden') -->
-      <nuxt-link
-        :to="`/bookings.${lang}`"
-        class="text-gray-600 hover:text-gray-900 mr-5 underline px-1 py-1 md:py-3 md:px-2 rounded"
-        :class="[$route.path == `/bookings.${lang}` ? 'border-2 border-pink-500' : '']"
-      >
-        <translation :id="7" /> ({{ userBookings }})
-      </nuxt-link>
-    </div>
     <div class="py-2 flex flex-col md:flex-row justify-between md:justify-center">
       <user />
       <language-toggle class="ml-5" />
@@ -55,20 +32,28 @@ export default {
   data() {
     return {
       allPages: [],
+      navigation: null
     }
   },
 
   async mounted() {
-    this.allPages = await this.$content('pages').where({ nav: true }).only(['title', 'slug', 'navTitle']).fetch()
+    // this.allPages = await this.$content('pages').only(['title', 'slug', 'navTitle']).fetch()
+    const nav = await this.$content('site/navigation').fetch()
+    this.navigation = nav.navigation
+
   },
   computed: {
     lang() {
       return this.$store.state.lang
     },
-    pages() {
-      if (this.allPages.length < 1) return []
-      return this.allPages.filter((p) => p.slug.slice(-2) === this.lang && (p.title !== 'Home' && !p.slug.includes("register")) )
+    nav() {
+      console.log(this.navigation)
+      return this.navigation;
     },
+    // pages() {
+    //   if (this.allPages.length < 1) return []
+    //   return this.allPages.filter((p) => p.slug.slice(-2) === this.lang && (p.title !== 'Home' && !p.slug.includes("register")) )
+    // },
     userBookings() {
       if (this.$store.getters.userBookings) return this.$store.getters.userBookings.length
     },

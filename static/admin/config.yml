@@ -56,6 +56,33 @@ collections:
             fields:
               - {label: FR, name: fr, widget: string}
               - {label: NL, name: nl, widget: string}
+      - label: 'Navigation'
+        name: 'navigation'
+        file: 'content/site/navigation.json'
+        format: 'json'
+        i18n: true
+        editor:
+          preview: false
+        fields:
+          - label: 'Navigation item'
+            name: 'navigation'
+            widget: 'list'
+            summary: '{{fields.page}}'
+            collapsed: false
+            fields:
+              - label: "Label Fr"
+                name: "labelfr"
+                widget: "string"
+              - label: "Label Nl"
+                name: "labelnl"
+                widget: "string"
+              - label: "Page"
+                name: "page"
+                widget: "relation"
+                collection: "pages"
+                search_fields: [ "{{title}}" ]
+                value_field: "{{slug}}"
+                display_fields: ["{{title}}"]
   - name: 'locations'
     i18n: true
     label: 'Locations'
@@ -121,8 +148,6 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string', required: true, i18n: true }
       - { label: 'Intro', name: 'intro', widget: 'text', i18n: true, required: false }
-      - { label: "In navigation", name: "nav", widget: "boolean", default: false, required: true, i18n: true }
-      - { label: 'Name in navigation', name: 'navTitle', widget: 'string', i18n: true }
       - label: "Page layout"
         name: "layout"
         widget: "select"

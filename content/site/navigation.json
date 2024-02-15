@@ -1,17 +1,13 @@
 {
-  "label": "sdf",
-  "page": "Contact",
   "navigation": [
     {
-      "titleFr": "asfd",
-      "titleNl": "sdfsdf",
       "page": "charte-d’utilisation",
-      "label.fr": "test FR",
-      "label.nl": "test NL"
+      "labelfr": "test FR",
+      "labelnl": "test NL"
     },
     {
-      "label.fr": "test 2 FR",
-      "label.nl": "test 2 NL",
+      "labelfr": "test 2 FR",
+      "labelnl": "test 2 NL",
       "page": "nos-parcours-et-services"
     }
   ]

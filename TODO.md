@@ -1,10 +1,10 @@
 # DOING
-
+- Logos aanpasbaar maken    
+- Module maken in de admin
 # TODO
 
-- Logos aanpasbaar maken
-    - Module maken in de admin
-- NU: WEGNEMEN
+
+
 - Navigatie: Uitleenmodule nav in component, extra nav
     - 1 pagina in de hoofdnavigatie “reservation”
         - Daaronder mini nav met “charte dutilisation “ + Nouvelle res + my res
