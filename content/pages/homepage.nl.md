@@ -19,5 +19,6 @@ elements:
       - name: logo 2
         link: https://www.google.com/
         image: /img/logotype_jaune-1-.png
+image: /img/20210429_090804.jpg
 formActive: false
 ---
