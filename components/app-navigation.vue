@@ -17,8 +17,9 @@
       >
         <translation :id="7" /> ({{ userBookings }})
       </nuxt-link>
-      <user />
+
     </div>
+    <user />
   </div>
 </template>
 

@@ -1,10 +1,10 @@
 export default function ({ route, store, redirect }) {
 
-	const safeRoute = '/homepage.' + store.state.lang
+	const safeRoute = '/bookings.' + store.state.lang
 	if (route.path === '/') {
 		return redirect(safeRoute)
 	} else {
-		if (!store.state.auth.user && ( route.path.includes("locations") || route.path.includes("bookings"))) {
+		if (!store.state.auth.user && ( route.path.includes("locations"))) {
 			return redirect(safeRoute)
 		}
 	}
