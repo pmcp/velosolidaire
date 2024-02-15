@@ -3,19 +3,7 @@
 
 
 
-- Mogelijkheid om PDF op te laden + download link
-- Navigatie volgorde aanpasbaar
-- Matériel disponible dans cette Vélotek
-    - Verwijderen
-- Toon meer / toon minder Omdraaien
-
-
-
-
-
-
-- Check email nu .brussels
-- Twee weken na datum pas inhuurbaar nekkersdal 
+- Check email nu .brussels 
 - Google tags toevoegen in settings
 - https://search.google.com/search-console
 

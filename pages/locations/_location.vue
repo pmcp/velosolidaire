@@ -20,9 +20,6 @@
         <div v-if="!location.active" class="mt-4 font-semibold">
           <translation :id="37" />
         </div>
-        <heading-two class="mt-4">
-          <translation :id="17" />
-        </heading-two>
         <div>
           <div class="h-80 overflow-hidden" :class="{ 'h-auto': showContent }">
             <location-content :content="location" />
@@ -37,8 +34,8 @@
                 @click="showContent = !showContent"
                 class="italic bg-white text-gray-500 rounded border border-gray-500 py-1 px-2 hover:bg-gray-200 mt-4"
               >
-                <translation v-if="showContent" :id="34" />
-                <translation v-else :id="33" />
+                <translation v-if="showContent" :id="33" />
+                <translation v-else :id="34" />
               </button>
             </div>
             <div class="bg-gray-50 h-10"></div>
