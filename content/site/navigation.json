@@ -1,5 +1,16 @@
 {
   "label": "sdf",
   "page": "Contact",
-  "navigation": []
+  "navigation": [
+    {
+      "labelfrddd": "fr 1",
+      "labelnl": "nl 1",
+      "page": "charte-d’utilisation"
+    },
+    {
+      "labelfrddd": "bookings fr",
+      "labelnl": "bookings nl",
+      "page": "bookings"
+    }
+  ]
 }
