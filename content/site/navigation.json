@@ -3,14 +3,14 @@
   "page": "Contact",
   "navigation": [
     {
-      "labelnl": "nl 1",
-      "page": "charte-d’utilisation",
-      "labelfr": "fr 1"
+      "labelnl": "Home",
+      "page": "homepage",
+      "labelfr": "Home"
     },
     {
-      "labelnl": "bookings nl",
+      "labelnl": "Bookings",
       "page": "bookings",
-      "labelfr": "bookings fr"
+      "labelfr": "Réservations"
     }
   ]
 }
