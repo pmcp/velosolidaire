@@ -1,6 +1,6 @@
 ---
 title: Homepage
-intro: ""
+intro: intro
 layout: "0"
 elements:
   - type: text
