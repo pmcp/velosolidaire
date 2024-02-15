@@ -9,6 +9,11 @@
       "labelfr": "test 2 FR",
       "labelnl": "test 2 NL",
       "page": "nos-parcours-et-services"
+    },
+    {
+      "label.fr": "Bookings FR",
+      "label.nl": "Bookings NL",
+      "page": "bookings"
     }
   ]
 }
