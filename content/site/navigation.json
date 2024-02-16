@@ -8,6 +8,11 @@
       "labelfr": "Home"
     },
     {
+      "page": "charte-d’utilisation",
+      "labelfr": "Charte d'utilisation",
+      "labelnl": "Gebruiksvoorwaarden"
+    },
+    {
       "labelnl": "Bookings",
       "page": "bookings",
       "labelfr": "Réservations"
