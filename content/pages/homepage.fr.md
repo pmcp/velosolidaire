@@ -1,5 +1,5 @@
 ---
-title: Homepage
+title: Vélo Solidaire
 intro: ""
 elements:
   - type: text
