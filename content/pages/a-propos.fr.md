@@ -28,9 +28,6 @@ elements:
 
 
       **Rapport d'activité**
-  - type: buttons
-    button:
-      - label: Rapport d'activité 2023
   - type: text
     markdown: >-
       **Etude d'impact**
