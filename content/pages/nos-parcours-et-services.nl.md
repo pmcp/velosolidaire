@@ -1,5 +1,5 @@
 ---
-title: Nos parcours et services
+title: Nos parcours et nos services
 nav: false
 navTitle: parcours-service
 layout: "0"
