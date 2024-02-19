@@ -2,6 +2,61 @@
 title: A propos
 nav: false
 navTitle: A propos
+elements:
+  - type: text
+    markdown: >-
+      Le projet Vélo Solidaire a démarré fin 2020 avec l'objectif de faciliter
+      l'accès à la pratique du vélo à Bruxelles. Pour ce faire, Vélo Solidaire
+      s'adresse aux associations bruxelloises dont le public est éloigné de la
+      pratique du vélo pour des raisons culturelles, sociales, économiques ou de
+      genre.
+
+
+      Ainsi, Vélo Solidaire offre des parcours comprenant de la mise en selle, des cours de roulage dans la circulation, la mise à disposition d'un vélo reconditionné pendant un an (avec la possibilité de le racheter à la fin), une introduction à l'entretien et à la mécanique du vélo. 
+
+
+      Par ailleurs, Vélo Solidaire propose des formations pour le personnel des associations afin de les rendre les plus autonomes possible dans la mise en place de leur projet vélo : mise en selle, encadrement d'un groupe dans la circulation, mécanique de base, organiser une sortie, tracer un itinéraire...
+
+
+      **Vélo Solidaire en quelques chiffres**
+
+
+      Depuis le début du projet, ce sont plus de 1000 personnes qui ont appris à rouler à vélo, ont reçu un vélo reconditionné et ont appris à l'entretenir correctement. En moyenne, 3/4 des personnes qui ont reçu un vélo souhaitent le racheté après 'avoir utilisé pendant un an. Les autres nous rendent le vélo pour qu'il puisse être remis à un.e autre participant.e.
+
+
+      **Témoignages**
+
+
+
+
+      **Rapport d'activité**
+  - type: buttons
+    button:
+      - label: Rapport d'activité 2023
+  - type: text
+    markdown: >-
+      **Etude d'impact**
+
+
+      En octobre 2022, Vélo Solidaire a fait faire une évaluation de l'impact social du projet par le SAW-B. Vous pouvez consulter le document ici.
+  - type: buttons
+    button:
+      - label: Etude d'impact
+        download: /img/vélo_solidaire_étude_web_8_12_compressed-1-.pdf
+  - type: logos
+    logo:
+      - name: Les Ateliers de la rue Voot
+        link: https://voot.be/ateliers/ateliers-velo/
+        image: /img/voot_noir-h-1.png
+      - name: Pro Velo
+        link: https://www.provelo.org/
+        image: /img/logo-pro-vélo.png
+      - name: CyCLO
+        link: https://www.cyclo.org/fr
+        image: /img/logo-cyclo.png
+      - name: Bruxelles Mobilité
+        link: https://mobilite-mobiliteit.brussels/fr
+        image: /img/logo-bxl-mob.png
 ---
 P﻿rojet au croisement de la mobilité, de l'économie circulaire et du travail social, Vélo Solidaire est né du désir de rendre la pratique du vélo accessible à toutes et tous. P﻿our ce faire, ce sont trois partenaires qui ont mis leurs compétences au service de ce projet : la formation (mise en selle, conduite dans la circulation, encadrement d'un groupe...) prise en charge par [Pro Velo](https://www.provelo.org/) ; le reconditionnement des vélos et le suivi mécanique assuré par [les Ateliers de la rue Voot](https://voot.be/ateliers/ateliers-velo/) et [CyCLO](https://www.cyclo.org/fr). 
 
