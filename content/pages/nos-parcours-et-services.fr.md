@@ -50,6 +50,8 @@ elements:
       \*Si le coût de votre participation devait représenter un frein, n'hésitez pas à nous contacter, nous chercherons une solution ensemble.
 
 
+
+
       ### Parcours d'autonomie
 
 
@@ -80,6 +82,8 @@ elements:
       Intéressé.e.s par un de nos parcours ? Veuillez remplir le [formulaire de prise de contact](https://docs.google.com/forms/d/e/1FAIpQLSeeFDRdUBAyHJ_UOU4R6lsb7VYAh_v39RN3zw9hxA-YE6lblw/viewform) et nous vous recontacterons pour évaluer la faisabilité de votre projet vélo.
 
 
+
+
       # Services à la carte
 
 
@@ -87,6 +91,8 @@ elements:
 
 
       En tant qu'association, vous avez besoin de :
+
+
 
 
       ### Avoir accès à des vélos
@@ -101,7 +107,7 @@ elements:
       ##### Installer une flotte de vélos dans votre association
 
 
-      Si vous souhaitez installer une flotte de vélos au sein de votre association et la rendre accessible aux associations du quartier, vous pouvez prendre contact avec nous. Nous sommes toujours à la recherche 
+      Si vous souhaitez installer une flotte de vélos au sein de votre association et la rendre accessible aux associations du quartier, vous pouvez prendre contact avec nous. Nous sommes toujours à la recherche de lieux pour y installer une flotte qui profitera à un maximum de monde.
 
 
       ### Réparer des vélos
@@ -167,7 +173,7 @@ elements:
       ### Parking pour les Vélos Solidaires
 
 
-      Vous avez repéré un garage, un hangar, un endroit qui pourrait faire office de parking vélos ? Contactez-nous, nous étudierons ensemble la possibilité de l'aménager en parking vélo.
+      Vous avez repéré un garage, un hangar, un endroit qui pourrait faire office de parking vélos dans votre quartier ? Contactez-nous, nous étudierons ensemble la possibilité de l'aménager en parking vélo.
 image: /img/parcours-vélo-sol.png
 ---
 ## Nos parcours pour votre public
