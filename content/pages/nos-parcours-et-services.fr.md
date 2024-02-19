@@ -17,28 +17,23 @@ elements:
       **Objectifs :**
 
 
-      \- Apprendre à pédaler
+      * Apprendre à pédaler
 
+      * Apprendre à rouler dans le trafic
 
-      \- Apprendre à rouler dans le trafic
-
-
-      \- S'approprier le vélo
+      * S'approprier le vélo
 
 
       **Etapes du parcours :**
 
 
-      \- 6 séances de mise en selle
+      * 6 séances de mise en selle
 
+      * 6 séances de formation dans la circulation
 
-      \- 6 séances de formation dans la circulation
+      * la remise des vélos à chaque participant.e lors d'une séance de formation dans la circulation
 
-
-      \- remise des vélos à chaque participant.e lors d'une séance de formation dans la circulation
-
-
-      \- 1 formation à l'entretien du vélos et à la mécanique de base
+      * 1 formation à l'entretien du vélos et à la mécanique de base
 
 
       **Tarif :**
@@ -48,8 +43,6 @@ elements:
 
 
       \*Si le coût de votre participation devait représenter un frein, n'hésitez pas à nous contacter, nous chercherons une solution ensemble.
-
-
 
 
       ### Parcours d'autonomie
@@ -67,10 +60,9 @@ elements:
       **Etapes du parcours :**
 
 
-      \- 1 séance pour remettre les vélos à chaque participant.e et faire un sortie encadrée en circulation
+      * 1 séance pour remettre les vélos à chaque participant.e et faire un sortie encadrée en circulation
 
-
-      \- 1 formation à l'entretien du vélo et à la mécanique de base
+      * 1 formation à l'entretien du vélo et à la mécanique de base
 
 
       **Tarif :**
@@ -91,8 +83,6 @@ elements:
 
 
       En tant qu'association, vous avez besoin de :
-
-
 
 
       ### Avoir accès à des vélos
