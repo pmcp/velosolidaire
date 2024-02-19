@@ -8,14 +8,24 @@
       "labelfr": "Home"
     },
     {
-      "page": "charte-d’utilisation",
-      "labelfr": "Charte d'utilisation",
-      "labelnl": "Gebruiksvoorwaarden"
+      "labelnl": "Over Solidaire Velo",
+      "page": "a-propos",
+      "labelfr": "A propos"
     },
     {
-      "labelnl": "Bookings",
+      "labelfr": "Nos parcours et nos services",
+      "labelnl": "Parcours en diensten",
+      "page": "nos-parcours-et-services"
+    },
+    {
       "page": "bookings",
-      "labelfr": "Réservations"
+      "labelfr": "Flotte de vélos",
+      "labelnl": "Feitsbib"
+    },
+    {
+      "labelfr": "Contact",
+      "labelnl": "Contact",
+      "page": "contact"
     }
   ]
 }
