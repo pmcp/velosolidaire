@@ -49,12 +49,12 @@ elements:
       - name: Les Ateliers de la rue Voot
         link: https://voot.be/ateliers/ateliers-velo/
         image: /img/voot_noir-h-1.png
-      - name: Pro Velo
-        link: https://www.provelo.org/
-        image: /img/logo-pro-vélo.png
       - name: CyCLO
         link: https://www.cyclo.org/fr
         image: /img/logo-cyclo.png
+      - name: Pro Velo
+        link: https://www.provelo.org/
+        image: /img/logo-pro-vélo.png
       - name: Bruxelles Mobilité
         link: https://mobilite-mobiliteit.brussels/fr
         image: /img/logo-bxl-mob.png
