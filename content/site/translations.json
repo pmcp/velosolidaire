@@ -151,6 +151,10 @@
     {
       "fr": "Cet emplacement n'est pas disponible",
       "nl": "Deze locatie is niet beschikbaar"
+    },
+    {
+      "fr": "Vous n'êtes pas connecté. Connectez-vous d'abord pour utiliser le module.",
+      "nl": "Je bent niet ingelogd. Log eerst in om de module te gebruiken."
     }
   ]
 }
