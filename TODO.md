@@ -1,6 +1,12 @@
 # DOING
+ADMIN
+
 # TODO
 
+- Indicate you should log in if not logged in on reservation page 
+- New blocks
+  - Image
+  - Booking Module
 
 
 - Check email nu .brussels 
