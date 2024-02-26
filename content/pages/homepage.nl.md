@@ -1,7 +1,7 @@
 ---
 title: Homepage
 intro: ""
-layout: "1"
+layout: "0"
 elements: []
 image: ""
 formActive: false
