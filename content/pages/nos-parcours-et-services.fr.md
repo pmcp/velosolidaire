@@ -169,6 +169,8 @@ elements:
 
 
       Vous avez repéré un garage, un hangar, un endroit qui pourrait faire office de parking vélos dans votre quartier ? Contactez-nous, nous étudierons ensemble la possibilité de l'aménager en parking vélo.
+  - type: reservation
+    reservation: reservation
 image: /img/vélosolidaireessegemmolenbike-2-.jpg
 ---
 ## Nos parcours pour votre public
