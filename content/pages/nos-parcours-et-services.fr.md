@@ -45,6 +45,13 @@ elements:
       \*Si le coût de votre participation devait représenter un frein, n'hésitez pas à nous contacter, nous chercherons une solution ensemble.
 
 
+
+
+      ![](/img/parcours-vélo-sol.png)
+
+
+
+
       ### Parcours d'autonomie
 
 
@@ -72,8 +79,6 @@ elements:
 
 
       Intéressé.e.s par un de nos parcours ? Veuillez remplir le [formulaire de prise de contact](https://docs.google.com/forms/d/e/1FAIpQLSeeFDRdUBAyHJ_UOU4R6lsb7VYAh_v39RN3zw9hxA-YE6lblw/viewform) et nous vous recontacterons pour évaluer la faisabilité de votre projet vélo.
-
-
 
 
       # Services à la carte
@@ -164,7 +169,7 @@ elements:
 
 
       Vous avez repéré un garage, un hangar, un endroit qui pourrait faire office de parking vélos dans votre quartier ? Contactez-nous, nous étudierons ensemble la possibilité de l'aménager en parking vélo.
-image: /img/parcours-vélo-sol.png
+image: /img/vélosolidaireessegemmolenbike-2-.jpg
 ---
 ## Nos parcours pour votre public
 
