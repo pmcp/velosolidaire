@@ -10,22 +10,22 @@ elements:
       la rue Voot, financé par Bruxelles Mobilité.
 
 
-      Pour les questions concernant les parcours d'apprentissage, les formations d'encadrant et tous les services liés à l'organisation de sortie :
+      Pour les questions concernant les formations vélo, les formations d'encadrant.es et tous les services liés à l'organisation de sorties :
 
 
-      Noémie 
+      Noémie Dembour - n.dembour@provelo.org 
 
 
-      Pour les questions concernant les parcours d'autonomie et les flottes de Vélos Solidaire :
+      Pour les questions concernant l'accès aux vélos (vélos individuels ou flottes) :
 
 
-      Cécile
+      Cécile Van Overstraeten - cecile@cyclo.org 
 
 
       Pour les questions liées à la mécanique (ateliers mobiles, visites d'atelier...) : 
 
 
-      Voot
+      L'équipe des Ateliers de la rue Voot - velosolidaire@voot.be 
 
 
       Intéressé.e.s par un de nos parcours ? Veuillez remplir [le formulaire de prise de contact](https://docs.google.com/forms/d/e/1FAIpQLSeeFDRdUBAyHJ_UOU4R6lsb7VYAh_v39RN3zw9hxA-YE6lblw/viewform) et nous vous recontacterons pour évaluer la faisabilité de votre projet vélo.
