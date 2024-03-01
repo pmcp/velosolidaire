@@ -45,11 +45,7 @@ elements:
       \*Si le coût de votre participation devait représenter un frein, n'hésitez pas à nous contacter, nous chercherons une solution ensemble.
 
 
-
-
       ![](/img/parcours-vélo-sol.png)
-
-
 
 
       ### Parcours d'autonomie
@@ -75,16 +71,19 @@ elements:
       **Tarif :**
 
 
-      70€ pour tout le groupe (entre 5 et 12 personnes maximum)
+      70€ pour tout le groupe (entre 5 et 12 personnes maximum)*
 
 
       Intéressé.e.s par un de nos parcours ? Veuillez remplir le [formulaire de prise de contact](https://docs.google.com/forms/d/e/1FAIpQLSeeFDRdUBAyHJ_UOU4R6lsb7VYAh_v39RN3zw9hxA-YE6lblw/viewform) et nous vous recontacterons pour évaluer la faisabilité de votre projet vélo.
 
 
+      \*Si le coût de votre participation devait représenter un frein, n'hésitez pas à nous contacter, nous chercherons une solution ensemble.
+
+
       # Services à la carte
 
 
-      Vous ne vous retrouvez pas dans les parcours proposés ? Ou bien vous souhaitez aller plus loin ? Servez-vous dans notre boite à outils. Profitez de nos offres de service à la carte. N'hésitez pas à nous contacter pour identifier ensemble quels sont vos besoins et voir si nous pouvons y répondre
+      Vous ne vous retrouvez pas dans les parcours proposés ? Ou bien vous souhaitez aller plus loin ? Servez-vous dans notre boite à outils. Profitez de nos offres de service à la carte. N'hésitez pas à nous contacter pour identifier ensemble quels sont vos besoins et voir si nous pouvons y répondre.
 
 
       En tant qu'association, vous avez besoin de :
@@ -162,14 +161,14 @@ elements:
       ##### Balades guidées
 
 
-      Vélo Solidaire peut organiser, à la demande, des balades guidées qui peuvent inclure toute la famille et pas seulement les participant.es au parcours de formation. Elles peuvent avoir lieu en semaine ou le week-end, sur un thème choisi (par exemple, découvert des espaces verts) et sont encadrées par un guide de Pro Velo. 
+      Vélo Solidaire peut organiser, à la demande, des balades guidées qui peuvent inclure toute la famille et pas seulement les participant.es au parcours de formation. Elles peuvent avoir lieu en semaine ou le week-end, sur un thème choisi (par exemple, découvert des espaces verts) et sont encadrées par un.e guide de Pro Velo. 
 
 
       ### Parking pour les Vélos Solidaires
 
 
-      Vous avez repéré un garage, un hangar, un endroit qui pourrait faire office de parking vélos dans votre quartier ? Contactez-nous, nous étudierons ensemble la possibilité de l'aménager en parking vélo.
-image: /img/vélosolidaireessegemmolenbike-2-.jpg
+      Votre public n'ose pas demander de vélo par manque de lieu sécurisé où le stocker ? Cherchons une solution ensemble ! Vous avez repéré un garage, un hangar, un endroit qui pourrait faire office de parking vélos dans votre quartier ? Contactez-nous, nous étudierons la possibilité de l'aménager en parking vélo.
+image: ""
 ---
 ## Nos parcours pour votre public
 
