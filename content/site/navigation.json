@@ -13,9 +13,14 @@
       "labelfr": "A propos"
     },
     {
-      "labelfr": "Nos parcours et nos services",
+      "labelfr": "Nos parcours",
       "labelnl": "Parcours en diensten",
       "page": "nos-parcours-et-services"
+    },
+    {
+      "labelfr": "Nos services à la carte",
+      "page": "nos-services-à-la-carte",
+      "labelnl": "Nos services à la carte"
     },
     {
       "page": "bookings",
