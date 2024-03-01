@@ -1,11 +1,14 @@
 ---
-title: Nos parcours et nos services
+title: Nos parcours
 nav: true
 navTitle: Nos parcours et nos services
 elements:
   - type: text
     markdown: >-
       # Les parcours Vélo Solidaire
+
+
+      ![](/img/parcours-vélo-sol.png)
 
 
       ### Parcours d'apprentissage
@@ -45,9 +48,6 @@ elements:
       \*Si le coût de votre participation devait représenter un frein, n'hésitez pas à nous contacter, nous chercherons une solution ensemble.
 
 
-      ![](/img/parcours-vélo-sol.png)
-
-
       ### Parcours d'autonomie
 
 
@@ -74,100 +74,10 @@ elements:
       70€ pour tout le groupe (entre 5 et 12 personnes maximum)*
 
 
-      Intéressé.e.s par un de nos parcours ? Veuillez remplir le [formulaire de prise de contact](https://docs.google.com/forms/d/e/1FAIpQLSeeFDRdUBAyHJ_UOU4R6lsb7VYAh_v39RN3zw9hxA-YE6lblw/viewform) et nous vous recontacterons pour évaluer la faisabilité de votre projet vélo.
-
-
       \*Si le coût de votre participation devait représenter un frein, n'hésitez pas à nous contacter, nous chercherons une solution ensemble.
 
 
-      # Services à la carte
-
-
-      Vous ne vous retrouvez pas dans les parcours proposés ? Ou bien vous souhaitez aller plus loin ? Servez-vous dans notre boite à outils. Profitez de nos offres de service à la carte. N'hésitez pas à nous contacter pour identifier ensemble quels sont vos besoins et voir si nous pouvons y répondre.
-
-
-      En tant qu'association, vous avez besoin de :
-
-
-      ### Avoir accès à des vélos
-
-
-      ##### Réserver des vélos
-
-
-      Vous pouvez [réserver une de nos flottes Vélo Solidaire](https://www.velosolidaire.brussels/bookings.fr) pour organiser vos propres cours de mise en selle ou organiser des sorties à vélos avec votre public.
-
-
-      ##### Installer une flotte de vélos dans votre association
-
-
-      Si vous souhaitez installer une flotte de vélos au sein de votre association et la rendre accessible aux associations du quartier, vous pouvez prendre contact avec nous. Nous sommes toujours à la recherche de lieux pour y installer une flotte qui profitera à un maximum de monde.
-
-
-      ### Réparer des vélos
-
-
-      ##### Atelier mobile*
-
-
-      \*Ne concerne que les groupes qui ont reçu des Vélos Solidaires.
-
-
-      ##### Visite d'atelier
-
-
-      ### Apprendre à un groupe à pédaler
-
-
-      Vous voulez organiser des activités à vélo pour votre public, mais vous vous rendez compte que vos bénéficiaires n’ont jamais appris à pédaler ? Nous avons développé toute une méthodologie pour apprendre l’équilibre dynamique à vélo. Nous proposons un module de formation pour vous transmettre cette méthodologie, en se mettant dans les conditions réelles d’apprentissage.
-
-
-      ### Encadrer un groupe dans la circulation
-
-
-      ##### Formation d'encadrant.e.s
-
-
-      Encadrer un groupe de cyclistes dans la circulation, ça ne s’improvise pas ! Nous proposons un module de formation qui mélange théorie et pratique pour que vous vous sentiez plus outillé.es à encadrer un déplacement en groupe à vélo.
-
-
-      ##### Accompagnement d'une sortie
-
-
-      Vous vous lancez dans l’organisation de sorties à vélo avec votre public, et vous souhaiteriez que Pro Velo soit présent pour vous mettre en confiance et vous soutenir dans l’encadrement du groupe ? Nous pouvons en discuter et voir de quelle manière nous pouvons vous aider.
-
-
-      ##### Conseils d'itinéraire
-
-
-      Le choix de l’itinéraire est un des facteurs-clés pour rendre la pratique du vélo agréable et sécurisante. Vous voulez organiser une sortie avec vos participant.es, ou conseiller quelqu’un sur l’itinéraire de son déplacement, mais vous ne savez pas trop comment vous y prendre ? Nous pouvons vous aider à faire le tri dans les outils existants, évaluer la longueur adéquate d’une sortie en fonction du niveau de vos participant.es, connaître les lieux à éviter ou à privilégier… 
-
-
-      ### Proposer des sorties à ses participant.e.s
-
-
-      ##### Bike Experience
-
-
-      La Bike Experience permet de découvrir le code de la route, de faire une sortie en groupe dans le trafic, de tester un vélo pendant 2 semaines, ou encore d’être accompagné.e individuellement par un.e coach sur 3 déplacements de votre choix, et tout cela gratuitement ! 
-
-
-      Cet évènement est un très bon complément au parcours de formation Vélo Solidaire. Une fois que les participant.es ont appris à pédaler, ils/elles peuvent s’inscrire à la Bike Experience Débutant.es, qui est adaptée à un public avec un niveau de maîtrise encore assez bas. Lorsque vos bénéficiaires sont déjà capables de rouler en groupe dans le trafic, la Bike Experience Afterwork est plus adaptée. 
-
-
-      La Bike Experience est une occasion idéale pour votre public de sortir du cadre de l’association et d’aller découvrir d’autres lieux où l’on peut appréhender les déplacements à vélo de manière encadrée, bienveillante et sécurisante. Toutes les informations se trouvent sur le site : <https://bikeexperience.brussels/>
-
-
-      ##### Balades guidées
-
-
-      Vélo Solidaire peut organiser, à la demande, des balades guidées qui peuvent inclure toute la famille et pas seulement les participant.es au parcours de formation. Elles peuvent avoir lieu en semaine ou le week-end, sur un thème choisi (par exemple, découvert des espaces verts) et sont encadrées par un.e guide de Pro Velo. 
-
-
-      ### Parking pour les Vélos Solidaires
-
-
-      Votre public n'ose pas demander de vélo par manque de lieu sécurisé où le stocker ? Cherchons une solution ensemble ! Vous avez repéré un garage, un hangar, un endroit qui pourrait faire office de parking vélos dans votre quartier ? Contactez-nous, nous étudierons la possibilité de l'aménager en parking vélo.
+      Intéressé.e.s par un de nos parcours ? Veuillez remplir le [formulaire de prise de contact](https://docs.google.com/forms/d/e/1FAIpQLSeeFDRdUBAyHJ_UOU4R6lsb7VYAh_v39RN3zw9hxA-YE6lblw/viewform) et nous vous recontacterons pour évaluer la faisabilité de votre projet vélo.
 image: ""
 ---
 ## Nos parcours pour votre public
