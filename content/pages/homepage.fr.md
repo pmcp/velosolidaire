@@ -1,12 +1,15 @@
 ---
 title: Vélo Solidaire
-intro: ""
+intro: Bienvenue sur le site de Velo Solidaire !
 elements:
   - type: text
     markdown: >-
       ![](/img/logotype_jaune-1-.png)
 
 
-      Vélo Solidaire s'adresse aux associations bruxelloises désireuses de mettre en place un projet vélo dans le but de rendre la pratique du vélo accessible à toutes et tous et, particulièrement, aux personnes éloignées de la culture vélo pour des raisons sociales, économiques, culturelles ou de genre.
+      A travers les pages de ce site, découvrez nos parcours de mise en selle et de mise à disposition d'un vélo, réservez une flotte de vélos pour organiser des activités avec votre public, voyez aussi nos services d'accompagnement dans la mise en place de votre projet.
+
+
+      Vélo Solidaire s'adresse uniquement aux associations bruxelloises.
 image: /img/dsc_1563.jpg
 ---
