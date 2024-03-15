@@ -11,5 +11,5 @@ elements:
 
 
       Vélo Solidaire s'adresse uniquement aux associations bruxelloises.
-image: /img/dsc_1563.jpg
+image: /img/dsc_1563-adapté.jpg
 ---
