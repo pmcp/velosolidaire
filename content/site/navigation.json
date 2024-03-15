@@ -13,14 +13,14 @@
       "labelfr": "A propos"
     },
     {
-      "labelfr": "Nos parcours",
-      "labelnl": "Parcours en diensten",
+      "labelfr": "Parcours",
+      "labelnl": "Parcours",
       "page": "nos-parcours-et-services"
     },
     {
-      "labelfr": "Nos services à la carte",
+      "labelfr": "Services à la carte",
       "page": "nos-services-à-la-carte",
-      "labelnl": "Nos services à la carte"
+      "labelnl": "Diensten à la carte"
     },
     {
       "page": "bookings",
