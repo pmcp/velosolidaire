@@ -1,11 +1,11 @@
 ---
-title: Nos parcours
+title: Parcours
 nav: true
 navTitle: Nos parcours et nos services
 elements:
   - type: text
     markdown: >-
-      # Les parcours Vélo Solidaire
+      # Les parcours
 
 
       ![](/img/parcours-vélo-sol.png)
@@ -17,7 +17,7 @@ elements:
       Votre public souhaite apprendre à rouler à vélo et ensuite bénéficier d’un Vélo Solidaire ? Le parcours d'apprentissage est très complet.
 
 
-      **Objectifs :**
+      ##### Objectifs :
 
 
       * Apprendre à pédaler
@@ -77,7 +77,7 @@ elements:
       \*Si le coût de votre participation devait représenter un frein, n'hésitez pas à nous contacter, nous chercherons une solution ensemble.
 
 
-      Intéressé.e.s par un de nos parcours ? Veuillez remplir le [formulaire de prise de contact](https://docs.google.com/forms/d/e/1FAIpQLSeeFDRdUBAyHJ_UOU4R6lsb7VYAh_v39RN3zw9hxA-YE6lblw/viewform) et nous vous recontacterons pour évaluer la faisabilité de votre projet vélo.
+      Intéressé.e.s par un de nos parcours ? [Contactez-nous](https://www.velosolidaire.brussels/contact.fr)
 image: ""
 ---
 ## Nos parcours pour votre public
