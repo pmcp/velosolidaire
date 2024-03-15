@@ -6,7 +6,7 @@ elements:
       # Services à la carte
 
 
-      Vous ne vous retrouvez pas dans les parcours proposés ? Ou bien vous souhaitez aller plus loin ? Servez-vous dans notre boite à outils. Profitez de nos offres de service à la carte. N'hésitez pas à nous contacter pour identifier ensemble quels sont vos besoins et voir si nous pouvons y répondre.
+      Vous ne vous retrouvez pas dans les parcours proposés ? Ou bien vous souhaitez aller plus loin ? Servez-vous dans notre boite à outils.
 
 
       ### Avoir accès à des vélos
@@ -26,7 +26,7 @@ elements:
       * **Visitez un atelier** avec votre groupe
 
 
-      ### Apprendre à un groupe à pédaler 
+      ### Apprendre à un groupe à pédaler
 
 
       Vous voulez organiser des activités à vélo pour votre public, mais vous vous rendez compte que vos bénéficiaires n’ont jamais appris à pédaler ? Nous avons développé toute une méthodologie pour apprendre l’équilibre dynamique à vélo. Nous proposons un module de formation pour vous transmettre cette méthodologie, en se mettant dans les conditions réelles d’apprentissage.
