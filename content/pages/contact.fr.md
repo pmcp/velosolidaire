@@ -6,41 +6,18 @@ navTitle: Contact
 elements:
   - type: text
     markdown: >-
-      Vélo Solidaire est un projet porté par CyCLO, Pro Velo et les Ateliers de
-      la rue Voot, financé par Bruxelles Mobilité.
+      Intéressé.e.s par un de nos parcours ? Veuillez remplir [le formulaire de
+      prise de
+      contact](https://docs.google.com/forms/d/e/1FAIpQLSeeFDRdUBAyHJ_UOU4R6lsb7VYAh_v39RN3zw9hxA-YE6lblw/viewform)
+      et nous vous recontacterons pour évaluer la faisabilité de votre projet
+      vélo.
 
 
-      Pour les questions concernant les formations vélo, les formations d'encadrant.e.s et tous les services liés à l'organisation de sorties :
+      * Concernant les formations vélo, les formations d'encadrant.e.s et tous les services liés à l'organisation de sorties : Noémie Dembour - n.dembour@provelo.org 
 
+      * Concernant l'accès aux vélos (vélos individuels ou flottes) : Cécile Van Overstraeten - cecile@cyclo.org 
 
-      Noémie Dembour - n.dembour@provelo.org 
-
-
-      Pour les questions concernant l'accès aux vélos (vélos individuels ou flottes) :
-
-
-      Cécile Van Overstraeten - cecile@cyclo.org 
-
-
-      Pour les questions liées à la mécanique (ateliers mobiles, visites d'atelier...) : 
-
-
-      L'équipe des Ateliers de la rue Voot - velosolidaire@voot.be 
-
-
-      Intéressé.e.s par un de nos parcours ? Veuillez remplir [le formulaire de prise de contact](https://docs.google.com/forms/d/e/1FAIpQLSeeFDRdUBAyHJ_UOU4R6lsb7VYAh_v39RN3zw9hxA-YE6lblw/viewform) et nous vous recontacterons pour évaluer la faisabilité de votre projet vélo.
-  - type: logos
-    logo:
-      - name: Vélo Solidaire
-        image: /img/logotype_vert.png
-      - name: Pro Velo
-        image: /img/logo-pro-vélo.png
-      - name: Les Ateliers de la rue Voot
-        image: /img/voot_noir-h-1.png
-      - name: CyCLO
-        image: /img/logo-cyclo.png
-      - name: Bruxelles Mobilité
-        image: /img/logo-bxl-mob.png
+      * Concernant la mécanique (ateliers mobiles, visites d'atelier...) : l'équipe des Ateliers de la rue Voot - velosolidaire@voot.be
 ---
 V﻿ous êtes intéressé.e par les parcours Vélo Solidaire ? Veuillez remplir [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSeeFDRdUBAyHJ_UOU4R6lsb7VYAh_v39RN3zw9hxA-YE6lblw/viewform) et nous vous recontacterons pour discuter de votre projet ensemble.
 
