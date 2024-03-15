@@ -1,5 +1,5 @@
 ---
-title: Nos parcours
+title: Parcours
 nav: true
 navTitle: Nos parcours et nos services
 elements:
