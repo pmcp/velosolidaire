@@ -10,7 +10,7 @@ elements:
       la rue Voot, financé par Bruxelles Mobilité.
 
 
-      Pour les questions concernant les formations vélo, les formations d'encadrant.es et tous les services liés à l'organisation de sorties :
+      Pour les questions concernant les formations vélo, les formations d'encadrant.e.s et tous les services liés à l'organisation de sorties :
 
 
       Noémie Dembour - n.dembour@provelo.org 
