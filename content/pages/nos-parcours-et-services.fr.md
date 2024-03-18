@@ -8,7 +8,7 @@ elements:
       # Les parcours
 
 
-      ![](/img/tableau-pour-le-site.png)
+      ![](/img/vélo-solidaire-parcours-1100-x-788-px-002-.png)
 
 
       ### Parcours d'apprentissage
