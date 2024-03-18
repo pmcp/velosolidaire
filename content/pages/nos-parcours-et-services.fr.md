@@ -8,7 +8,7 @@ elements:
       # Les parcours
 
 
-      ![](/img/parcours-vélo-sol.png)
+      ![](/img/tableau-pour-le-site.png)
 
 
       ### Parcours d'apprentissage
