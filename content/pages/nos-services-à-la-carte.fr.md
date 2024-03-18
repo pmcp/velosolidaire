@@ -20,10 +20,9 @@ elements:
       ### Réparer des vélos
 
 
-      * Organisez un **atelier mobile***
+      * Organisez **un atelier mobile** : votre association a reçu des Vélos Solidaires mais leur entretien n’a pas été assuré ? L’équipe des Ateliers de la Rue Voot se déplace dans votre association pour accompagner vos participants dans des petites réparations : crevaison, réglages de freins ou de transmission…
 
-        \*Ne concerne que les groupes qui ont reçu des Vélos Solidaires.
-      * **Visitez un atelier** avec votre groupe
+      * Vos participants aimeraient connaitre un lieu où ils peuvent entretenir et réparer leurs Vélos Solidaires ? L’équipe des Ateliers de la Rue Voot les amène à la **découverte de l’atelier participatif** proche de chez vous !
 
 
       ### Apprendre à un groupe à pédaler
