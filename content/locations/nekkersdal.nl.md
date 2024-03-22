@@ -1,6 +1,6 @@
 ---
 title: Nekkersdal
-active: false
+active: true
 idInSheet: Nekkersdal
 safetyPeriod: 14
 location: '{"type":"Point","coordinates":[4.346331,50.8733201]}'
@@ -82,11 +82,4 @@ mails:
       L'équipe Vélo Solidaire
     subject: Terugbrengen van je reservering
 ---
-V﻿élos disponibles: 
-
-F﻿lotte d'apprentissage : 11 vélos Oxford 26''
-
-F﻿lotte de sortie : 15 vélos taille M (à venir)
-
-L'accès à la flotte est géré par le Centre Communautaire Nekkersdal.
-Pour une bonne organisation, la flotte doit être réservée minimum 2 semaines à l'avance.
+Nederlandstalige website in de maak. Nog even geduld…
