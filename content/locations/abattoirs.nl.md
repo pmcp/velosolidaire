@@ -1,5 +1,5 @@
 ---
-title: Abattoirs - MA-DO 9u30-16u30
+title: Abattoirs
 active: true
 idInSheet: abattoirs
 safetyPeriod: 0
