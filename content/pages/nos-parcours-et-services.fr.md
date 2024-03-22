@@ -39,8 +39,7 @@ elements:
       * 1 formation à l'entretien du vélos et à la mécanique de base
 
 
-      **Tarif :**
-
+      **Tarif :**\
 
       800€ pour tout le groupe (entre 5 et 12 personnes maximum)*
 
@@ -54,8 +53,7 @@ elements:
       Votre public sait déjà rouler à vélo et connait le code de la route, il ne leur manque plus que le vélo pour s’y mettre ? Ce parcours est fait pour vous !
 
 
-      **Objectif :**
-
+      **Objectif :**\
 
       S'approprier le vélo
 
@@ -68,8 +66,7 @@ elements:
       * 1 formation à l'entretien du vélo et à la mécanique de base
 
 
-      **Tarif :**
-
+      **Tarif :**\
 
       70€ pour tout le groupe (entre 5 et 12 personnes maximum)*
 
