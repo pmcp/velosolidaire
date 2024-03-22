@@ -88,8 +88,8 @@ mails:
 11 vélos Oxford 26'' - taille centre-top 38cm
 
 **F﻿lotte de sortie** (à venir)\
-8 vélos Oxford taille S - taille centre-top 43cm\
-7 vélos Btwin Elops 360 taille M - taille centre-top 48cm
+8 vélos Oxford taille S (taille centre-top 43cm)\
+7 vélos Btwin Elops 360 taille M (taille centre-top 48cm)
 
 ### Matériel divers
 
