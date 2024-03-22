@@ -83,12 +83,21 @@ mails:
 
       L'équipe Vélo Solidaire
 ---
-M﻿atériel disponible :
+### Vélos disponibles
 
-F﻿lotte d'apprentissage : 11 vélos Altec Metro 26''
+**F﻿lotte d'apprentissage**\
+11 vélos Altec Metro 26'' (taille centre-top 41cm)
 
-F﻿lotte de sortie : 17 vélos décathlon Elops 360 taille M
+**F﻿lotte de sortie** \
+17 vélos Btwin Elops 360 taille M (taille centre-top 48cm)
 
-C﻿asques, chasubles
+### Matériel divers
 
-O﻿utils pour les petites réparations
+* cadenas
+* lumières
+* casques
+* chasubles
+* clips pour pantalon
+* plots
+* pompes
+* boites à outils
