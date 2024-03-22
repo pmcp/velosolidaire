@@ -82,11 +82,25 @@ mails:
 
       L'équipe Vélo Solidaire
 ---
-V﻿élos disponibles:
+### V﻿élos disponibles
 
-F﻿lotte d'apprentissage : 11 vélos Oxford 26''
+**F﻿lotte d'apprentissage**\
+11 vélos Oxford 26'' - taille centre-top 38cm
 
-F﻿lotte de sortie : 15 vélos taille M (à venir)
+**F﻿lotte de sortie** (à venir)\
+8 vélos Oxford taille S - taille centre-top 43cm\
+7 vélos Btwin Elops 360 taille M - taille centre-top 48cm
+
+### Matériel divers
+
+* cadenas
+* lumières
+* casques
+* chasubles
+* clips pour pantalon
+* plots
+* pompes
+* boites à outils
 
 L'accès à la flotte est géré par le Centre Communautaire Nekkersdal.
 Pour une bonne organisation, la flotte doit être réservée minimum 2 semaines à l'avance.
