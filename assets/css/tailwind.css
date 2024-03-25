@@ -125,3 +125,7 @@
   background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(250, 250, 250, 1));
 }
 
+em {
+  font-style: normal;
+  color: #299147;
+}

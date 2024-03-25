@@ -6,7 +6,19 @@
 <!--    <pre>{{ allPages }}</pre>-->
     <!-- HINT: If you put a v-if on a nuxt-link, it breaks hydration, so I'm using display none (class 'hidden') -->
     <div class="flex flex-col md:flex-row md:justify-between md:items-center">
-      <nuxt-link v-for="(p, key) in navigation" :key="`navPages-${key}`" :to="`/${p.page}.${lang}`" class="flex">
+
+      <div v-for="(p, key) in navigation" :key="`navPages-${key}`" class="flex">
+        <nuxt-link v-if="p.page === 'bookings'" :to="`/locations/abattoirs.${lang}`">
+          <div
+            class="underline mr-5"
+            :class="[
+            $route.path == `/${p.page}.${lang}` ? 'text-pink-500  hover:text-pink-900' : 'text-gray-600 hover:text-gray-900',
+          ]"
+          >
+            {{ p[`label${lang}`] }}
+          </div>
+        </nuxt-link>
+        <nuxt-link v-else :to="`/${p.page}.${lang}`">
         <div
           class="underline mr-5"
           :class="[
@@ -15,7 +27,8 @@
         >
           {{ p[`label${lang}`] }}
         </div>
-      </nuxt-link>
+        </nuxt-link>
+      </div>
     </div>
 
     <div class=" flex flex-col md:flex-row justify-between md:justify-center">

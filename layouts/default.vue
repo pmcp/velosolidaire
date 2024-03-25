@@ -1,18 +1,18 @@
 <template>
   <div class="bg-gray-50">
     <div class="bg-white md:sticky top-0 z-50 shadow-sm mb-2">
-      <div class="relative max-w-6xl mx-auto px-4">
+      <div class="relative max-w-7xl mx-auto px-4">
         <!-- TODO: Had to put this in client only because of hidration issues: should optimize -->
         <client-only>
           <main-navigation />
         </client-only>
       </div>
     </div>
-    <nuxt class="max-w-6xl mx-auto min-h-screen px-4" />
+    <nuxt class="max-w-7xl mx-auto min-h-screen px-4" />
     <client-only>
       <custom-transition :id="1">
         <div v-if="user && $route.name === 'locations-location'" class="sticky bottom-0 w-full z-30">
-          <bookings-session class="max-w-6xl mx-auto md:px-4" />
+          <bookings-session class="max-w-7xl mx-auto md:px-4" />
         </div>
       </custom-transition>
     </client-only>

@@ -1,5 +1,31 @@
 <template>
   <div>
+
+  <!--  this is a copy from _page  -->
+    <div v-if="bookingsPageContent.image">
+      <div class="flex flex-col"
+           :class="[(bookingsPageContent.layout === '1') ? '' : 'md:flex-row']">
+        <div
+          class="relative flex mr-4 bg-pink-500 justify-items-stretch items-stretch h-full sticky top-20"
+          :class="[(bookingsPageContent.layout === '1') ? 'w-full h-128' : 'md:w-1/2']"
+        >
+          <img class="object-cover w-full" :src="bookingsPageContent.image" alt="" />
+        </div>
+        <div class="prose pb-20 ml-4 flex flex-col "
+             :class="[(bookingsPageContent.layout ===  '1')? 'w-full' : 'md:w-1/2']">
+          <page-content :content="bookingsPageContent"></page-content>
+
+
+        </div>
+      </div>
+    </div>
+    <div v-else>
+      <div class="prose text-base max-w-prose pt-10">
+        <page-content :content="bookingsPageContent"></page-content>
+      </div>
+    </div>
+<!--  Till here  >-->
+
     <div class="pt-1 w-full mb-8">
       <div class="w-full flex justify-center">
         <app-navigation></app-navigation>
@@ -14,9 +40,9 @@
       </div>
     </div>
 
-
     <div class="w-full grid grid-cols-1 gap-8 md:grid-cols-2 mt-12">
       <div>
+
         <div v-if="!location.active" class="mt-4 font-semibold">
           <translation :id="37" />
         </div>
@@ -75,13 +101,18 @@ export default {
     ],
   },
   async asyncData({ $content, params, payload }) {
-    //TODO: Fix differently
+    // Get Location Data
+    let location = null
     if (payload) {
-      return { location: payload }
+      location = payload
     } else {
-      const location = await $content('locations', params.location).fetch()
-      return { location: location }
+      let getLocation = await $content('locations', params.location).fetch()
+      location = getLocation
     }
+    const regex = /\.(.*)/gm;
+    const lang = regex.exec(params.location)[1]
+    let getBookingContent = await $content('pages', `bookings.${lang}`).fetch()
+    return { location: location, bookingsPageContent: getBookingContent }
   },
   data() {
     return {
@@ -93,6 +124,11 @@ export default {
   },
   mounted() {
     this.setLocation(this.location.idInSheet)
+  },
+  computed: {
+    lang() {
+      return this.$store.state.lang
+    }
   },
 }
 </script>
