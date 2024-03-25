@@ -1,6 +1,6 @@
 export default function ({ route, store, redirect }) {
 
-	const safeRoute = '/' + store.state.lang
+	const safeRoute = '/homepage.' + store.state.lang
 	if (route.path === '/') {
 		return redirect(safeRoute)
 	} else {
