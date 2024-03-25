@@ -1,8 +1,11 @@
 ---
-title: Nos parcours et nos services
+title: Parcours
 nav: false
 navTitle: parcours-service
-layout: "0"
+layout: "1"
 formActive: false
+elements:
+  - type: text
+    markdown: Nederlandstalige website in de maak. Nog even geduld…
 ---
  A faire

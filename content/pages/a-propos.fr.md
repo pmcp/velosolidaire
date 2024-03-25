@@ -5,33 +5,24 @@ navTitle: A propos
 elements:
   - type: text
     markdown: >-
-      Le projet Vélo Solidaire a démarré fin 2020 avec l'objectif de faciliter
-      l'accès à la pratique du vélo à Bruxelles. Pour ce faire, Vélo Solidaire
-      s'adresse aux associations bruxelloises dont le public est éloigné de la
-      pratique du vélo pour des raisons culturelles, sociales, économiques ou de
-      genre.
+      **Vélo Solidaire a démarré fin 2020 avec l'objectif de faciliter l'accès à
+      la pratique du vélo à Bruxelles. Pour ce faire, le projet s'adresse aux
+      associations bruxelloises dont le public est éloigné de la pratique du
+      vélo pour des raisons culturelles, sociales, économiques ou de genre.**
 
 
-      Ainsi, Vélo Solidaire offre des parcours comprenant de la mise en selle, des cours de roulage dans la circulation, la mise à disposition d'un vélo reconditionné pendant un an (avec la possibilité de le racheter à la fin), une introduction à l'entretien et à la mécanique du vélo. 
+      Ainsi, **Vélo Solidaire offre des parcours** comprenant de la mise en selle, des cours de vélo dans la circulation, la mise à disposition d'un vélo reconditionné pendant un an (avec la possibilité de le racheter à la fin) ainsi qu'une introduction à l'entretien et à la mécanique du vélo. 
 
 
       Par ailleurs, Vélo Solidaire propose des formations pour le personnel des associations afin de les rendre les plus autonomes possible dans la mise en place de leur projet vélo : mise en selle, encadrement d'un groupe dans la circulation, mécanique de base, organiser une sortie, tracer un itinéraire...
 
 
-      **Vélo Solidaire en quelques chiffres**
+      **Vélo Solidaire en quelques chiffres**\
 
-
-      Depuis le début du projet, ce sont plus de 1000 personnes qui ont appris à rouler à vélo, ont reçu un vélo reconditionné et ont appris à l'entretenir correctement. En moyenne, 3/4 des personnes qui ont reçu un vélo souhaitent le racheté après 'avoir utilisé pendant un an. Les autres nous rendent le vélo pour qu'il puisse être remis à un.e autre participant.e.
-
-
-      **Témoignages**
-
-
-      **Rapport d'activité**
+      Depuis le début du projet, ce sont plus de 1000 personnes qui ont appris à rouler à vélo, ont reçu un vélo reconditionné et ont appris à l'entretenir correctement. En moyenne, 3/4 des personnes qui ont reçu un vélo souhaitent le racheter après l'avoir utilisé pendant un an. Les autres nous rendent le vélo pour qu'il puisse être remis à un.e autre participant.e. Heureusement, très peu de vélos ont été déclarés volés (2%).
   - type: text
     markdown: >-
-      **Etude d'impact**
-
+      **Etude d'impact**\
 
       En octobre 2022, Vélo Solidaire a fait faire une évaluation de l'impact social du projet par le SAW-B. Vous pouvez consulter le document ici.
   - type: buttons
@@ -39,8 +30,10 @@ elements:
       - label: Etude d'impact
         download: /img/vélo_solidaire_étude_web_8_12_compressed-1-.pdf
   - type: text
-    markdown: Vélo Solidaire est le fruit d'un partenariat entre les Ateliers de la
-      rue Voot, CyCLO et Pro Velo. Il est financé par Bruxelles Mobilité.
+    markdown: >-
+      **Partenariat**\
+
+      Vélo Solidaire est le fruit d'un partenariat entre les Ateliers de la rue Voot, CyCLO et Pro Velo. Il est financé par Bruxelles Mobilité.
   - type: logos
     logo:
       - name: Les Ateliers de la rue Voot
@@ -51,7 +44,7 @@ elements:
         image: /img/logo-cyclo.png
       - name: Pro Velo
         link: https://www.provelo.org/
-        image: /img/logo-pro-vélo.png
+        image: /img/provelo_rvb-002-.png
       - name: Bruxelles Mobilité
         link: https://mobilite-mobiliteit.brussels/fr
         image: /img/logo-bxl-mob.png

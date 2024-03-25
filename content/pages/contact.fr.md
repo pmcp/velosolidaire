@@ -6,41 +6,18 @@ navTitle: Contact
 elements:
   - type: text
     markdown: >-
-      Vélo Solidaire est un projet porté par CyCLO, Pro Velo et les Ateliers de
-      la rue Voot, financé par Bruxelles Mobilité.
+      Intéressé.e.s par un de nos parcours ? Veuillez remplir [le formulaire de
+      prise de
+      contact](https://docs.google.com/forms/d/e/1FAIpQLSeeFDRdUBAyHJ_UOU4R6lsb7VYAh_v39RN3zw9hxA-YE6lblw/viewform)
+      et nous vous recontacterons pour évaluer la faisabilité de votre projet
+      vélo.
 
 
-      Pour les questions concernant les parcours d'apprentissage, les formations d'encadrant et tous les services liés à l'organisation de sortie :
+      * Concernant les formations vélo, les formations d'encadrant.e.s et tous les services liés à l'organisation de sorties : Noémie Dembour - n.dembour@provelo.org 
 
+      * Concernant l'accès aux vélos (vélos individuels ou flottes) : Cécile Van Overstraeten - cecile@cyclo.org 
 
-      Noémie 
-
-
-      Pour les questions concernant les parcours d'autonomie et les flottes de Vélos Solidaire :
-
-
-      Cécile
-
-
-      Pour les questions liées à la mécanique (ateliers mobiles, visites d'atelier...) : 
-
-
-      Voot
-
-
-      Intéressé.e.s par un de nos parcours ? Veuillez remplir [le formulaire de prise de contact](https://docs.google.com/forms/d/e/1FAIpQLSeeFDRdUBAyHJ_UOU4R6lsb7VYAh_v39RN3zw9hxA-YE6lblw/viewform) et nous vous recontacterons pour évaluer la faisabilité de votre projet vélo.
-  - type: logos
-    logo:
-      - name: Vélo Solidaire
-        image: /img/logotype_vert.png
-      - name: Pro Velo
-        image: /img/logo-pro-vélo.png
-      - name: Les Ateliers de la rue Voot
-        image: /img/voot_noir-h-1.png
-      - name: CyCLO
-        image: /img/logo-cyclo.png
-      - name: Bruxelles Mobilité
-        image: /img/logo-bxl-mob.png
+      * Concernant la mécanique (ateliers mobiles, visites d'atelier...) : l'équipe des Ateliers de la rue Voot - velosolidaire@voot.be
 ---
 V﻿ous êtes intéressé.e par les parcours Vélo Solidaire ? Veuillez remplir [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSeeFDRdUBAyHJ_UOU4R6lsb7VYAh_v39RN3zw9hxA-YE6lblw/viewform) et nous vous recontacterons pour discuter de votre projet ensemble.
 

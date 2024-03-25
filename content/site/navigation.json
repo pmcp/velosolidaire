@@ -8,19 +8,24 @@
       "labelfr": "Home"
     },
     {
-      "labelnl": "Over Solidaire Velo",
+      "labelnl": "Over ons",
       "page": "a-propos",
       "labelfr": "A propos"
     },
     {
-      "labelfr": "Nos parcours et nos services",
-      "labelnl": "Parcours en diensten",
+      "labelfr": "Parcours",
+      "labelnl": "Parcours",
       "page": "nos-parcours-et-services"
+    },
+    {
+      "labelfr": "Services à la carte",
+      "page": "nos-services-à-la-carte",
+      "labelnl": "Andere opties"
     },
     {
       "page": "bookings",
       "labelfr": "Réserver des vélos",
-      "labelnl": "Feitsbib"
+      "labelnl": "Fietsreservatie"
     },
     {
       "labelfr": "Contact",

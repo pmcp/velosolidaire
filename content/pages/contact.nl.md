@@ -18,11 +18,14 @@ form:
     label: Oopmerking?
     help: Heeft U enige opmerking, schrijf het hier.
 formActive: true
+title: Contact
 layout: "1"
 formSend: Bedankt om zich te inschrijven we nement contact met U zo dadelijk.
 intro: " "
 navTitle: Contact
-title: Contact
+elements:
+  - type: text
+    markdown: Nederlandstalige website in de maak. Nog even geduld…
 image: ""
 ---
 Zich inscrijven, verzoek om informatie, problemen met reserveringen, problemen met fietsen, neemt contact met ons via:
