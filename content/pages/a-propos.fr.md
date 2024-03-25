@@ -44,7 +44,7 @@ elements:
         image: /img/logo-cyclo.png
       - name: Pro Velo
         link: https://www.provelo.org/
-        image: /img/logo-pro-vélo.png
+        image: /img/provelo_rvb-002-.png
       - name: Bruxelles Mobilité
         link: https://mobilite-mobiliteit.brussels/fr
         image: /img/logo-bxl-mob.png
