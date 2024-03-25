@@ -3,7 +3,7 @@
   <heading-one v-if="content.title !== 'Home'">
     {{ content.intro }}
   </heading-one>
-  <div class="prose prose-indigo prose-lg text-gray-500 mx-auto w-full">
+  <div class="prose prose-indigo prose-lg text-gray-500 mx-auto w-full ">
     <div v-for="(element, key) in content.elements" :key="`el${key}`">
       <div v-if="element.type === 'text'" class="prose lg:prose-md" v-html="$md.render(element.markdown)"></div>
       <logos v-if="element.type === 'logos'" :logos="element.logo"/>
@@ -18,7 +18,6 @@
           </a>
         </div>
       </div>
-
     </div>
     </div>
   </div>
