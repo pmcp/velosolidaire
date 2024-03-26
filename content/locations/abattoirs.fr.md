@@ -101,3 +101,5 @@ mails:
 * plots
 * pompes
 * boites à outils
+
+L'accès à la flotte est géré par [Cultureghem](https://cultureghem.be/fr/accueil/).
