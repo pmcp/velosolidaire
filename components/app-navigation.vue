@@ -40,3 +40,20 @@ export default {
   },
 }
 </script>
+<script>
+import { mapGetters } from 'vuex'
+import Vue from 'vue'
+export default {
+  computed: {
+    lang() {
+      return this.$store.state.lang
+    },
+    userBookings() {
+      if (this.$store.getters.userBookings) return this.$store.getters.userBookings.length
+    },
+    ...mapGetters({
+      user: 'auth/user',
+    }),
+  },
+}
+</script>

@@ -1,12 +1,28 @@
 # DOING
-- Image
+- Footer
+
 
 # TODO
-
- 
+- Meta tags
+- Changing colors
+- If not availaible day: now green, should be red or other
+- Description of Float doesn't show everything (max-height)
 - New blocks
   - Image
   - Booking Module
+
+GOOGLE DNS
+1
+Select record type:
+Learn more
+2
+Sign in to your domain name provider (e.g. godaddy.com or namecheap.com)
+3
+Copy the TXT record below into the DNS configuration for velosolidair.brussels
+google-site-verification=q4DgpoayPULE_JLZntJAlzBlgTcbkmPQLNU8lfxjIrg
+4
+Press verify below
+Note: DNS changes may take some time to apply. If Search Console doesn’t find the record immediately, wait a day and then try to verify againLearn more
 
 
 - Check email nu .brussels 

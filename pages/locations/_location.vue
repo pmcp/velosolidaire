@@ -47,24 +47,8 @@
           <translation :id="37" />
         </div>
         <div>
-          <div class="h-80 overflow-hidden" :class="{ 'h-auto': showContent }">
+          <div class="" >
             <location-content :content="location" />
-          </div>
-          <div class="relative z-10 -top-20 w-full">
-            <div
-              class="h-10 relative readMoreGradient"
-              :class="{ ' h-auto': showContent }"
-            ></div>
-            <div class="bg-gray-50 h-10">
-              <button
-                @click="showContent = !showContent"
-                class="italic bg-white text-gray-500 rounded border border-gray-500 py-1 px-2 hover:bg-gray-200 mt-4"
-              >
-                <translation v-if="showContent" :id="33" />
-                <translation v-else :id="34" />
-              </button>
-            </div>
-            <div class="bg-gray-50 h-10"></div>
           </div>
         </div>
       </div>
