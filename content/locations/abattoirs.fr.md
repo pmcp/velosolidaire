@@ -94,7 +94,6 @@ mails:
 ### Matériel divers
 
 * cadenas
-* lumières
 * casques
 * chasubles
 * clips pour pantalon
