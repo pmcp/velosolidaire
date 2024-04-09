@@ -48,6 +48,7 @@ elements:
       - name: Bruxelles Mobilité
         link: https://mobilite-mobiliteit.brussels/fr
         image: /img/bm-fr-nl-logo-rgb.png
+image: /img/dsc_1720.jpg
 ---
 P﻿rojet au croisement de la mobilité, de l'économie circulaire et du travail social, Vélo Solidaire est né du désir de rendre la pratique du vélo accessible à toutes et tous. P﻿our ce faire, ce sont trois partenaires qui ont mis leurs compétences au service de ce projet : la formation (mise en selle, conduite dans la circulation, encadrement d'un groupe...) prise en charge par [Pro Velo](https://www.provelo.org/) ; le reconditionnement des vélos et le suivi mécanique assuré par [les Ateliers de la rue Voot](https://voot.be/ateliers/ateliers-velo/) et [CyCLO](https://www.cyclo.org/fr). 
 
