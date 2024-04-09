@@ -5,10 +5,10 @@ navTitle: A propos
 elements:
   - type: text
     markdown: >-
-      **Vélo Solidaire a démarré fin 2020 avec l'objectif de faciliter l'accès à
-      la pratique du vélo à Bruxelles. Pour ce faire, le projet s'adresse aux
-      associations bruxelloises dont le public est éloigné de la pratique du
-      vélo pour des raisons culturelles, sociales, économiques ou de genre.**
+      # **A propos de Vélo Solidaire...**
+
+
+      **Vélo Solidaire a démarré fin 2020 avec l'objectif de faciliter l'accès à la pratique du vélo à Bruxelles. Pour ce faire, le projet s'adresse aux associations bruxelloises dont le public est éloigné de la pratique du vélo pour des raisons culturelles, sociales, économiques ou de genre.**
 
 
       Ainsi, **Vélo Solidaire offre des parcours** comprenant de la mise en selle, des cours de vélo dans la circulation, la mise à disposition d'un vélo reconditionné pendant un an (avec la possibilité de le racheter à la fin) ainsi qu'une introduction à l'entretien et à la mécanique du vélo. 
