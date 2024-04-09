@@ -2,7 +2,7 @@
 title: A propos
 nav: false
 navTitle: A propos
-layout: "1"
+layout: "0"
 formActive: false
 elements:
   - type: text
