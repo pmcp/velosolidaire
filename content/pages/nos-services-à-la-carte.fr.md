@@ -58,5 +58,5 @@ elements:
       ### Parking pour les Vélos Solidaires
 
 
-      Votre public n'ose pas demander de vélo par manque de lieu sécurisé où le stocker ? Cherchons une solution ensemble ! Vous avez repéré un garage, un hangar, un endroit qui pourrait faire office de parking vélos dans votre quartier ? Contactez-nous, nous étudierons la possibilité de l'aménager en parking vélo.
+      Votre public n'ose pas demander de vélo par *manque de lieu sécurisé* où le stocker ? Cherchons une solution ensemble ! Vous avez repéré un garage, un hangar, un endroit qui pourrait faire office de parking vélos dans votre quartier ? Contactez-nous, nous étudierons la possibilité de l'aménager en parking vélo.
 ---
