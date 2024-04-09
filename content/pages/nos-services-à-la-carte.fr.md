@@ -42,7 +42,7 @@ elements:
 
       * ***Le choix de l’itinéraire*** est un des facteurs-clés pour rendre la pratique du vélo agréable et sécurisante. Vous voulez organiser une sortie avec vos participant.e.s, ou conseiller quelqu’un sur l’itinéraire de son déplacement, mais vous ne savez pas trop comment vous y prendre ? Nous pouvons vous aider à faire le tri dans les outils existants, évaluer la longueur adéquate d’une sortie en fonction du niveau de vos participant.e.s, connaître les lieux à éviter ou à privilégier… 
 
-        ![](/img/coix-d-itinéraire.png)
+        ![](/img/dsc_1819.jpg)
 
       ### Proposer des sorties à ses participant.e.s
 
