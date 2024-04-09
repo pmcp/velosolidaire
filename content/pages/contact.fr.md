@@ -6,11 +6,10 @@ navTitle: Contact
 elements:
   - type: text
     markdown: >-
-      Intéressé.e.s par un de nos parcours ? Veuillez remplir [le formulaire de
-      prise de
-      contact](https://docs.google.com/forms/d/e/1FAIpQLSeeFDRdUBAyHJ_UOU4R6lsb7VYAh_v39RN3zw9hxA-YE6lblw/viewform)
-      et nous vous recontacterons pour évaluer la faisabilité de votre projet
-      vélo.
+      # Nous contacter
+
+
+      Intéressé.e.s par un de nos parcours ? Veuillez remplir [le formulaire de prise de contact](https://docs.google.com/forms/d/e/1FAIpQLSeeFDRdUBAyHJ_UOU4R6lsb7VYAh_v39RN3zw9hxA-YE6lblw/viewform) et nous vous recontacterons pour évaluer la faisabilité de votre projet vélo.
 
 
       * Concernant les formations vélo, les formations d'encadrant.e.s et tous les services liés à l'organisation de sorties : Noémie Dembour - n.dembour@provelo.org 
