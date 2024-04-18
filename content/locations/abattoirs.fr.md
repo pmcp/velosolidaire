@@ -83,22 +83,19 @@ mails:
 
       L'équipe Vélo Solidaire
 ---
+La flotte des abattoirs d'Anderlecht est disponible du lundi au jeudi de 9h à 16h30.
+
 ### Vélos disponibles
 
 **F﻿lotte d'apprentissage**\
 11 vélos Altec Metro 26'' (taille centre-top 41cm)
 
 **F﻿lotte de sortie** \
-17 vélos Btwin Elops 360 taille M (taille centre-top 48cm)
+15 vélos Btwin Elops 360 taille M (taille centre-top 48cm)\
+2 vélos Btwin Elops 360 taille L (taille centre-top 51,5cm)
 
 ### Matériel divers
 
-* cadenas
-* casques
-* chasubles
-* clips pour pantalon
-* plots
-* pompes
-* boites à outils
+Cadenas, casques, chasubles, clips pour pantalon, plots, pompes, boites à outils.
 
 L'accès à la flotte est géré par [Cultureghem](https://cultureghem.be/fr/accueil/).
