@@ -32,5 +32,6 @@ elements:
       8. Veiller à ce que le *local* soit *propre*, *rangé* et *bien fermé* à votre départ
 
       9. *En parler autour de vous* pour en faire profiter un maximum de personnes !
+image: /img/dsc_1810.jpg
 ---
 Not Necessary

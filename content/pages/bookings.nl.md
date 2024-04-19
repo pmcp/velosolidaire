@@ -1,6 +1,6 @@
 ---
 title: Bookings
-layout: "1"
+layout: "0"
 formActive: false
 intro: ""
 elements:
