@@ -35,7 +35,7 @@ elements:
       ### Encadrer un groupe dans la circulation
 
 
-      * ***Encadrer un groupe de cyclistes dans la circulation***, ça ne s’improvise pas ! Nous proposons un module de formation qui mélange théorie et pratique pour que vous vous sentiez plus outillé.es à encadrer un déplacement en groupe à vélo.
+      * ***Encadrer un groupe de cyclistes dans la circulation***, ça ne s’improvise pas ! Nous proposons un module de formation qui mélange théorie et pratique pour que vous vous sentiez plus outillé.e.s à encadrer un déplacement en groupe à vélo.
 
         ![](/img/accompagner-une-sortie.jpg)
       * Vous vous lancez dans l’organisation de sorties à vélo avec votre public, et vous souhaiteriez que Pro Velo soit présent pour vous mettre en confiance et ***vous soutenir dans l’encadrement du groupe*** ? Nous pouvons en discuter et voir de quelle manière nous pouvons vous aider.
@@ -59,4 +59,5 @@ elements:
 
 
       Votre public n'ose pas demander de vélo par *manque de lieu sécurisé* où le stocker ? Cherchons une solution ensemble ! Vous avez repéré un garage, un hangar, un endroit qui pourrait faire office de parking vélos dans votre quartier ? Contactez-nous, nous étudierons la possibilité de l'aménager en parking vélo.
+image: /img/dsc_1810.jpg
 ---
