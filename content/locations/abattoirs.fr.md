@@ -91,8 +91,9 @@ F﻿lotte d'apprentissage\
 11 vélos Altec Metro 26'' (taille centre-top 41cm)
 
 F﻿lotte de sortie \
-15 vélos Btwin Elops 360 taille M (taille centre-top 48cm)\
-2 vélos Btwin Elops 360 taille L (taille centre-top 51,5cm)
+8 vélos Oxford Avanti taille S (taille centre-top 43cm)\
+7 vélos Btwin Elops 360 taille M (taille centre-top 48cm)\
+1 vélo Btwin Elops 360 taille L (taille centre-top 51,5cm)
 
 ### Matériel divers
 
