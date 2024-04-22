@@ -92,7 +92,7 @@ F﻿lotte d'apprentissage\
 
 F﻿lotte de sortie \
 8 vélos Oxford Avanti taille S (taille centre-top 43cm)\
-7 vélos Btwin Elops 360 taille M (taille centre-top 48cm)\
+8 vélos Btwin Elops 360 taille M (taille centre-top 48cm)\
 1 vélo Btwin Elops 360 taille L (taille centre-top 51,5cm)
 
 ### Matériel divers
