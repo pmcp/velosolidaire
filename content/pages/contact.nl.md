@@ -25,7 +25,18 @@ intro: " "
 navTitle: Contact
 elements:
   - type: text
-    markdown: Nederlandstalige website in de maak. Nog even geduld…
+    markdown: >-
+      # Contact
+
+
+      Geïnteresseerd in een van onze trajecten? Vul dan het [contactformulier](https://docs.google.com/forms/d/e/1FAIpQLSemF3oZfsirTiX4Ap_A7uTqBDuH-gUiKhh1Sr5KcBSAloUcow/viewform) in. Vervolgens nemen we contact met je op en beoordelen de haalbaarheid van je fietsproject.
+
+
+      * Voor fietsopleidingen, begeleidersopleidingen en alle diensten met betrekking tot de organisatie van fietstochten: Noémie Dembour - n.dembour@provelo.org
+
+      * Voor toegang tot fietsen (individuele fietsen of de fietsvloot): Cécile Van Overstraeten - cecile@cyclo.org
+
+      * Voor mecaniciens (mobiele fietsateliers, bezoeken aan het fietsatelier, enz.): het team van Ateliers de la rue Voot - velosolidaire@voot.be
 image: ""
 ---
 Zich inscrijven, verzoek om informatie, problemen met reserveringen, problemen met fietsen, neemt contact met ons via:
