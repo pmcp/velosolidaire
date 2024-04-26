@@ -1,5 +1,5 @@
 ---
-title: Abattoirs
+title: Vloot van de Slachthuizen van Anderlecht
 active: true
 idInSheet: abattoirs
 safetyPeriod: 0
