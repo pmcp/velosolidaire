@@ -90,11 +90,11 @@ mails:
 
       Het team van Vélo Solidaires
 ---
-| De toegang tot de vloot wordt beheerd door  | [Cultureghem](https://cultureghem.be/nl/accueil/) | . De vloot van de Slachthuizen van Anderlecht is beschikbar vanaf |     | **maandag tot donderdag tussen 9u en 16u30** | .   |
-| ------------------------------------------- | ------------------------------------------------- | ----------------------------------------------------------------- | --- | -------------------------------------------- | --- |
-| Beschikbare fietsen                         |                                                   |                                                                   |     |                                              |     |
+| De toegang tot de vloot wordt beheerd door  | [Cultureghem](https://cultureghem.be/nl/accueil/) | . De vloot van de Slachthuizen van Anderlecht is beschikbaar van |     | **maandag tot donderdag tussen 9u en 16u30** | .   |
+| ------------------------------------------- | ------------------------------------------------- | ---------------------------------------------------------------- | --- | -------------------------------------------- | --- |
+| Beschikbare fietsen                         |                                                   |                                                                  |     |                                              |     |
 | **Leer-fietsen**                            | \
-                                                | 11 fietsen Altec Metro framemaat 26'' (top-center 41cm)           |     |                                              |     |
+                                                | 11 fietsen Altec Metro framemaat 26'' (top-center 41cm)          |     |                                              |     |
 
 | **Uitstap-fietsen** | \
   | 8 fietsen Oxford Avanti framemaat S (top-center 43cm) | \
