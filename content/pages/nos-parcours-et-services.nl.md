@@ -71,7 +71,7 @@ elements:
 
       **Prijs:**\
 
-      € 70 voor de hele groep (tussen vijf en maximaal twaalf personen)\
+      € 70 voor de hele groep (tussen 5 en maximaal 12 personen)\
 
       Vormen de kosten van je deelname een obstakel? Neem contact met ons op en samen zoeken we naar een oplossing.
 
