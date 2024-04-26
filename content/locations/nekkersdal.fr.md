@@ -87,14 +87,19 @@ La flotte est disponible **du lundi au vendredi entre 9h et 17h**. Pour une bonn
 
 ### V﻿élos disponibles
 
-F﻿lotte d'apprentissage\
+**F﻿lotte d'apprentissage**\
 11 vélos Oxford 26'' - taille centre-top 38cm
 
-F﻿lotte de sortie\
+**F﻿lotte de sortie**\
 7 vélos Oxford Avanti taille S (taille centre-top 43cm)\
-7 vélos Btwin Elops 360 taille M (taille centre-top 48cm) --> à venir\
-1 vélo Btwin Elops 360 taille L (taille centre-top 51,5cm) --> à venir
+7 vélos Btwin Elops 360 taille M (taille centre-top 48cm)\
+1 vélo Btwin Elops 360 taille L (taille centre-top 51,5cm)
 
 ### Matériel divers
 
-Cadenas, casques, chasubles, clips pour pantalon, plots, pompes, boites à outils.
+Cadenas, casques, chasubles, clips pour pantalon, plots, pompes, boite à outils
+
+### Où faire de la mise en selle ?
+
+[Parc L28 - Tour & Taxi](https://www.google.com/maps/place/Av.+Jean+Dubrucq+240,+1020+Molenbeek-Saint-Jean/@50.8705879,4.3395347,17z/data=!4m5!3m4!1s0x47c3c3be4730c85b:0xef6a9b35d8e3a682!8m2!3d50.8708283!4d4.3414552?entry=ttu)\
+Avenue Jean Dubrucq 240, 1080 Molenbeek
