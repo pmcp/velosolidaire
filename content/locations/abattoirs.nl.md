@@ -90,13 +90,14 @@ mails:
 
       Het team van Vélo Solidaires
 ---
-| L'accès à la flotte est géré par                                             | [Cultureghem](https://cultureghem.be/fr/accueil/) | . La flotte des abattoirs d'Anderlecht est disponible  | **du lundi au jeudi de 9h à 16h30** | .   |
-| ---------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------ | ----------------------------------- | --- |
-| Beschikbare fietsen                                                          |                                                   |                                                        |                                     |     |
-| Leerfietsvloot                                                               |                                                   |                                                        |                                     |     |
-| 11 fietsen Altec Metro framemaat 26'' (trapas-zadelgat 41cm)                 |                                                   |                                                        |                                     |     |
-| Uitstapfietsvloot                                                            |                                                   |                                                        |                                     |     |
-| 17 fietsen Btwin Elops 360 framemaat M (trapas-zadelgat 48cm)                |                                                   |                                                        |                                     |     |
-| Diverse uitrusting                                                           |                                                   |                                                        |                                     |     |
-| Accessoires                                                                  |                                                   |                                                        |                                     |     |
-| Fietssloten, helmen, fluohesjes, broekclips, kegels, pompen, gereedschapskit |                                                   |                                                        |                                     |     |
+| L'accès à la flotte est géré par                              | [Cultureghem](https://cultureghem.be/fr/accueil/) | . La flotte des abattoirs d'Anderlecht est disponible  | **du lundi au jeudi de 9h à 16h30** | .   |
+| ------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------ | ----------------------------------- | --- |
+| Beschikbare fietsen                                           |                                                   |                                                        |                                     |     |
+| Leerfietsvloot                                                |                                                   |                                                        |                                     |     |
+| 11 fietsen Altec Metro framemaat 26'' (trapas-zadelgat 41cm)  |                                                   |                                                        |                                     |     |
+| Uitstapfietsvloot                                             |                                                   |                                                        |                                     |     |
+| 17 fietsen Btwin Elops 360 framemaat M (trapas-zadelgat 48cm) |                                                   |                                                        |                                     |     |
+
+| Accessoires                                                                  |
+| ---------------------------------------------------------------------------- |
+| Fietssloten, helmen, fluohesjes, broekclips, kegels, pompen, gereedschapskit |
