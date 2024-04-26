@@ -1,5 +1,5 @@
 ---
-title: Solidaire Velo
+title: Home
 intro: ""
 layout: "0"
 elements:
