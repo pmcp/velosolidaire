@@ -76,6 +76,6 @@ elements:
       Vormen de kosten van je deelname een obstakel? Neem contact met ons op en samen zoeken we naar een oplossing.
 
 
-      Geïnteresseerd in een van onze trajecten? Contacteer-ons
+      Geïnteresseerd in een van onze trajecten? [Contacteer-ons](https://www.velosolidaire.brussels/contact.nl)
 ---
  A faire
