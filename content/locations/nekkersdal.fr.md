@@ -87,13 +87,13 @@ La flotte est disponible **du lundi au vendredi entre 9h et 17h**. Pour une bonn
 
 ### V﻿élos disponibles
 
-F﻿lotte d'apprentissage\
+**F﻿lotte d'apprentissage**\
 11 vélos Oxford 26'' - taille centre-top 38cm
 
-F﻿lotte de sortie\
+**F﻿lotte de sortie**\
 7 vélos Oxford Avanti taille S (taille centre-top 43cm)\
-7 vélos Btwin Elops 360 taille M (taille centre-top 48cm) --> à venir\
-1 vélo Btwin Elops 360 taille L (taille centre-top 51,5cm) --> à venir
+7 vélos Btwin Elops 360 taille M (taille centre-top 48cm)\
+1 vélo Btwin Elops 360 taille L (taille centre-top 51,5cm)
 
 ### Matériel divers
 

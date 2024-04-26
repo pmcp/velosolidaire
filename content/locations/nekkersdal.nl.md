@@ -15,27 +15,27 @@ mails:
     subject: Bevestiging van uw reservering
     from: booking@velosolidaire.be
     body: >-
-      Cher/Chère %NAME%,
+      Beste %NAME%,
 
 
-      Vous avez réservé des vélos via Vélo Solidaire.
+      Je hebt fietsen gereserveerd via Solidaire Velo.
 
 
       %BOOKING%
 
 
-      Le jour de votre réservation, vous devrez vous rendre dans les locaux du Gemeenschapcentrum Nekkersdal, vous présenter à l'accueil et demander l'accès aux vélos solidaires en mentionnant votre nom et votre association.
-       
-      La personne de l'accueil vous accompagnera jusqu'à la cave où se trouve la flotte de Vélo Solidaire.
+      Op de dag van je reservatie meld je je aan bij het onthaal van het Gemeenschapscentrum Nekkersdal, waar je toegang vraagt tot de fietsvloot van Vélo Solidaire. Vermeld hierbij je naam en je vereniging.
+
+      De onthaalmedewerker zal je begeleiden naar de kelder waar de Solidaire Velo-vloot staat.
 
 
-      Quand vous avez terminé, c'est à nouveau la personne de l'accueil qui vous donnera accès à la cave. Remettez les vélos à leur place et si un vélo était défectueux, rangez le dans l'espace prévu à cet effet et dites le nous!
+      Als je de fietsen komt terugbrengen, geeft de receptionist je weer toegang tot de kelder. Zet de fietsen terug op hun plaats en als een fiets defect is, zet hem dan in op de daarvoor bestemde plaats en laat het ons weten!
 
 
-      Bonne route, 
+      Fiets ze,
 
 
-      L'équipe de Vélo Solidaire
+      Het Solidaire Velo-team
   reminder:
     subject: Herinnering van uw reservering
     from: info@velosolidaire.be
@@ -43,43 +43,43 @@ mails:
       Cher/Chère %NAME%,
 
 
-      Vous avez réservé des vélos via Vélo Solidaire.
+      Je hebt fietsen gereserveerd via Solidaire Velo.
 
 
       %BOOKING%
 
 
-      Le jour de votre réservation, vous devrez vous rendre dans les locaux du Gemeenschapcentrum Nekkersdal, vous présenter à l'accueil et demander l'accès aux vélos solidaires en mentionnant votre nom et votre association.
-       
-      La personne de l'accueil vous accompagnera jusqu'à la cave où se trouve la flotte de Vélo Solidaire.
+      Op de dag van je reservatie meld je je aan bij het onthaal van het Gemeenschapscentrum Nekkersdal, waar je toegang vraagt tot de fietsvloot van Vélo Solidaire. Vermeld hierbij je naam en je vereniging.
+
+      De onthaalmedewerker zal je begeleiden naar de kelder waar de Solidaire Velo-vloot staat.
 
 
-      Quand vous avez terminé, c'est à nouveau la personne de l'accueil qui vous donnera accès à la cave. Remettez les vélos à leur place et si un vélo était défectueux, rangez le dans l'espace prévu à cet effet et dites le nous!
+      Als je de fietsen komt terugbrengen, geeft de receptionist je weer toegang tot de kelder. Zet de fietsen terug op hun plaats en als een fiets defect is, zet hem dan in op de daarvoor bestemde plaats en laat het ons weten!
 
 
-      Bonne route, 
+      Fiets ze,
 
 
-      L'équipe de Vélo Solidaire
+      Het Solidaire Velo-team
   retour:
     from: info@velosolidaire.be
     body: >-
       Cher/Chère %NAME%,
 
 
-      Vous avez réservé des vélos via Vélo Solidaire.
+      Je hebt fietsen gereserveerd via Solidaire Velo.
 
 
       %BOOKING%
 
 
-      J'espère que votre réservation s'est bien déroulée. Est-ce que certains vélos ont été endommagés? Veuillez dans ce cas nous transmettre décrire les problèmes détectés par retour de cet Email pour que nous puissions au plus vite les réparer. 
+      Wij hopen dat je reservatie goed is verlopen. Zijn er fietsen beschadigd? Zo ja, laat ons dan weten over welke problemen het precies gaat door deze e-mail te beantwoorden, zodat we die zo snel mogelijk kunnen herstellen. 
 
 
-      A tout bientôt.
+      Tot ziens.
 
 
-      L'équipe Vélo Solidaire
+      Het Solidaire Velo-team
     subject: Terugbrengen van je reservering
 ---
 De toegang tot de vloot wordt beheerd door het [Gemeenschapscentrum Nekkersdal](https://www.nekkersdal.be/) en de [KWB](https://korpus.kwb.be/page?page=afd_home&orl=579). De vloot is beschikbaar **van maandag tot vrijdag tussen 9u en 17u**. Om de organisatie vlot te laten verlopen, moet de vloot **minstens twee weken op voorhand worden gereserveerd**.
