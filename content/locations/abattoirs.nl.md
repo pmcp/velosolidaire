@@ -113,6 +113,6 @@ Nijverheidskaai 79, 1080 Molenbeek
 
 ### Idëen van fietstochten
 
-Route van 4km\
-Route van 7,5km\
-Route van 16km
+[Route van 4km](https://cycle.travel/map/journey/342219)\
+[Route van 7,5km](https://cycle.travel/map/journey/342211)\
+[Route van 16km](https://cycle.travel/map/journey/342208)
