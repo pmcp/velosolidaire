@@ -102,13 +102,13 @@ mails:
   | 1 fiets Btwin Elops 360 framemaat L (top-center 51,5cm) |
 | --------------- | --- | ----------------------------------------------------- | --- | ------------------------------------------------------- | --- | ------------------------------------------------------- |
 
-| Accessoires                                                                  |                                                          |                                    |     |                 |     |                |
-| ---------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------- | --- | --------------- | --- | -------------- |
-| Fietssloten, helmen, fluohesjes, broekclips, kegels, pompen, gereedschapskit |                                                          |                                    |     |                 |     |                |
-| Où faire de la mise en selle ?                                               |                                                          |                                    |     |                 |     |                |
+| Accessoires                                                                  |                                                          |                                    |     |     |                                                            |     |     |     |                                                           |     |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------- | --- | --- | ---------------------------------------------------------- | --- | --- | --- | --------------------------------------------------------- | --- |
+| Fietssloten, helmen, fluohesjes, broekclips, kegels, pompen, gereedschapskit |                                                          |                                    |     |     |                                                            |     |     |     |                                                           |     |
+| Où faire de la mise en selle ?                                               |                                                          |                                    |     |     |                                                            |     |     |     |                                                           |     |
 | De Grote Hal (800m van de vloot)                                             | \
-                                                       | Nijverheidskaai 79, 1080 Molenbeek |     |                 |     |                |
-| Des idées de sortie                                                          |                                                          |                                    |     |                 |     |                |
+                                                       | Nijverheidskaai 79, 1080 Molenbeek |     |     |                                                            |     |     |     |                                                           |     |
+| Des idées de sortie                                                          |                                                          |                                    |     |     |                                                            |     |     |     |                                                           |     |
 |                                                                              | [Route van 4km](https://cycle.travel/map/journey/342219) |                                    | \
-  | Route van 7,5km | \
-  | Route van 16km |
+  |     | [Route van 7,5km](https://cycle.travel/map/journey/342211) |     | \
+  |     | [Route van 16km](https://cycle.travel/map/journey/342208) |     |
