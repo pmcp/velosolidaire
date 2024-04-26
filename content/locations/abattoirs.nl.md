@@ -97,8 +97,10 @@ mails:
                                                 | 11 fietsen Altec Metro framemaat 26'' (top-center 41cm) |                                     |     |
 
 | Uitstap-fietsen | \
-  | 8 fietsen Btwin Elops 360 framemaat M (top-center 48cm) |
-| --------------- | --- | ------------------------------------------------------- |
+  | 8 fietsen Oxford Avanti framemaat S (top-center 43cm) | \
+  | 8 fietsen Btwin Elops 360 framemaat M (top-center 48cm) | \
+  | 1 fiets Btwin Elops 360 framemaat L (top-center 51,5cm) |
+| --------------- | --- | ----------------------------------------------------- | --- | ------------------------------------------------------- | --- | ------------------------------------------------------- |
 
 | Accessoires                                                                  |
 | ---------------------------------------------------------------------------- |
