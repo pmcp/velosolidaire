@@ -105,3 +105,7 @@ De toegang tot de vloot wordt beheerd door Cultureghem. De vloot is beschikbaar 
 ### Accessoires
 
 Fietssloten, helmen, fluohesjes, broekclips, kegels, pompen, gereedschapskid
+
+### Waar fietsen leren?
+
+De Grote Hal (800m van de vloot)
