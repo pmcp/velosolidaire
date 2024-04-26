@@ -93,12 +93,12 @@ mails:
 | L'accès à la flotte est géré par  | [Cultureghem](https://cultureghem.be/fr/accueil/) | . La flotte des abattoirs d'Anderlecht est disponible   | **du lundi au jeudi de 9h à 16h30** | .   |
 | --------------------------------- | ------------------------------------------------- | ------------------------------------------------------- | ----------------------------------- | --- |
 | Beschikbare fietsen               |                                                   |                                                         |                                     |     |
-| Leerfietsvloot                    | \
+| Leer-fietsen                      | \
                                                 | 11 fietsen Altec Metro framemaat 26'' (top-center 41cm) |                                     |     |
 
-| Uitstapfietsvloot                                        |
-| -------------------------------------------------------- |
-| 17 fietsen Btwin Elops 360 framemaat M (top-center 48cm) |
+| Uitstap-fietsen | \
+  | 8 fietsen Btwin Elops 360 framemaat M (top-center 48cm) |
+| --------------- | --- | ------------------------------------------------------- |
 
 | Accessoires                                                                  |
 | ---------------------------------------------------------------------------- |
