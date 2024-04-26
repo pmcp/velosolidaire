@@ -83,3 +83,19 @@ mails:
     subject: Terugbrengen van je reservering
 ---
 De toegang tot de vloot wordt beheerd door het [Gemeenschapscentrum Nekkersdal](https://www.nekkersdal.be/) en de [KWB](https://korpus.kwb.be/page?page=afd_home&orl=579). De vloot is beschikbaar **van maandag tot vrijdag tussen 9u en 17u**. Om de organisatie vlot te laten verlopen, moet de vloot **minstens twee weken op voorhand worden gereserveerd**.
+
+### Beschikbare fietsen
+
+**Leer-fietsen**\
+11 fietsen Oxford framemaat 26'' (center-top 38cm)
+
+**Uitstap-fietsen**\
+7 fietsen Oxford Avanti framemaat S (center-top 43cm)\
+7 fietsen Btwin Elops 360 framemaat M (center-top 48cm)\
+1 fiets Btwin Elops 360 framemaat L (center-top 51,5cm)
+
+### Accessoires
+
+Fietssloten, helmen, fluohesjes, broekclips, kegels, pompen, gereedschapskid
+
+### Waar fietsen leren?
