@@ -97,4 +97,4 @@ F﻿lotte de sortie\
 
 ### Matériel divers
 
-Cadenas, casques, chasubles, clips pour pantalon, plots, pompes, boites à outils.
+Cadenas, casques, chasubles, clips pour pantalon, plots, pompes, boite à outils
