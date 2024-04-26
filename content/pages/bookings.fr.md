@@ -33,32 +33,6 @@ elements:
 
 
       *En parler autour de vous* pour en faire profiter un maximum de personnes !
-
-
-      #### Où faire de la mise en selle ?
-
-
-      **Au départ de la flotte des abattoirs d'Anderlecht**\
-
-      De Grote Hal\
-
-      Quai de l’industrie 79\
-
-      1080 Molenbeek
-  - type: buttons
-    button:
-      - label: Lieu de mise en selle depuis les abattoirs
-        download: /img/lieux-d-apprentissage-abattoirs-1.pdf
-  - type: text
-    markdown: |-
-      **Au départ de la flotte de Nekkersdal :**\
-      Parc L28 - Tour & Taxi\
-      Avenue Jean Dubrucq 240\
-      1080 Molenbeek
-  - type: buttons
-    button:
-      - label: Lieu de mise en selle depuis Nekkersdal
-        download: /img/lieux-d-apprentissage-nekkersdal-1.pdf
 image: /img/dsc_1810.jpg
 ---
 Not Necessary
