@@ -41,10 +41,9 @@ elements:
 
       **Tarif :**\
 
-      800€ pour tout le groupe (entre 5 et 12 personnes maximum)*
+      800€ pour tout le groupe (entre 5 et 12 personnes maximum)\
 
-
-      \*Si le coût de votre participation devait représenter un frein, n'hésitez pas à nous contacter, nous chercherons une solution ensemble.
+      Si le coût de votre participation devait représenter un frein, n'hésitez pas à nous contacter, nous chercherons une solution ensemble.
 
 
       ### Parcours d'autonomie
