@@ -90,7 +90,7 @@ mails:
 
       Het team van Solidaire Velo
 ---
-De toegang tot de vloot wordt beheerd door Cultureghem. De vloot is beschikbaar van maandag tot donderdag tussen 9u en 16u30.
+De toegang tot de vloot wordt beheerd door [Cultureghem](https://cultureghem.be/nl/huis/). De vloot is beschikbaar van maandag tot donderdag tussen 9u en 16u30.
 
 ### Beschikbare fietsen
 
