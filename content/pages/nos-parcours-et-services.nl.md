@@ -36,9 +36,7 @@ elements:
 
       * 6 sessies om veilig in het verkeer te leren fietsen
 
-      * De overhandiging van een fiets aan elke deelnemer gevolgd door
-
-      * 1 opleiding fietsen in het verkeer
+      * De overhandiging van een fiets aan elke deelnemer gevolgd door een opleiding fietsen in het verkeer
 
       * 1 les in fietsonderhoud en basismechanica
 
