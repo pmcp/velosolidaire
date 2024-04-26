@@ -19,26 +19,26 @@ mails:
       Beste %NAME%,
 
 
-      U heeft fietsen geboekt Velo Solidaires fietsen.
+      Je hebt fietsen gereserveerd via Solidaire Velo.
 
 
       %BOOKING%
 
 
-      Op de dag van uw reservatie moet u zich naar de lokalen van Cultureghem begeven (links van de ingang met de 2 stieren) en vragen om acess aan de fietsen hebben. Zeg aan iemand van de Cultureghem ploeg je naam en het naam van je vereniging. 
+      Op de dag van je reservatie meld je je aan bij het onthaal van  Cultureghem begeven (links van de ingang met de 2 stieren) waar je toegang vraagt tot de fietsvloot van Solidaire Velo. Zeg aan iemand van de Cultureghem ploeg je naam en het naam van je vereniging. 
 
-      Iemand van de Cultureghem team zal u de sleutels van de lock geven en mag ook jij begeleiden naar de garage waar de fietsen zich bevinden, die zich in de kelders bevindt, en in het begin een beetje indrukwekkend is. 
+      Iemand van de Cultureghem team zal je de sleutels van de lock geven en mag ook jij begeleiden naar de garage waar de fietsen zich bevinden, die zich in de kelders bevindt, en in het begin een beetje indrukwekkend is. 
 
-      Het enige wat u hoeft te doen is de fietsen kiezen die geschikt zijn voor uw activiteit. Vergeet niet de sluiter te sluiten en het licht uit te doen als je weggaat. 
+      Het enige wat je hoeft te doen is de fietsen kiezen die geschikt zijn voor je activiteit. Vergeet niet de lock te sluiten en het licht uit te doen als je weggaat. 
 
 
-      Als jij klaar bent, zet jij de fietsen terug op hun plaats, sluit u de garage af en geef de sleutels terug aan het Cultureghem-team. Als een fiets defect is, zet hem dan terug in de daarvoor bestemde ruimte en laat het ons weten!
+      Als jij klaar bent, zet jij de fietsen terug op hun plaats, sluit je de garage af en geef de sleutels terug aan het Cultureghem-team. Als een fiets defect is, zet hem dan terug in de daarvoor bestemde ruimte en laat het ons weten!
 
 
       Goede reis, 
 
 
-      Het team van Vélo Solidaire
+      Het team van Solidaire Velo
   reminder:
     from: info@velosolidaire.be
     subject: Herinnering van uw reservering
@@ -46,20 +46,20 @@ mails:
       Beste %NAME%,
 
 
-      U heeft fietsen geboekt via Velo Solidaire
+      Je hebt fietsen gereserveerd via Solidaire Velo.
 
 
       %BOOKING%
 
 
-      Op de dag van uw reservatie moet u zich naar de lokalen van Cultureghem begeven (links van de ingang met de 2 stieren) en vragen om acess aan de fietsen hebben. Zeg aan iemand van de Cultureghem ploeg je naam en het naam van je vereniging. 
+      Op de dag van jereservatie moet je zich naar de lokalen van Cultureghem begeven (links van de ingang met de 2 stieren) en vragen om acess aan de fietsen hebben. Zeg aan iemand van de Cultureghem ploeg je naam en het naam van je vereniging. 
 
-      Iemand van de Cultureghem team zal u de sleutels van de lock geven en mag ook jij begeleiden naar de garage waar de fietsen zich bevinden, die zich in de kelders bevindt, en in het begin een beetje indrukwekkend is. 
+      Iemand van de Cultureghem team zal je de sleutels van de lock geven en mag ook jij begeleiden naar de garage waar de fietsen zich bevinden, die zich in de kelders bevindt, en in het begin een beetje indrukwekkend is. 
 
-      Het enige wat u hoeft te doen is de fietsen kiezen die geschikt zijn voor uw activiteit. Vergeet niet de sluiter te sluiten en het licht uit te doen als je weggaat. 
+      Het enige wat je hoeft te doen is de fietsen kiezen die geschikt zijn voor je activiteit. Vergeet niet de lock te sluiten en het licht uit te doen als je weggaat. 
 
 
-      Als jij klaar bent, zet jij de fietsen terug op hun plaats, sluit u de garage af en geef de sleutels terug aan het Cultureghem-team. Als een fiets defect is, zet hem dan terug in de daarvoor bestemde ruimte en laat het ons weten!
+      Als jij klaar bent, zet jij de fietsen terug op hun plaats, sluit je de garage af en geef de sleutels terug aan het Cultureghem-team. Als een fiets defect is, zet hem dan terug in de daarvoor bestemde ruimte en laat het ons weten!
 
 
       Goede reis, 
@@ -73,22 +73,22 @@ mails:
       Beste %NAME%,
 
 
-      U heeft fietsen geboekt via Vélo Solidaire.
+      Je hebt fietsen gereserveerd via Solidaire Velo.
 
 
       %BOOKING%
 
 
-      Ik hoop dat uw fietsreservatie goed verlopen is. Waren er fietsen die defect waren? Indien dit het geval is, wil u dat ons dat melden in een antwoord op deze mail met het nummer van de fiets en wat er stuk aan was? Zo kunnen wij de fietsen zo snel mogelijk herstellen.
+      Wij hopen dat je fietsreservatie goed is verlopen. Zijn er fietsen beschadigd? Zo ja, laat ons dan weten over welke problemen het precies gaat door deze e-mail te beantwoorden, zodat we die zo snel mogelijk kunnen herstellen. 
 
 
-      Tot binnenkort!
+      Tot ziens.
 
 
       Groet,
 
 
-      Het team van Vélo Solidaires
+      Het team van Solidaire Velo
 ---
 | De toegang tot de vloot wordt beheerd door  | [Cultureghem](https://cultureghem.be/nl/accueil/) | . De vloot van de Slachthuizen van Anderlecht is beschikbaar van |     | **maandag tot donderdag tussen 9u en 16u30** | .   |
 | ------------------------------------------- | ------------------------------------------------- | ---------------------------------------------------------------- | --- | -------------------------------------------- | --- |
