@@ -90,33 +90,14 @@ mails:
 
       Het team van Solidaire Velo
 ---
-| De toegang tot de vloot wordt beheerd door Cultureghem. De vloot van is beschikbaar van maandag to donderdag tusse 9u en 16u30. |     |                                                         |     |                                                           |     |                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------- | --- | ------------------------------------------------------- | --- | --------------------------------------------------------- | --- | ---------------------------------------------------------- |
-| Beschikbare fietsen                                                                                                             |     |                                                         |     |                                                           |     |                                                            |
-| Leer-fietsen                                                                                                                    | \
-  | 11 fietsen Altec Metro framemaat 26'' (top-center 41cm) |     |                                                           |     |                                                            |
-| Uitstap-fietsen                                                                                                                 | \
-  | 8 vélos Oxford Avanti taille S (taille centre-top 43cm) | \
-  | 8 vélos Btwin Elops 360 taille M (taille centre-top 48cm) | \
-  | 1 vélo Btwin Elops 360 taille L (taille centre-top 51,5cm) |
-|                                                                                                                                 |     |                                                         |     |                                                           |     |                                                            |
-| Beschikbare fietsen                                                                                                             |     |                                                         |     |                                                           |     |                                                            |
-| **Leer-fietsen**                                                                                                                | \   |                                                         |     |                                                           |     |                                                            |
-| 11 fietsen Altec Metro framemaat 26'' (top-center 41cm)                                                                         |     |                                                         |     |                                                           |     |                                                            |
+De toegang tot de vloot wordt beheerd door Cultureghem. De vloot is beschikbaar van maandag tot donderdag tussen 9u en 16u30.
 
-\| **Uitstap-fietsen** | \
-  | 8 fietsen Oxford Avanti framemaat S (top-center 43cm) | \
-  | 8 fietsen Btwin Elops 360 framemaat M (top-center 48cm) | \
-  | 1 fiets Btwin Elops 360 framemaat L (top-center 51,5cm) |
-| ------------------- | --- | ----------------------------------------------------- | --- | ------------------------------------------------------- | --- | ------------------------------------------------------- |
+### Beschikbare fietsen
 
-| Accessoires                                                                  |                                                                                                                                                                                                                    |                     |     |     |     |     |     |     |     |     |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Fietssloten, helmen, fluohesjes, broekclips, kegels, pompen, gereedschapskit |                                                                                                                                                                                                                    |                     |     |     |     |     |     |     |     |     |
-| Waar fietsen leren ?                                                         |                                                                                                                                                                                                                    |                     |     |     |     |     |     |     |     |     |
-|                                                                              | [De Grote Hal](https://www.google.com/maps/place/De+Grote+Hal/@50.8473512,4.3282256,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c514f5acfd69:0x72b95ab710ca289c!8m2!3d50.8473478!4d4.3308005!16s%2Fg%2F11j_0nn_ts?entry=ttu) | (800m van de vloot) | \   |     |     |     |     |     |     |     |
-| Nijverheidskaai 79, 1080 Molenbeek                                           |                                                                                                                                                                                                                    |                     |     |     |     |     |     |     |     |     |
-| Idëen van fietstochten                                                       |                                                                                                                                                                                                                    |                     |     |     |     |     |     |     |     |     |
-|                                                                              | [Route van 4km](https://cycle.travel/map/journey/342219)                                                                                                                                                           |                     | \   |     |     |     |     |     |     |     |
-|                                                                              | [Route van 7,5km](https://cycle.travel/map/journey/342211)                                                                                                                                                         |                     | \   |     |     |     |     |     |     |     |
-|                                                                              | [Route van 16km](https://cycle.travel/map/journey/342208)                                                                                                                                                          |                     |     |     |     |     |     |     |     |     |
+**Leer-fietsen**\
+11 fietsen Altec Metro framemaat 26'' (center-top 41cm)
+
+**Uitstap-fietsen**\
+8 vélos Oxford Avanti framemaat S (center-top 43cm)\
+8 vélos Btwin Elops 360 framemaat M (center-top 48cm)\
+1 vélo Btwin Elops 360 framemaat L (center-top 51,5cm)
