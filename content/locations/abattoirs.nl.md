@@ -102,6 +102,10 @@ mails:
   | 1 fiets Btwin Elops 360 framemaat L (top-center 51,5cm) |
 | --------------- | --- | ----------------------------------------------------- | --- | ------------------------------------------------------- | --- | ------------------------------------------------------- |
 
-| Accessoires                                                                  |
-| ---------------------------------------------------------------------------- |
-| Fietssloten, helmen, fluohesjes, broekclips, kegels, pompen, gereedschapskit |
+| Accessoires                                                                  |     |                                        |
+| ---------------------------------------------------------------------------- | --- | -------------------------------------- |
+| Fietssloten, helmen, fluohesjes, broekclips, kegels, pompen, gereedschapskit |     |                                        |
+| Où faire de la mise en selle ?                                               |     |                                        |
+| De Grote Hal (à 800m de la flotte)                                           | \
+  | Quai de l’industrie 79, 1080 Molenbeek |
+| Des idées de sortie                                                          |     |                                        |
