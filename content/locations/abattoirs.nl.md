@@ -103,3 +103,5 @@ De toegang tot de vloot wordt beheerd door Cultureghem. De vloot is beschikbaar 
 1 fiets Btwin Elops 360 framemaat L (center-top 51,5cm)
 
 ### Accessoires
+
+Fietssloten, helmen, fluohesjes, broekclips, kegels, pompen, gereedschapskid
