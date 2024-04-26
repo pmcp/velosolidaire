@@ -1,5 +1,5 @@
 ---
-title: Nekkersdal
+title: Nekkersdalvloot
 active: true
 idInSheet: Nekkersdal
 safetyPeriod: 14
@@ -82,4 +82,4 @@ mails:
       L'équipe Vélo Solidaire
     subject: Terugbrengen van je reservering
 ---
-Nederlandstalige website in de maak. Nog even geduld…
+De toegang tot de vloot wordt beheerd door het [Gemeenschapscentrum Nekkersdal](https://www.nekkersdal.be/) en de [KWB](https://korpus.kwb.be/page?page=afd_home&orl=579). De vloot is beschikbaar **van maandag tot vrijdag tussen 9u en 17u**. Om de organisatie vlot te laten verlopen, moet de vloot **minstens twee weken op voorhand worden gereserveerd**.
