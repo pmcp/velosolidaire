@@ -76,7 +76,7 @@ mails:
       Wij hopen dat je reservatie goed is verlopen. Zijn er fietsen beschadigd? Zo ja, laat ons dan weten over welke problemen het precies gaat door deze e-mail te beantwoorden, zodat we die zo snel mogelijk kunnen herstellen. 
 
 
-      Tot ziens.
+      Tot ziens,
 
 
       Het Solidaire Velo-team
