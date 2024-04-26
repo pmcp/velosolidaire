@@ -98,6 +98,8 @@ De toegang tot de vloot wordt beheerd door Cultureghem. De vloot is beschikbaar 
 11 fietsen Altec Metro framemaat 26'' (center-top 41cm)
 
 **Uitstap-fietsen**\
-8 vélos Oxford Avanti framemaat S (center-top 43cm)\
-8 vélos Btwin Elops 360 framemaat M (center-top 48cm)\
-1 vélo Btwin Elops 360 framemaat L (center-top 51,5cm)
+8 fietsen Oxford Avanti framemaat S (center-top 43cm)\
+8 fietsen Btwin Elops 360 framemaat M (center-top 48cm)\
+1 fiets Btwin Elops 360 framemaat L (center-top 51,5cm)
+
+### Accessoires
