@@ -11,10 +11,10 @@ elements:
       **Vélo Solidaire a démarré fin 2020 avec l'objectif de faciliter l'accès à la pratique du vélo à Bruxelles. Pour ce faire, le projet s'adresse aux associations bruxelloises dont le public est éloigné de la pratique du vélo pour des raisons culturelles, sociales, économiques ou de genre.**
 
 
-      Ainsi, **Vélo Solidaire offre des parcours** comprenant de la mise en selle, des cours de vélo dans la circulation, la mise à disposition d'un vélo reconditionné pendant un an (avec la possibilité de le racheter à la fin) ainsi qu'une introduction à l'entretien et à la mécanique du vélo. 
+      Ainsi, Vélo Solidaire offre **des parcours pour votre public** comprenant de la mise en selle, des cours de vélo dans la circulation, la mise à disposition d'un vélo reconditionné pendant un an (avec la possibilité de le racheter à la fin) ainsi qu'une introduction à l'entretien et à la mécanique du vélo. 
 
 
-      Par ailleurs, Vélo Solidaire propose des formations pour le personnel des associations afin de les rendre les plus autonomes possible dans la mise en place de leur projet vélo : mise en selle, encadrement d'un groupe dans la circulation, mécanique de base, organiser une sortie, tracer un itinéraire...
+      Par ailleurs, Vélo Solidaire propose des formations **pour le personnel des associations** afin de les rendre les plus autonomes possible dans la mise en place de leur projet vélo : mise en selle, encadrement d'un groupe dans la circulation, mécanique de base, organiser une sortie, tracer un itinéraire...
 
 
       **Vélo Solidaire en quelques chiffres**\
@@ -22,9 +22,7 @@ elements:
       Depuis le début du projet, ce sont plus de 1000 personnes qui ont appris à rouler à vélo, ont reçu un vélo reconditionné et ont appris à l'entretenir correctement. En moyenne, 3/4 des personnes qui ont reçu un vélo souhaitent le racheter après l'avoir utilisé pendant un an. Les autres nous rendent le vélo pour qu'il puisse être remis à un.e autre participant.e. Heureusement, très peu de vélos ont été déclarés volés (2%).
 
 
-      **Rapport d'activité**\
-
-      Consultez notre rapport d'activité :
+      **Rapport d'activité**
   - type: buttons
     button:
       - label: Rapport d'activité Vélo Solidaire 2023
@@ -33,7 +31,7 @@ elements:
     markdown: >-
       **Etude d'impact**\
 
-      En octobre 2022, Vélo Solidaire a fait faire une évaluation de l'impact social du projet par le SAW-B. Vous pouvez consulter le document ici.
+      En octobre 2022, Vélo Solidaire a fait faire une évaluation de l'impact social du projet par le SAW-B.
   - type: buttons
     button:
       - label: Etude d'impact
