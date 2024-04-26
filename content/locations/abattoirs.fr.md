@@ -97,7 +97,12 @@ F﻿lotte de sortie \
 
 ### Matériel divers
 
-Cadenas, casques, chasubles, clips pour pantalon, plots, pompes, boites à outils.
+Cadenas, casques, chasubles, clips pour pantalon, plots, pompes, boite à outils
+
+### Où faire de la mise en selle ?
+
+De Grote Hal (à 800m de la flotte)\
+Quai de l’industrie 79, 1080 Molenbeek
 
 ### Des idées de sortie
 
