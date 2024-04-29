@@ -17,7 +17,7 @@ elements:
 
       1. *Respecter les horaires* de réservation (prévoyez de terminer votre activité un peu plus tôt pour avoir le temps de bien ranger les vélos). Il vous est possible de réserver des vélos pour une journée entière, juste une matinée ou juste une après-midi. Attention de bien vous référer aux horaires d’ouverture et fermeture des différents lieux.
 
-      2. Pour les activités récurrentes, *ne pas réserver les plages horaires trop à l’avance* (maximum 3 mois) pour laisser l’opportunité à toutes les association partenaires de bénéficier du service.
+      2. Pour les activités récurrentes, *ne pas réserver les plages horaires trop à l’avance* (maximum 3 mois) pour laisser l’opportunité à toutes les associations partenaires de bénéficier du service.
 
       3. Dans la mesure du possible *annuler la réservation bien à temps* (1 semaine minimum) pour libérer la plage horaire à une autre association.
 
@@ -27,7 +27,7 @@ elements:
 
       6. *Ranger les vélos* selon leur taille et refermer la longe avec le cadenas à clé.
 
-      7. *Si un vélo est cassé ou volé*, le signaler par Email à velosolidaire@cyclo.org et placer le vélo à l’endroit prévu pour les vélos cassés.
+      7. *Si un vélo a un souci mécanique ou volé*, le signaler par Email à velosolidaire@cyclo.org et placer le vélo à l’endroit prévu pour les vélos nécessitant un réparation.
 
       8. Veiller à ce que le *local* soit *propre*, *rangé* et *bien fermé* à votre départ
 
