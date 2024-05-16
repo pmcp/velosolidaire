@@ -29,13 +29,16 @@ elements:
       ### Apprendre à un groupe à pédaler
 
 
-      Vous voulez organiser des activités à vélo pour votre public, mais vous vous rendez compte que vos bénéficiaires n’ont jamais appris à pédaler ? Nous avons développé toute une méthodologie pour apprendre l’équilibre dynamique à vélo. Nous proposons un module de formation pour vous transmettre cette méthodologie, en se mettant dans les conditions réelles d’apprentissage.
+      Vous voulez organiser des activités à vélo pour votre public, mais vous vous rendez compte que vos bénéficiaires n’ont jamais appris à pédaler ? Nous avons développé toute une méthodologie pour apprendre l’équilibre dynamique à vélo. Nous proposons un module de formation pour vous transmettre cette méthodologie, en se mettant dans les conditions réelles d’apprentissage.\
+
+      Dates et inscriptions [ici](https://www.billetweb.fr/formation-je-veux-apprendre-a-quelquun-a-rouler-a-velo)
 
 
       ### Encadrer un groupe dans la circulation
 
 
-      * ***Encadrer un groupe de cyclistes dans la circulation***, ça ne s’improvise pas ! Nous proposons un module de formation qui mélange théorie et pratique pour que vous vous sentiez plus outillé.e.s à encadrer un déplacement en groupe à vélo.
+      * ***Encadrer un groupe de cyclistes dans la circulation***, ça ne s’improvise pas ! Nous proposons un module de formation qui mélange théorie et pratique pour que vous vous sentiez plus outillé.e.s à encadrer un déplacement en groupe à vélo.\
+        Dates et inscriptions [ici](https://www.billetweb.fr/formation-encadrant-e)
 
         ![](/img/accompagner-une-sortie.jpg)
       * Vous vous lancez dans l’organisation de sorties à vélo avec votre public, et vous souhaiteriez que Pro Velo soit présent pour vous mettre en confiance et ***vous soutenir dans l’encadrement du groupe*** ? Nous pouvons en discuter et voir de quelle manière nous pouvons vous aider.
