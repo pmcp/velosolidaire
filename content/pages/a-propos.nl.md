@@ -53,13 +53,13 @@ elements:
         link: https://voot.be/ateliers/ateliers-velo/
         image: /img/voot_transparent.png
       - name: CyCLO
-        link: https://www.cyclo.org/fr
+        link: https://www.cyclo.org/nl
         image: /img/logo_png_black_backgroundtransparant.png
-      - link: https://www.provelo.org/
+      - link: https://www.provelo.org/nl
         name: Pro Velo
         image: /img/provelo_rvb-002-.png
       - name: Bruxelles Mobilité
-        link: https://mobilite-mobiliteit.brussels/fr
+        link: https://mobilite-mobiliteit.brussels/nl
         image: /img/bm-fr-nl-logo-rgb.png
 image: /img/dsc_1720.jpg
 ---
