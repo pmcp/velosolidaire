@@ -48,7 +48,7 @@ elements:
         image: /img/voot_transparent.png
       - name: CyCLO
         link: https://www.cyclo.org/fr
-        image: /img/logo-cyclo.png
+        image: /img/logo_png_black_backgroundtransparant.png
       - name: Pro Velo
         link: https://www.provelo.org/
         image: /img/provelo_rvb-002-.png
