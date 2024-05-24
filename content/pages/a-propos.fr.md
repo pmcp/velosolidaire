@@ -45,7 +45,7 @@ elements:
     logo:
       - name: Les Ateliers de la rue Voot
         link: https://voot.be/ateliers/ateliers-velo/
-        image: /img/voot_noir-h-1.png
+        image: /img/voot_transparent.png
       - name: CyCLO
         link: https://www.cyclo.org/fr
         image: /img/logo-cyclo.png
