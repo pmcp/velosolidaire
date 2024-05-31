@@ -65,7 +65,7 @@ mails:
       Goede reis, 
 
 
-      Het team van Vélo Solidaire
+      Het team van Solidaire Velo
   retour:
     subject: Terugbrengen van je reservering
     from: info@velosolidaire.be
