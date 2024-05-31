@@ -32,7 +32,9 @@ elements:
       ### Een groep leren fietsen
 
 
-      Je wil met je groep fietsactiviteiten organiseren, maar je deelnemers kunnen eigenlijk nog niet fietsen? We reiken een leermethode aan die jou in staat stelt anderen aan te leren om op de fiets het evenwicht te houden.
+      Je wil met je groep fietsactiviteiten organiseren, maar je deelnemers kunnen eigenlijk nog niet fietsen? We reiken een leermethode aan die jou in staat stelt anderen aan te leren om op de fiets het evenwicht te houden.\
+
+      **Data en inscrijving** [hier](https://www.billetweb.fr/formation-encadrant-e&language=nl)
 
 
       ### Een groep begeleiden in het verkeer

@@ -29,9 +29,9 @@ elements:
       ### Apprendre à un groupe à pédaler
 
 
-      Vous voulez organiser des activités à vélo pour votre public, mais vous vous rendez compte que vos bénéficiaires n’ont jamais appris à pédaler ? Nous avons développé toute une méthodologie pour apprendre l’équilibre dynamique à vélo. Nous proposons un module de formation pour vous transmettre cette méthodologie, en se mettant dans les conditions réelles d’apprentissage.\
+      Vous voulez organiser des activités à vélo pour votre public mais vos bénéficiaires n’ont jamais appris à pédaler ? Nous avons développé toute une méthodologie pour apprendre l’équilibre dynamique à vélo. Nous proposons un module de formation pour vous transmettre cette méthodologie, en se mettant dans les conditions réelles d’apprentissage.\
 
-      Dates et inscriptions [ici](https://www.billetweb.fr/formation-je-veux-apprendre-a-quelquun-a-rouler-a-velo)
+      **Dates et inscriptions** [ici](https://www.billetweb.fr/formation-je-veux-apprendre-a-quelquun-a-rouler-a-velo)
 
 
       ### Encadrer un groupe dans la circulation
