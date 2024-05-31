@@ -17,7 +17,7 @@ elements:
       Votre public souhaite apprendre à rouler à vélo et ensuite bénéficier d’un Vélo Solidaire ? Le parcours d'apprentissage est très complet.
 
 
-      ##### Objectifs :
+      ##### **Objectifs :**
 
 
       * Apprendre à pédaler
