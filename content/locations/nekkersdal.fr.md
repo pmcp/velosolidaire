@@ -88,7 +88,7 @@ La flotte est disponible **du lundi au vendredi entre 9h et 17h**. Pour une bonn
 ### V﻿élos disponibles
 
 **F﻿lotte d'apprentissage**\
-11 vélos Oxford 26'' - taille centre-top 38cm
+11 vélos Oxford 26'' (taille centre-top 38cm)
 
 **F﻿lotte de sortie**\
 7 vélos Oxford Avanti taille S (taille centre-top 43cm)\
