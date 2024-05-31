@@ -33,6 +33,6 @@ elements:
 
 
       *En parler autour de vous* pour en faire profiter un maximum de personnes !
-image: /img/dsc_1810.jpg
+image: /img/dsc_2001.jpg
 ---
 Not Necessary
