@@ -79,16 +79,13 @@ mails:
       %BOOKING%
 
 
-      Wij hopen dat je fietsreservatie goed is verlopen. Zijn er fietsen beschadigd? Zo ja, laat ons dan weten over welke problemen het precies gaat door deze e-mail te beantwoorden, zodat we die zo snel mogelijk kunnen herstellen. 
+      Wij hopen dat je reservatie goed is verlopen. Zijn er fietsen beschadigd? Zo ja, laat ons dan weten over welke problemen het precies gaat door deze e-mail te beantwoorden, zodat we die zo snel mogelijk kunnen herstellen. 
 
 
-      Tot ziens.
+      Tot ziens,
 
 
-      Groet,
-
-
-      Het team van Solidaire Velo
+      Het Solidaire Velo-team
 ---
 De toegang tot de vloot wordt beheerd door [Cultureghem](https://cultureghem.be/nl/huis/). De vloot is beschikbaar **van maandag tot donderdag tussen 9u en 16u30**.
 
