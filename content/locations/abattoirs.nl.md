@@ -38,7 +38,7 @@ mails:
       Goede reis, 
 
 
-      Het team van Solidaire Velo
+      Het Solidaire Velo-team
   reminder:
     from: info@velosolidaire.be
     subject: Herinnering van uw reservering
@@ -52,7 +52,7 @@ mails:
       %BOOKING%
 
 
-      Op de dag van jereservatie moet je zich naar de lokalen van Cultureghem begeven (links van de ingang met de 2 stieren) en vragen om acess aan de fietsen hebben. Zeg aan iemand van de Cultureghem ploeg je naam en het naam van je vereniging. 
+      Op de dag van jereservatie meld je je aan bij het onthaal van  Cultureghem begeven (links van de ingang met de 2 stieren) waar je toegang vraagt tot de fietsvloot van Solidaire Velo. Zeg aan iemand van de Cultureghem ploeg je naam en het naam van je vereniging. 
 
       Iemand van de Cultureghem team zal je de sleutels van de lock geven en mag ook jij begeleiden naar de garage waar de fietsen zich bevinden, die zich in de kelders bevindt, en in het begin een beetje indrukwekkend is. 
 
@@ -65,7 +65,7 @@ mails:
       Goede reis, 
 
 
-      Het team van Solidaire Velo
+      Het Solidaire Velo-team
   retour:
     subject: Terugbrengen van je reservering
     from: info@velosolidaire.be
