@@ -94,7 +94,7 @@ De toegang tot de vloot wordt beheerd door [Cultureghem](https://cultureghem.be/
 **Leer-fietsen**\
 11 fietsen Altec Metro framemaat 26'' (center-top 41cm)
 
-**Uitstap-fietsen**\
+**Fietstocht-fietsen**\
 8 fietsen Oxford Avanti framemaat S (center-top 43cm)\
 8 fietsen Btwin Elops 360 framemaat M (center-top 48cm)\
 1 fiets Btwin Elops 360 framemaat L (center-top 51,5cm)
@@ -103,12 +103,12 @@ De toegang tot de vloot wordt beheerd door [Cultureghem](https://cultureghem.be/
 
 Fietssloten, helmen, fluohesjes, broekclips, kegels, pompen, gereedschapskid
 
-### Waar fietsen leren?
+### Waar kan je leren fietsen?
 
 [De Grote Hal](https://www.google.com/maps/place/De+Grote+Hal/@50.8473512,4.3282256,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c514f5acfd69:0x72b95ab710ca289c!8m2!3d50.8473478!4d4.3308005!16s%2Fg%2F11j_0nn_ts?entry=ttu) (800m van de vloot)\
 Nijverheidskaai 79, 1080 Molenbeek
 
-### Idëen van fietstochten
+### Op zoek narr een fietsroute?
 
 [Route van 4km](https://cycle.travel/map/journey/342219)\
 [Route van 7,5km](https://cycle.travel/map/journey/342211)\
