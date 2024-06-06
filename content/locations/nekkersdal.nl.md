@@ -89,7 +89,7 @@ De toegang tot de vloot wordt beheerd door het [Gemeenschapscentrum Nekkersdal](
 **Leer-fietsen**\
 11 fietsen Oxford framemaat 26'' (center-top 38cm)
 
-**Uitstap-fietsen**\
+**Fietstocht-fietsen**\
 7 fietsen Oxford Avanti framemaat S (center-top 43cm)\
 7 fietsen Btwin Elops 360 framemaat M (center-top 48cm)\
 1 fiets Btwin Elops 360 framemaat L (center-top 51,5cm)
@@ -98,7 +98,7 @@ De toegang tot de vloot wordt beheerd door het [Gemeenschapscentrum Nekkersdal](
 
 Fietssloten, helmen, fluohesjes, broekclips, kegels, pompen, gereedschapskid
 
-### Waar fietsen leren?
+### Waar kan je leren fietsen ?
 
 [L28 park - Tour & Taxi](https://www.google.com/maps/place/Av.+Jean+Dubrucq+240,+1020+Molenbeek-Saint-Jean/@50.8705879,4.3395347,17z/data=!4m5!3m4!1s0x47c3c3be4730c85b:0xef6a9b35d8e3a682!8m2!3d50.8708283!4d4.3414552?entry=ttu)\
 Jean Dubrucqlaan 240, 1080 Molenbeek
