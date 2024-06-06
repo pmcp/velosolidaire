@@ -6,41 +6,36 @@ intro: ""
 elements:
   - type: text
     markdown: >-
-      # Fietsen reserveren
+      # Een fietsvloot reserveren
 
 
-      Charte d'utilisation --> traduction en cours
+      **Lees gebruikersovereenkomst  alvorens je een vloot en datum kiest.**
 
 
-      Veuillez lire la charte d'utilisation avant de choisir la flotte et la date qui vous convient.
+      De fietsvloot van Solidaire Velo staat ter beschikking van elke (socio-)culturele vereniging die zich inzet voor de gezondheid en de sociale cohesie van een kansarm publiek en actief is in het Brussels Gewest. De fietsen zijn gratis beschikbaar om te léren fietsen of voor een fietstocht in groep.
 
 
+      Om ervoor te zorgen dat deze fietsvloten gemakkelijk en optimaal gebruikt kunnen worden, vragen we het volgende:
 
 
-      Les flottes Vélos Solidaire sont accessibles à toute association psyco/socio/culturelle ou de promotion de la santé et la cohésion sociale active en Région Bruxelloise et qui s’adresse à un public moins favorisé. Les vélos sont disponibles à titre gratuit pour des activités d’apprentissage du vélo ou pour des sorties à vélo en groupe.
+      1. *Respecteer de reserveringstijden* (denk eraan om je activiteit iets eerder af te ronden zodat je tijd hebt om de fietsen netjes te stallen). Je kan fietsen reserveren voor een hele dag, een ochtend of een middag. Let op de openings- en sluitingstijden van de verschillende locaties.
+
+      2. *Reserveer niet te lang op voorhand* voor terugkerende activiteiten (max. drie maanden) om alle partnerverenigingen de kans te geven van de dienst gebruik te maken.
+
+      3. *Annuleer de reservatie* indien zo veel mogelijk *op voorhand* (minimaal één week) om het tijdslot vrij te maken voor een andere vereniging.
+
+      4. *Controleer* voor het gebruik of *de banden* goed opgepompt zijn, of *de zadels* op de juiste hoogte staan en of *de remmen* goed werken.
+
+      5. *Breng de fietsen terug in de staat waarin je ze hebt uitgeleend* (check de bandenspanning en pomp wat bij indien nodig, check de positie en de stabiliteit van het zadel en het stuur, enz.)
+
+      6. *Stal de fietsen* volgens grootte en sluit de kabel met het hangslot.
+
+      7. *Als een fiets een mechanisch probleem heeft of gestolen is*, meld dit dan per mail aan velosolidaire@cyclo.org en zet de fiets op de plek die voorzien is voor fietsen die hersteld moeten worden.
+
+      8. Zorg ervoor dat de ruimte *opgeruimd, netjes en afgesloten* is wanneer je weggaat.
 
 
-      Dans le but de garantir une utilisation facile et optimale de ces flottes, il vous est demandé de :
-
-
-      1. Respecter les horaires de réservation (prévoyez de terminer votre activité un peu plus tôt pour avoir le temps de bien ranger les vélos). Il vous est possible de réserver des vélos pour une journée entière, juste une matinée ou juste une après-midi. Attention de bien vous référer aux horaires d’ouverture et fermeture des différents lieux.
-
-      2. Pour les activités récurrentes, ne pas réserver les plages horaires trop à l’avance (maximum 3 mois) pour laisser l’opportunité à toutes les association partenaires de bénéficier du service.
-
-      3. Dans la mesure du possible annuler la réservation bien à temps (1 semaine minimum) pour libérer la plage horaire à une autre association.
-
-      4. Avant leur utilisation vérifier que les pneus sont bien gonflés, les selles à la bonne hauteur et les freins en bon état.
-
-      5. Rendre les vélos dans l’état emprunté (n’hésitez pas à regonfler les pneus, vérifier que la selle et le guidon sont bien fixés,…).
-
-      6. Ranger les vélos selon leur taille et refermer la longe avec le cadenas à clé.
-
-      7. Si un vélo est cassé ou volé, le signaler par Email à velosolidaire@cyclo.org et placer le vélo à l’endroit prévu pour les vélos cassés.
-
-      8. Veiller à ce que le local soit propre, rangé et bien fermé à votre départ
-
-
-      En parler autour de vous pour en faire profiter un maximum de personnes !
+      *Spread the word*, om zo veel mogelijk mensen van deze dienst te laten genieten !
 image: /img/dsc_2001.jpg
 ---
 Not Necessary
