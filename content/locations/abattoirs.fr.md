@@ -88,7 +88,7 @@ L'accès à la flotte est géré par [Cultureghem](https://cultureghem.be/fr/acc
 ### Vélos disponibles
 
 **F﻿lotte d'apprentissage**\
-11 vélos Altec Metro 26'' (taille centre-top 41cm)
+11 vélos Altec Metro 26'' (taille centre-top 41cm) !!! ATTENTION !!! Seulement 5 vélos d'apprentissage seront disponibles entre le 17 juillet et le 26 aout !
 
 **F﻿lotte de sortie** \
 8 vélos Oxford Avanti taille S (taille centre-top 43cm)\
