@@ -31,7 +31,7 @@ mails:
       Quelqu'un de l'équipe vous remettra les clés du cadenas et pourra vous accompagner au garage dans lequel se trouvent les vélos si c'est la première fois que vous venez. Ce garage est situé dans les caves, c'est un peu impressionnant au début. Si la lumière des caves est éteinte, demandez à quelqu'un de l'équipe de les allumer.
 
 
-      Une fois dans le garage de Vélo Solidaire, le bouton pour allumer le néon se trouve sur le néon-même, côté gauche (il ne fonctionnera que si la lumière des caves est allumée). Il vous suffira alors de sélectionner les vélos appropriés à votre activité. N'oubliez pas en partant de bien refermer le volet et d'éteindre la lumière. 
+      Une fois dans le garage de Vélo Solidaire, le bouton pour allumer le néon se trouve sur le néon-même, côté gauche (il ne fonctionnera que si la lumière des caves est allumée). Il vous suffira alors de sélectionner les vélos appropriés à votre activité. Prévoyez de prendre un peu de temps pour gonfler les pneus des vélos avant votre activité. N'oubliez pas en partant de bien refermer le volet et d'éteindre la lumière. 
 
 
       Quand vous avez terminé, remettez les vélos à leur place, refermez le garage et rendez les clés à l'équipe de Cultureghem. Si un vélo était défectueux, rangez-le dans l'espace prévu à cet effet et dites-le nous!
@@ -60,7 +60,7 @@ mails:
       Quelqu'un de l'équipe vous remettra les clés du cadenas et pourra vous accompagner au garage dans lequel se trouvent les vélos si c'est la première fois que vous venez. Ce garage est situé dans les caves, c'est un peu impressionnant au début. Si la lumière des caves est éteinte, demandez à quelqu'un de l'équipe de les allumer.
 
 
-      Une fois dans le garage de Vélo Solidaire, le bouton pour allumer le néon se trouve sur le néon-même, côté gauche (il ne fonctionnera que si la lumière des caves est allumée).  Il vous suffira alors de sélectionner les vélos appropriés à votre activité. N'oubliez pas en partant de bien refermer le volet et éteindre la lumière. 
+      Une fois dans le garage de Vélo Solidaire, le bouton pour allumer le néon se trouve sur le néon-même, côté gauche (il ne fonctionnera que si la lumière des caves est allumée).  Il vous suffira alors de sélectionner les vélos appropriés à votre activité. Prévoyez de prendre un peu de temps pour gonfler les pneus des vélos avant votre activité. N'oubliez pas en partant de bien refermer le volet et éteindre la lumière. 
 
 
       Quand vous avez terminé, remettez les vélos à leur place, refermez le garage et rendez les clés à l'équipe de Cultureghem. Si un vélo était défectueux, rangez-le dans l'espace prévu à cet effet et dites-le nous!

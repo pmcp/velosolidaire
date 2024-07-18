@@ -31,7 +31,7 @@ mails:
       Hij/zij zal je de sleutels van het slot overhandigen en je begeleiden naar de garage in de indrukwekkende kelderruimte waar de fietsen zich bevinden. Wanneer de kelderverlichting uit is, vraag dan iemand van het team om deze aan te zetten. 
 
 
-      Eenmaal in de Vélo Solidaire-garage, bevindt de knop om de neon aan te zetten zich op de neon zelf, aan de linkerkant (deze werkt alleen als de kelderverlichting aan is). Kies de fietsen uit bedoeld voor jouw activiteit en vergeet het slot niet opnieuw op slot te doen en het licht uit te doen als je weggaat.
+      Eenmaal in de Vélo Solidaire-garage, bevindt de knop om de neon aan te zetten zich op de neon zelf, aan de linkerkant (deze werkt alleen als de kelderverlichting aan is). Kies de fietsen uit bedoeld voor jouw activiteit. Voor je activiteit, neem de tijd om de fietsbanden op te pompen. En dan vergeet het slot niet opnieuw op slot te doen en het licht uit te doen als je weggaat.
 
 
       Als je klaar bent, zet je de fietsen terug op hun plaats, sluit je de garage af en geef je de sleutels terug aan iemand van het Cultureghem-team. Een defecte fiets? Plaats hem  op de daarvoor bestemde plek en laat het ons weten!
@@ -60,7 +60,7 @@ mails:
       Hij/zij zal je de sleutels van het slot overhandigen en je begeleiden naar de garage in de indrukwekkende kelderruimte waar de fietsen zich bevinden. Wanneer de kelderverlichting uit is, vraag dan iemand van het team om deze aan te zetten. 
 
 
-      Eenmaal in de Vélo Solidaire-garage, bevindt de knop om de neon aan te zetten zich op de neon zelf, aan de linkerkant (deze werkt alleen als de kelderverlichting aan is). Kies de fietsen uit bedoeld voor jouw activiteit en vergeet het slot niet opnieuw op slot te doen en het licht uit te doen als je weggaat.
+      Eenmaal in de Vélo Solidaire-garage, bevindt de knop om de neon aan te zetten zich op de neon zelf, aan de linkerkant (deze werkt alleen als de kelderverlichting aan is). Kies de fietsen uit bedoeld voor jouw activiteit. Voor je activiteit, neem de tijd om de fietsbanden op te pompen. En dan vergeet het slot niet opnieuw op slot te doen en het licht uit te doen als je weggaat.
 
 
       Als je klaar bent, zet je de fietsen terug op hun plaats, sluit je de garage af en geef je de sleutels terug aan iemand van het Cultureghem-team. Een defecte fiets? Plaats hem  op de daarvoor bestemde plek en laat het ons weten!
@@ -103,7 +103,7 @@ De toegang tot de vloot wordt beheerd door [Cultureghem](https://cultureghem.be/
 8 fietsen Btwin Elops 360 framemaat M (center-top 48cm)\
 1 fiets Btwin Elops 360 framemaat L (center-top 51,5cm)
 
-### Accessoires
+### Materiaal
 
 Fietssloten, helmen, fluohesjes, broekclips, kegels, pompen, gereedschapskid
 
