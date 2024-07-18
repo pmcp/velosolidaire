@@ -28,10 +28,10 @@ mails:
       Op de dag van je reservatie meld je je aan bij het onthaal van  Cultureghem (links van de ingang met de 2 stieren) waar je toegang vraagt tot de fietsvloot van Solidaire Velo. Geef jouw naam en die van je vereniging door aan de Cultureghem-medewerker.
 
 
-      Hij/zij zal je de sleutels van het slot  overhandigen  en je begeleiden  naar de garage in de indrukwekkende kelderruimte waar de fietsen zich bevinden.
+      Hij/zij zal je de sleutels van het slot overhandigen en je begeleiden naar de garage in de indrukwekkende kelderruimte waar de fietsen zich bevinden. Wanneer de kelderverlichting uit is, vraag dan iemand van het team om deze aan te zetten. 
 
 
-      Kies de fietsen uit bedoeld voor jouw activiteit en vergeet het slot niet opnieuw op slot te doen en het licht uit te doen als je weggaat.
+      Eenmaal in de Vélo Solidaire-garage, bevindt de knop om de neon aan te zetten zich op de neon zelf, aan de linkerkant (deze werkt alleen als de kelderverlichting aan is). Kies de fietsen uit bedoeld voor jouw activiteit en vergeet het slot niet opnieuw op slot te doen en het licht uit te doen als je weggaat.
 
 
       Als je klaar bent, zet je de fietsen terug op hun plaats, sluit je de garage af en geef je de sleutels terug aan iemand van het Cultureghem-team. Een defecte fiets? Plaats hem  op de daarvoor bestemde plek en laat het ons weten!
@@ -57,10 +57,10 @@ mails:
       Op de dag van je reservatie meld je je aan bij het onthaal van  Cultureghem (links van de ingang met de 2 stieren) waar je toegang vraagt tot de fietsvloot van Solidaire Velo. Geef jouw naam en die van je vereniging door aan de Cultureghem-medewerker.
 
 
-      Hij/zij zal je de sleutels van het slot  overhandigen  en je begeleiden  naar de garage in de indrukwekkende kelderruimte waar de fietsen zich bevinden.
+      Hij/zij zal je de sleutels van het slot overhandigen en je begeleiden naar de garage in de indrukwekkende kelderruimte waar de fietsen zich bevinden. Wanneer de kelderverlichting uit is, vraag dan iemand van het team om deze aan te zetten. 
 
 
-      Kies de fietsen uit bedoeld voor jouw activiteit en vergeet het slot niet opnieuw op slot te doen en het licht uit te doen als je weggaat.
+      Eenmaal in de Vélo Solidaire-garage, bevindt de knop om de neon aan te zetten zich op de neon zelf, aan de linkerkant (deze werkt alleen als de kelderverlichting aan is). Kies de fietsen uit bedoeld voor jouw activiteit en vergeet het slot niet opnieuw op slot te doen en het licht uit te doen als je weggaat.
 
 
       Als je klaar bent, zet je de fietsen terug op hun plaats, sluit je de garage af en geef je de sleutels terug aan iemand van het Cultureghem-team. Een defecte fiets? Plaats hem  op de daarvoor bestemde plek en laat het ons weten!
