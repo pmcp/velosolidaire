@@ -29,6 +29,9 @@ mails:
       De onthaalmedewerker zal je begeleiden naar de kelder waar de Solidaire Velo-vloot staat.
 
 
+      Voor je activiteit, neem de tijd om de fietsbanden op te pompen. Alle materiaal (inclusief de pompen) bevindt zich in de grote afgesloten kast.
+
+
       Als je de fietsen komt terugbrengen, geeft de receptionist je weer toegang tot de kelder. Zet de fietsen terug op hun plaats en als een fiets defect is, zet hem dan in op de daarvoor bestemde plaats en laat het ons weten!
 
 
@@ -52,6 +55,9 @@ mails:
       Op de dag van je reservatie meld je je aan bij het onthaal van het Gemeenschapscentrum Nekkersdal, waar je toegang vraagt tot de fietsvloot van Vélo Solidaire. Vermeld hierbij je naam en je vereniging.
 
       De onthaalmedewerker zal je begeleiden naar de kelder waar de Solidaire Velo-vloot staat.
+
+
+      Voor je activiteit, neem de tijd om de fietsbanden op te pompen. Alle materiaal (inclusief de pompen) bevindt zich in de grote afgesloten kast.
 
 
       Als je de fietsen komt terugbrengen, geeft de receptionist je weer toegang tot de kelder. Zet de fietsen terug op hun plaats en als een fiets defect is, zet hem dan in op de daarvoor bestemde plaats en laat het ons weten!

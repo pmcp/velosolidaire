@@ -24,9 +24,10 @@ mails:
       %BOOKING%
 
 
-      Le jour de votre réservation, vous devrez vous rendre dans les locaux du Gemeenschapcentrum Nekkersdal, vous présenter à l'accueil et demander l'accès à la flotte de Vélo Solidaire en mentionnant votre nom et votre association.
-       
-      La personne de l'accueil vous accompagnera jusqu'à la cave où se trouve la flotte de Vélo Solidaire.
+      Le jour de votre réservation, vous devrez vous rendre dans les locaux du Gemeenschapcentrum Nekkersdal, vous présenter à l'accueil et demander l'accès à la flotte de Vélo Solidaire en mentionnant votre nom et votre association. La personne de l'accueil vous accompagnera jusqu'à la cave où se trouve la flotte de Vélo Solidaire.
+
+
+      Prévoyez de prendre un peu de temps pour gonfler les pneus des vélos avant votre activité. Tout le matériel (dont les pompes) se trouve dans la grande armoire fermée à clé.
 
 
       Quand vous avez terminé, c'est à nouveau la personne de l'accueil qui vous donnera accès à la cave. Remettez les vélos à leur place et si un vélo était défectueux, rangez-le dans l'espace prévu à cet effet et dites-le nous!
@@ -49,9 +50,10 @@ mails:
       %BOOKING%
 
 
-      Le jour de votre réservation, vous devrez vous rendre dans les locaux du Gemeenschapcentrum Nekkersdal, vous présenter à l'accueil et demander l'accès à la flotte de Vélo Solidaire en mentionnant votre nom et votre association.
-       
-      La personne de l'accueil vous accompagnera jusqu'à la cave où se trouve la flotte de Vélo Solidaire.
+      Le jour de votre réservation, vous devrez vous rendre dans les locaux du Gemeenschapcentrum Nekkersdal, vous présenter à l'accueil et demander l'accès à la flotte de Vélo Solidaire en mentionnant votre nom et votre association. La personne de l'accueil vous accompagnera jusqu'à la cave où se trouve la flotte de Vélo Solidaire.
+
+
+      Prévoyez de prendre un peu de temps pour gonfler les pneus des vélos avant votre activité. Tout le matériel (dont les pompes) se trouve dans la grande armoire fermée à clé.
 
 
       Quand vous avez terminé, c'est à nouveau la personne de l'accueil qui vous donnera accès à la cave. Remettez les vélos à leur place et si un vélo était défectueux, rangez-le dans l'espace prévu à cet effet et dites-le nous!
