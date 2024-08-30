@@ -96,7 +96,7 @@ De toegang tot de vloot wordt beheerd door [Cultureghem](https://cultureghem.be/
 ### Beschikbare fietsen
 
 **Leer-fietsen**\
-11 fietsen Altec Metro framemaat 26'' (center-top 41cm) !!! OPGELET !!! Tussen 17 juli en 26 augustus zijn er slechts 5 leer-fietsen beschikbaar !
+11 fietsen Altec Metro framemaat 26'' (center-top 41cm)
 
 **Fietstocht-fietsen**\
 8 fietsen Oxford Avanti framemaat S (center-top 43cm)\
