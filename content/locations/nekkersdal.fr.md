@@ -84,6 +84,8 @@ mails:
 
       L'équipe Vélo Solidaire
 ---
+**!!! Le Centre communautaire Nekkersdal déménage : la flotte ne sera plus accessible à partir du 31 octobre 2024. Nous sommes à la recherche d'un nouveau lieu pour l'accueillir !!!**
+
 L'accès à la flotte est géré par le [Centre Communautaire Nekkersdal](https://www.nekkersdal.be/) et la [KWB](https://korpus.kwb.be/page?page=afd_home&orl=579).
 La flotte est disponible **du lundi au vendredi entre 9h et 17h**. Pour une bonne organisation, elle doit être **réservée minimum 2 semaines à l'avance**. 
 
