@@ -1,6 +1,6 @@
 ---
 title: Flotte de Nekkersdal
-active: true
+active: false
 idInSheet: Nekkersdal
 safetyPeriod: 14
 location: '{"type":"Point","coordinates":[4.346331,50.8733201]}'
