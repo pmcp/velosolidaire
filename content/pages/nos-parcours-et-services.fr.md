@@ -8,11 +8,7 @@ elements:
       # Deux types de parcours
 
 
-
-      En fonction des besoins de votre public, deux types d’accompagnement vous sont proposés. Si vous souhaitez faire une demande de participation au projet, merci de choisir
-
-      le parcours qui vous intéresse et de remplir le formulaire que vous trouverez en cliquant sur un des liens ci-dessous.
-
+      En fonction des besoins de votre public, deux types d’accompagnement vous sont proposés. Si vous souhaitez faire une demande de participation au projet, merci de choisir le parcours qui vous intéresse et de remplir le formulaire que vous trouverez en cliquant sur un des liens ci-dessous.
 
 
       ### Parcours d'apprentissage
@@ -50,10 +46,7 @@ elements:
       Si le coût de votre participation devait représenter un frein, n'hésitez pas à nous contacter, nous chercherons une solution ensemble.
 
 
-      Si vous avez suivi la formation d'encadrant.e.s et que vous êtes capable de prendre en charge tout ou partie du parcours de formation, le tarif sera déterminé au prorata des séances de formation encore nécessaires.
-
-
-      ##### Demande d'inscription [ici](https://docs.google.com/forms/d/e/1FAIpQLSfUZG9idqEHy4TLxdLb6C-Hb9IJngMaG9PR7wDTUd3BPD9WqA/viewform)
+      ##### \>>> Demande d'inscription [ici](https://docs.google.com/forms/d/e/1FAIpQLSfUZG9idqEHy4TLxdLb6C-Hb9IJngMaG9PR7wDTUd3BPD9WqA/viewform) <<<
 
 
       ### Parcours d'autonomie
@@ -84,7 +77,7 @@ elements:
       Si le coût de votre participation devait représenter un frein, n'hésitez pas à nous contacter, nous chercherons une solution ensemble. [](https://docs.google.com/forms/d/e/1FAIpQLSfDXdj8sUn8bQgjkmfj-jGmC2k74P9LHzPGz2UhqqQ5sDeXiA/viewform)
 
 
-      ##### Demande d'inscription ici[](https://docs.google.com/forms/d/e/1FAIpQLSfDXdj8sUn8bQgjkmfj-jGmC2k74P9LHzPGz2UhqqQ5sDeXiA/viewform)
+      ##### \>>> Demande d'inscription ici <<<[](https://docs.google.com/forms/d/e/1FAIpQLSfDXdj8sUn8bQgjkmfj-jGmC2k74P9LHzPGz2UhqqQ5sDeXiA/viewform)
 image: ""
 ---
 ## Nos parcours pour votre public
