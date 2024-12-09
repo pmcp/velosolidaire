@@ -127,5 +127,8 @@
 
 em {
   font-style: normal;
-  color: #299147;
+  color: white;
+  background-color: rgb(175, 115, 194);
+  padding: .2em;
+
 }
