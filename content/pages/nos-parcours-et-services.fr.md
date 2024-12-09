@@ -5,16 +5,16 @@ navTitle: Nos parcours et nos services
 elements:
   - type: text
     markdown: >-
-      # Les parcours
+      # Deux types de parcours
 
 
-      ![](/img/vélo-solidaire-parcours-1100-x-788-px-2-002-.png)
+      En fonction des besoins de votre public, deux types d’accompagnement vous sont proposés. Si vous souhaitez faire une demande de participation au projet, merci de choisir le parcours qui vous intéresse et de remplir le formulaire que vous trouverez en cliquant sur un des liens ci-dessous.
 
 
       ### Parcours d'apprentissage
 
 
-      Votre public souhaite apprendre à rouler à vélo et ensuite bénéficier d’un Vélo Solidaire ? Le parcours d'apprentissage est très complet.
+      Ce parcours s’adresse à un public qui n’a jamais appris à pédaler.
 
 
       ##### **Objectifs :**
@@ -30,13 +30,13 @@ elements:
       **Etapes du parcours :**
 
 
-      * 6 séances de mise en selle
+      * 6 séances de formation pour apprendre à pédaler
 
-      * 6 séances de formation dans la circulation
+      * 6 séances de formation pour apprendre à rouler dans le trafic
 
-      * la remise des vélos à chaque participant.e lors d'une séance de formation dans la circulation
+      * la mise à disposition d'un vélo reconditionné gratuite pendant 1 an à chaque participant.e
 
-      * 1 formation à l'entretien du vélos et à la mécanique de base
+      * 1 séance de formation à l'entretien du vélos et à la mécanique de base
 
 
       **Tarif :**\
@@ -46,10 +46,15 @@ elements:
       Si le coût de votre participation devait représenter un frein, n'hésitez pas à nous contacter, nous chercherons une solution ensemble.
 
 
+      #### \>>> Demande d'inscription [ici](https://docs.google.com/forms/d/e/1FAIpQLSfUZG9idqEHy4TLxdLb6C-Hb9IJngMaG9PR7wDTUd3BPD9WqA/viewform) <<<
+
+
+
+
       ### Parcours d'autonomie
 
 
-      Votre public sait déjà rouler à vélo et connait le code de la route, il ne leur manque plus que le vélo pour s’y mettre ? Ce parcours est fait pour vous !
+      Ce parcours s’adresse à un public qui sait déjà rouler, mais qui se trouve en grande précarité de mobilité et qui a surtout besoin d’avoir un vélo à disposition. Le parcours se compose comme suit : 
 
 
       **Objectif :**\
@@ -60,19 +65,21 @@ elements:
       **Etapes du parcours :**
 
 
-      * 1 séance pour remettre les vélos à chaque participant.e et faire un sortie encadrée en circulation
+      * la mise à disposition d'un vélo reconditionné gratuite pendant 1 an à chaque participant.e
 
-      * 1 formation à l'entretien du vélo et à la mécanique de base
+      * 2 séances de formation sur mesure en fonction des besoins
+
+      * 1 séance de formation à l'entretien du vélos et à la mécanique de base
 
 
       **Tarif :**\
 
-      70€ pour tout le groupe (entre 5 et 12 personnes maximum)\
+      100€ pour tout le groupe (entre 5 et 12 personnes maximum)\
 
-      Si le coût de votre participation devait représenter un frein, n'hésitez pas à nous contacter, nous chercherons une solution ensemble.
+      Si le coût de votre participation devait représenter un frein, n'hésitez pas à nous contacter, nous chercherons une solution ensemble. [](https://docs.google.com/forms/d/e/1FAIpQLSfDXdj8sUn8bQgjkmfj-jGmC2k74P9LHzPGz2UhqqQ5sDeXiA/viewform)
 
 
-      Intéressé.e.s par un de nos parcours ? [Contactez-nous](https://www.velosolidaire.brussels/contact.fr)
+      #### \>>> Demande d'inscription [ici](https://docs.google.com/forms/d/e/1FAIpQLSfDXdj8sUn8bQgjkmfj-jGmC2k74P9LHzPGz2UhqqQ5sDeXiA/viewform) <<<[](https://docs.google.com/forms/d/e/1FAIpQLSfDXdj8sUn8bQgjkmfj-jGmC2k74P9LHzPGz2UhqqQ5sDeXiA/viewform)
 image: ""
 ---
 ## Nos parcours pour votre public
