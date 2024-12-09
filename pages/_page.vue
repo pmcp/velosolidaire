@@ -4,7 +4,7 @@
       <div class="flex flex-col"
        :class="[(content.layout === '1') ? '' : 'md:flex-row']">
         <div
-          class="relative flex mr-4 bg-pink-500 justify-items-stretch items-stretch h-full sticky top-20"
+          class="relative flex mr-4 bg-pink-500 justify-items-stretch items-stretch h-full"
           :class="[(content.layout === '1') ? 'w-full h-128' : 'md:w-1/2']"
         >
           <img class="object-cover w-full" :src="content.image" alt="" />
