@@ -36,7 +36,7 @@ elements:
 
       * la mise à disposition d'un vélo reconditionné gratuite pendant 1 an à chaque participant.e
 
-      * 1 séance de formation à l'entretien du vélos et à la mécanique de base
+      * 1 séance de formation à l'entretien du vélo et à la mécanique de base
 
 
       **Tarif :**\
@@ -67,7 +67,7 @@ elements:
 
       * 2 séances de formation sur mesure en fonction des besoins
 
-      * 1 séance de formation à l'entretien du vélos et à la mécanique de base
+      * 1 séance de formation à l'entretien du vélo et à la mécanique de base
 
 
       **Tarif :**\
