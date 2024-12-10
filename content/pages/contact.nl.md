@@ -18,7 +18,7 @@ form:
     label: Oopmerking?
     help: Heeft U enige opmerking, schrijf het hier.
 formActive: true
-title: Contact
+title: Contact en inschrijving
 layout: "1"
 formSend: Bedankt om zich te inschrijven we nement contact met U zo dadelijk.
 intro: " "
@@ -29,7 +29,16 @@ elements:
       # Contact
 
 
-      Geïnteresseerd in een van onze trajecten? Vul dan het [contactformulier](https://docs.google.com/forms/d/e/1FAIpQLSemF3oZfsirTiX4Ap_A7uTqBDuH-gUiKhh1Sr5KcBSAloUcow/viewform) in. Vervolgens nemen we contact met je op en beoordelen de haalbaarheid van je fietsproject.
+      Geïnteresseerd in een van onze trajecten? Vul het **deelnameaanvraagformulier** in dat bij de gewenste parcours hoort.
+
+
+      Aanvraagformulier deelname voor de leer-parcours: [hier](https://docs.google.com/forms/d/e/1FAIpQLSfUZG9idqEHy4TLxdLb6C-Hb9IJngMaG9PR7wDTUd3BPD9WqA/viewform)
+
+
+      Aanvraagformulier deelname voor de parcours naar zelfstandigheid: [hier](https://docs.google.com/forms/d/e/1FAIpQLSfDXdj8sUn8bQgjkmfj-jGmC2k74P9LHzPGz2UhqqQ5sDeXiA/viewform)
+
+
+      **Vragen?**
 
 
       * Voor fietsopleidingen, begeleidersopleidingen en alle diensten met betrekking tot de organisatie van fietstochten: Noémie Dembour - n.dembour@provelo.org
