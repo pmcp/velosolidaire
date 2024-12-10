@@ -10,13 +10,13 @@ elements:
       # Trajecten
 
 
-      ![](/img/vélo-solidaire-parcours-1100-x-788-px-3-.png)
+      Afhankelijk van de behoeften van uw publiek, worden u twee soorten ondersteuning aangeboden. Als u zich wilt aanmelden voor deelname aan het project, kies dan het traject die u interesseert en vul het bijbehorende formulier in.
 
 
-      ### Leertraject
+      ### *Leertraject*
 
 
-      Wil je doelpubliek graag leren fietsen en daarna gebruik maken van een ‘solidaire velo’? Met het leertraject krijg je een integrale aanpak.
+      Dit traject is bedoeld voor mensen die nog nooit hebben leren trappen.
 
 
       **Doelstellingen:**
@@ -36,22 +36,25 @@ elements:
 
       * 6 sessies om veilig in het verkeer te leren fietsen
 
-      * De overhandiging van een fiets aan elke deelnemer gevolgd door een opleiding fietsen in het verkeer
+      * de overhandiging van een fiets aan elke deelnemer gevolgd door een opleiding fietsen in het verkeer
 
       * 1 les in fietsonderhoud en basismechanica
 
 
       **Prijs:**\
 
-      € 800 voor de hele groep (tussen vijf en maximaal twaalf personen)\
+      € 800 voor de hele groep (tussen 5 en maximaal 12 personen)\
 
       Als de kosten van de deelname een obstakel vormen, aarzel dan niet om contact met ons op te nemen en dan zoeken we samen naar een oplossing.
 
 
-      ### Traject naar zelfstandigheid
+      #### *\>>> Inscrijving verzoek [hier](https://docs.google.com/forms/d/e/1FAIpQLSfUZG9idqEHy4TLxdLb6C-Hb9IJngMaG9PR7wDTUd3BPD9WqA/viewform) <<<*
 
 
-      Je publiek kan al fietsen en kent de verkeersregels, maar heeft alleen nog een fiets nodig om te beginnen? Dan is deze opleiding iets voor jou!
+      ### *Traject naar zelfstandigheid*
+
+
+      Dit traject is bedoeld voor mensen die al kunnen fietsen, maar die zich in een precaire mobiliteitssituatie  bevinden en die vooral een fiets ter beschikking nodig hebben. Het traject is als volgt samengesteld:
 
 
       **Doelstelling:**\
@@ -62,18 +65,22 @@ elements:
       **Etappes van het traject:**
 
 
-      * Het overhandigen van de fietsen aan elke deelnemer en een begeleide fietsrit in het verkeer
+      * de overhandiging van een fiets aan elke deelnemer gevolgd door een opleiding fietsen in het verkeer
+
+      * 2 sessies op maat op basis van behoeften
 
       * 1 opleiding fietsonderhoud en basismechanica
 
 
       **Prijs:**\
 
-      € 70 voor de hele groep (tussen 5 en maximaal 12 personen)\
+      € 100 voor de hele groep (tussen 5 en maximaal 12 personen)\
 
       Vormen de kosten van je deelname een obstakel? Neem contact met ons op en samen zoeken we naar een oplossing.
 
 
-      Geïnteresseerd in een van onze trajecten? [Contacteer-ons](https://www.velosolidaire.brussels/contact.nl)
+      #### 
+
+      ***\>>> Inscrijving verzoek [hier](https://docs.google.com/forms/d/e/1FAIpQLSfDXdj8sUn8bQgjkmfj-jGmC2k74P9LHzPGz2UhqqQ5sDeXiA/viewform) <<<***[](https://www.velosolidaire.brussels/contact.nl)
 ---
  A faire
