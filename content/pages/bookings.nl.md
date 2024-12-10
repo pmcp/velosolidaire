@@ -9,10 +9,13 @@ elements:
       # Een fietsvloot reserveren
 
 
-      **Lees gebruikersovereenkomst  alvorens je een vloot en datum kiest.**
-
-
       De fietsvloot van Solidaire Velo staat ter beschikking van elke (socio-)culturele vereniging die zich inzet voor de gezondheid en de sociale cohesie van een kansarm publiek en actief is in het Brussels Gewest. De fietsen zijn gratis beschikbaar om te léren fietsen of voor een fietstocht in groep.
+
+
+      Hieronder vindt u de vloten van Solidaire Velo met een beschrijving van de fietsen en het beschikbare materiaal, evenals de openingstijden (afhankelijk van de partner die de vloot host).
+
+
+      **Lees gebruikersovereenkomst  alvorens je een vloot en datum kiest.**
 
 
       Om ervoor te zorgen dat deze fietsvloten gemakkelijk en optimaal gebruikt kunnen worden, vragen we het volgende:
