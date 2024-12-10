@@ -11,7 +11,7 @@ elements:
       En fonction des besoins de votre public, deux types d’accompagnement vous sont proposés. Si vous souhaitez faire une demande de participation au projet, merci de choisir le parcours qui vous intéresse et de remplir le formulaire que vous trouverez en cliquant sur un des liens ci-dessous.
 
 
-      ### Parcours d'apprentissage
+      ### *Parcours d'apprentissage*
 
 
       Ce parcours s’adresse à un public qui n’a jamais appris à pédaler.
@@ -46,12 +46,10 @@ elements:
       Si le coût de votre participation devait représenter un frein, n'hésitez pas à nous contacter, nous chercherons une solution ensemble.
 
 
-      #### \>>> Demande d'inscription [ici](https://docs.google.com/forms/d/e/1FAIpQLSfUZG9idqEHy4TLxdLb6C-Hb9IJngMaG9PR7wDTUd3BPD9WqA/viewform) <<<
+      #### *\>>> Demande d'inscription [ici](https://docs.google.com/forms/d/e/1FAIpQLSfUZG9idqEHy4TLxdLb6C-Hb9IJngMaG9PR7wDTUd3BPD9WqA/viewform) <<<*
 
 
-
-
-      ### Parcours d'autonomie
+      ### *Parcours d'autonomie*
 
 
       Ce parcours s’adresse à un public qui sait déjà rouler, mais qui se trouve en grande précarité de mobilité et qui a surtout besoin d’avoir un vélo à disposition. Le parcours se compose comme suit : 
@@ -79,7 +77,7 @@ elements:
       Si le coût de votre participation devait représenter un frein, n'hésitez pas à nous contacter, nous chercherons une solution ensemble. [](https://docs.google.com/forms/d/e/1FAIpQLSfDXdj8sUn8bQgjkmfj-jGmC2k74P9LHzPGz2UhqqQ5sDeXiA/viewform)
 
 
-      #### \>>> Demande d'inscription [ici](https://docs.google.com/forms/d/e/1FAIpQLSfDXdj8sUn8bQgjkmfj-jGmC2k74P9LHzPGz2UhqqQ5sDeXiA/viewform) <<<[](https://docs.google.com/forms/d/e/1FAIpQLSfDXdj8sUn8bQgjkmfj-jGmC2k74P9LHzPGz2UhqqQ5sDeXiA/viewform)
+      #### *\>>> Demande d'inscription [ici](https://docs.google.com/forms/d/e/1FAIpQLSfDXdj8sUn8bQgjkmfj-jGmC2k74P9LHzPGz2UhqqQ5sDeXiA/viewform) <<<*[](https://docs.google.com/forms/d/e/1FAIpQLSfDXdj8sUn8bQgjkmfj-jGmC2k74P9LHzPGz2UhqqQ5sDeXiA/viewform)
 image: ""
 ---
 ## Nos parcours pour votre public
