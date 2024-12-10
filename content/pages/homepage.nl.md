@@ -1,7 +1,7 @@
 ---
 title: Home
 intro: ""
-layout: "0"
+layout: "1"
 elements:
   - type: text
     markdown: >-

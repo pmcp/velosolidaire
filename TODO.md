@@ -1,5 +1,13 @@
 # DOING
-- Footer
+Le Mail rappel:
+- If the day before:
+  - Already send the code that day (not reservation mail, yes second mail)
+- niet ingelogd -> bericht “niet ingelogd”
+
+
+- Analytics over gebruik per gebruiker
+- Automatisch oude reservaties naar archief doen
+
 
 
 # TODO
