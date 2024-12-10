@@ -190,6 +190,7 @@ module.exports = {
     // ? Safelisting docs: https://purgecss.com/safelisting.html
     safelist: {
       standard: [
+        'em',
         'vc-bg-blue-600',
         'velo-normalDay',
         'velo-today',
