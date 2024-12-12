@@ -1,9 +1,15 @@
 <template>
   <main class="relative bg-gray-50">
     <div v-if="content.title === 'Home'" class="flex w-full">
-      <div class="prose text-base max-w-prose pt-10">
+      <div class="w-full prose text-base max-w-prose pt-10">
         <div style="position:relative;padding-top:56.25%;" class="w-full h-auto">
-          <iframe class="w-full h-full" src="https://iframe.mediadelivery.net/embed/350779/43feb676-636a-4812-abc5-67b77cdc627d?autoplay=true&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true">
+          <iframe class="w-full h-full"
+                  src="https://iframe.mediadelivery.net/embed/350779/43feb676-636a-4812-abc5-67b77cdc627d?autoplay=true&loop=false&muted=false&preload=true&responsive=true"
+                  loading="lazy"
+                  style="border:0;position:absolute;top:0;height:100%;width:100%;"
+                  allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;"
+                  allowfullscreen="true"
+          >
           </iframe>
         </div>
         <page-content :content="content"></page-content>
