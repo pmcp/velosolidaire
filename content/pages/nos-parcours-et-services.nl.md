@@ -48,7 +48,7 @@ elements:
       Als de kosten van de deelname een obstakel vormen, aarzel dan niet om contact met ons op te nemen en dan zoeken we samen naar een oplossing.
 
 
-      #### *\>>> Inscrijving verzoek [hier](https://docs.google.com/forms/d/e/1FAIpQLSfUZG9idqEHy4TLxdLb6C-Hb9IJngMaG9PR7wDTUd3BPD9WqA/viewform) <<<*
+      #### \>>> Inscrijving verzoek [hier](https://docs.google.com/forms/d/e/1FAIpQLSfUZG9idqEHy4TLxdLb6C-Hb9IJngMaG9PR7wDTUd3BPD9WqA/viewform) <<<
 
 
       ### *Traject naar zelfstandigheid*
@@ -79,8 +79,6 @@ elements:
       Vormen de kosten van je deelname een obstakel? Neem contact met ons op en samen zoeken we naar een oplossing.
 
 
-      #### 
-
-      ***\>>> Inscrijving verzoek [hier](https://docs.google.com/forms/d/e/1FAIpQLSfDXdj8sUn8bQgjkmfj-jGmC2k74P9LHzPGz2UhqqQ5sDeXiA/viewform) <<<***[](https://www.velosolidaire.brussels/contact.nl)
+      #### **\>>> Inscrijving verzoek [hier](https://docs.google.com/forms/d/e/1FAIpQLSfDXdj8sUn8bQgjkmfj-jGmC2k74P9LHzPGz2UhqqQ5sDeXiA/viewform) <<<**[](https://www.velosolidaire.brussels/contact.nl)
 ---
  A faire
