@@ -13,6 +13,9 @@ elements:
       Afhankelijk van de behoeften van uw publiek, worden u twee soorten ondersteuning aangeboden. Als u zich wilt aanmelden voor deelname aan het project, kies dan het traject die u interesseert en vul het bijbehorende formulier in.
 
 
+      ![](/img/tableau-parcours-nl.png)
+
+
       ### *Leertraject*
 
 

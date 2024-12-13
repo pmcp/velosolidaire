@@ -11,6 +11,9 @@ elements:
       En fonction des besoins de votre public, deux types d’accompagnement vous sont proposés. Si vous souhaitez faire une demande de participation au projet, merci de choisir le parcours qui vous intéresse et de remplir le formulaire correspondant.
 
 
+      ![](/img/tableau-parcours-fr.jpg)
+
+
       ### *Parcours d'apprentissage*
 
 
