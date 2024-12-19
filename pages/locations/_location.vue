@@ -2,6 +2,18 @@
   <div>
 
   <!--  this is a copy from _page  -->
+
+    <div v-if="!user" class="w-full my-8  bg-pink-200 p-8 border-2 border-pink-500 rounded-lg">
+      <div v-if="lang === 'fr'">Vélo Solidaire met des flottes de vélos gratuitement à disposition des associations désireuses d’organiser des activités à vélo avec leur public.
+      <p><br>Pour y avoir accès, veuillez envoyer un email à <a class="underline" href="mailto:velosolidaire@cyclo.org">velosolidaire@cyclo.org</a>.</p>
+        </div>
+      <div v-else>
+
+          Vélo Solidaire stelt fietsen gratis te beschikking voor organisaties die activeiten met de fiets willen organiseren.
+          <p><br>Om toegang te krijgen tot het platform, kan je een e-mail sturen naar <a class="underline" href="mailto:velosolidaire@cyclo.org">velosolidaire@cyclo.org</a>.</p>
+
+      </div>
+    </div>
     <div v-if="bookingsPageContent.image">
       <div class="flex flex-col"
            :class="[(bookingsPageContent.layout === '1') ? '' : 'md:flex-row']">
@@ -24,7 +36,10 @@
         <page-content :content="bookingsPageContent"></page-content>
       </div>
     </div>
+
+
 <!--  Till here  >-->
+  <div v-else class="h-full">
 
     <div class="pt-1 w-full mb-8">
       <div class="w-full flex justify-center">
@@ -65,12 +80,13 @@
       </div>
     </div>
     </div>
-
   </div>
+  </div>
+
 </template>
 
 <script>
-import { mapActions } from 'vuex'
+import { mapActions, mapGetters } from 'vuex'
 import HeadingTwo from '~/components/heading-two'
 import Translation from '~/components/translation'
 
@@ -112,7 +128,10 @@ export default {
   computed: {
     lang() {
       return this.$store.state.lang
-    }
+    },
+    ...mapGetters({
+      user: 'auth/user',
+    }),
   },
 }
 </script>

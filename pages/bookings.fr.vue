@@ -1,6 +1,7 @@
 <template>
   <main class="flex flex-col">
     <div class="w-full flex justify-center">
+
       <app-navigation></app-navigation>
     </div>
     <div v-if="user">
