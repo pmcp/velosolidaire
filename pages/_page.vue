@@ -1,7 +1,7 @@
 <template>
   <main class="relative bg-gray-50">
     <div v-if="content.title === 'Home'" class="flex w-full">
-      <div class="w-full prose text-base max-w-prose pt-10">
+      <div class="flex flex-col md:flex-row w-full prose text-base max-w-prose pt-10">
         <div style="position:relative;padding-top:56.25%;" class="w-full h-auto">
           <iframe class="w-full h-full"
                   src="https://iframe.mediadelivery.net/embed/350779/43feb676-636a-4812-abc5-67b77cdc627d?autoplay=true&loop=false&muted=false&preload=true&responsive=true"
