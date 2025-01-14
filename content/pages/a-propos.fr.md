@@ -19,7 +19,7 @@ elements:
 
       **Vélo Solidaire en quelques chiffres**\
 
-      Depuis le début du projet, ce sont plus de 1000 personnes qui ont appris à rouler à vélo, ont reçu un vélo reconditionné et ont appris à l'entretenir correctement. En moyenne, 3/4 des personnes qui ont reçu un vélo souhaitent le racheter après l'avoir utilisé pendant un an. Les autres nous rendent le vélo pour qu'il puisse être remis à un.e autre participant.e. Heureusement, très peu de vélos ont été déclarés volés (2%).
+      Depuis le début du projet, ce sont plus de 1400 personnes qui ont appris à rouler à vélo, ont reçu un vélo reconditionné et ont appris à l'entretenir correctement. En moyenne, 3/4 des personnes qui ont reçu un vélo souhaitent le racheter après l'avoir utilisé pendant un an. Les autres nous rendent le vélo pour qu'il puisse être remis à un.e autre participant.e. Heureusement, très peu de vélos ont été déclarés volés (2%).
 
 
       **Rapport d'activité**
