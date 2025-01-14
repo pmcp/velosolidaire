@@ -1,10 +1,10 @@
 <template>
   <main class="relative bg-gray-50">
     <div v-if="content.title === 'Home'" class="flex w-full">
-      <div class="w-full prose text-base max-w-prose pt-10">
-        <div style="position:relative;padding-top:56.25%;" class="w-full h-auto">
-          <iframe class="w-full h-full"
-                  src="https://iframe.mediadelivery.net/embed/350779/43feb676-636a-4812-abc5-67b77cdc627d?autoplay=true&loop=false&muted=false&preload=true&responsive=true"
+      <div class="w-full pt-10 flex flex-col md:flex-row gap-8">
+        <div class="w-full h-auto" style="position:relative;padding-top:56.25%;" >
+          <iframe class="w-full h-auto"
+                  src="https://iframe.mediadelivery.net/embed/350779/fff51d50-e7e0-4e42-9400-351f69cb8e1f?autoplay=true&loop=false&muted=false&preload=true&responsive=true"
                   loading="lazy"
                   style="border:0;position:absolute;top:0;height:100%;width:100%;"
                   allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;"
@@ -12,7 +12,9 @@
           >
           </iframe>
         </div>
-        <page-content :content="content"></page-content>
+        <div class="w-full">
+          <page-content :content="content"></page-content>
+        </div>
       </div>
     </div>
     <div v-else>

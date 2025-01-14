@@ -1,19 +1,19 @@
 <template>
   <div>
 
-  <!--  this is a copy from _page  -->
-
     <div v-if="!user" class="w-full my-8  bg-pink-200 p-8 border-2 border-pink-500 rounded-lg">
-      <div v-if="lang === 'fr'">Vélo Solidaire met des flottes de vélos gratuitement à disposition des associations désireuses d’organiser des activités à vélo avec leur public.
-      <p><br>Pour y avoir accès, veuillez envoyer un email à <a class="underline" href="mailto:velosolidaire@cyclo.org">velosolidaire@cyclo.org</a>.</p>
-        </div>
+      <div v-if="lang === 'fr'">
+        <p>Vélo Solidaire met des flottes de vélos gratuitement à disposition des associations désireuses d’organiser des activités à vélo avec leur public.</p>
+        <p><br>Pour y avoir accès, veuillez envoyer un email à <a class="underline" href="mailto:velosolidaire@cyclo.org">velosolidaire@cyclo.org</a>.</p>
+      </div>
       <div v-else>
-
-          Vélo Solidaire stelt fietsen gratis te beschikking voor organisaties die activeiten met de fiets willen organiseren.
+          <p>Vélo Solidaire stelt fietsen gratis te beschikking voor organisaties die activeiten met de fiets willen organiseren.</p>
           <p><br>Om toegang te krijgen tot het platform, kan je een e-mail sturen naar <a class="underline" href="mailto:velosolidaire@cyclo.org">velosolidaire@cyclo.org</a>.</p>
-
       </div>
     </div>
+
+
+    <!--  this is a copy from _page  -->
     <div v-if="bookingsPageContent.image">
       <div class="flex flex-col"
            :class="[(bookingsPageContent.layout === '1') ? '' : 'md:flex-row']">
@@ -26,8 +26,6 @@
         <div class="prose pb-20 ml-4 flex flex-col "
              :class="[(bookingsPageContent.layout ===  '1')? 'w-full' : 'md:w-1/2']">
           <page-content :content="bookingsPageContent"></page-content>
-
-
         </div>
       </div>
     </div>
@@ -36,51 +34,53 @@
         <page-content :content="bookingsPageContent"></page-content>
       </div>
     </div>
+    <!--  Till here  >-->
 
 
-<!--  Till here  >-->
-  <div v-else class="h-full">
 
-    <div class="pt-1 w-full mb-8">
-      <div class="w-full flex justify-center">
-        <app-navigation></app-navigation>
-      </div>
-      <!-- Locations-->
-      <heading-two class="mb-4 mt-8">
-        <translation :id="35" />
-      </heading-two>
-      <div class="w-full grid grid-cols-1 gap-8 md:grid-cols-2">
-        <locations-list class="text-sm text-gray-500 md:sticky top-20 z-20" :horizontal="true" />
-        <location-map class="h-40 md:h-full "></location-map>
-      </div>
-    </div>
-
-    <div class="w-full grid grid-cols-1 gap-8 md:grid-cols-2 mt-12">
-      <div>
-
-        <div v-if="!location.active" class="mt-4 font-semibold">
-          <translation :id="37" />
+    <div class="h-full">
+      <div class="pt-1 w-full mb-8">
+        <div class="w-full flex justify-center">
+          <app-navigation></app-navigation>
         </div>
+        <!-- Locations-->
+        <heading-two class="mb-4 mt-8">
+          <translation :id="35" />
+        </heading-two>
+        <div class="w-full grid grid-cols-1 gap-8 md:grid-cols-2">
+          <locations-list class="text-sm text-gray-500 md:sticky top-20 z-20" :horizontal="true" />
+          <location-map class="h-40 md:h-full "></location-map>
+        </div>
+      </div>
+
+      <div class="w-full grid grid-cols-1 gap-8 md:grid-cols-2 mt-12">
         <div>
-          <div class="" >
-            <location-content :content="location" />
+
+          <div v-if="!location.active" class="mt-4 font-semibold">
+            <translation :id="37" />
+          </div>
+          <div>
+            <div class="" >
+              <location-content :content="location" />
+            </div>
+          </div>
+        </div>
+
+        <div class="mt-4 w-full">
+          <heading-two class="pb-4">
+            <translation :id="18" />
+          </heading-two>
+          <div class="sticky top-20 mb-20">
+            <div v-if="!location.active" class="w-full h-full bg-gray-50 absolute top-o left-0 z-30 opacity-80 flex justify-center items-center font-semibold">
+              <translation :id="37" />
+            </div>
+            <booking-module :safetyPeriod="location.safetyPeriod || 0"/>
           </div>
         </div>
       </div>
 
-    <div class="mt-4 w-full">
-      <heading-two class="pb-4">
-        <translation :id="18" />
-      </heading-two>
-      <div class="sticky top-20 mb-20">
-        <div v-if="!location.active" class="w-full h-full bg-gray-50 absolute top-o left-0 z-30 opacity-80 flex justify-center items-center font-semibold">
-          <translation :id="37" />
-        </div>
-        <booking-module :safetyPeriod="location.safetyPeriod || 0"/>
-      </div>
+
     </div>
-    </div>
-  </div>
   </div>
 
 </template>
