@@ -60,5 +60,5 @@ elements:
       ### Fietsparking vinden
 
 
-      Hebben je deelnemers ***geen veilige plek*** om hun solidaire velo te stallen? We zoeken samen een oplossing! Heb je in jouw buurt een garage, loods of andere plek gezien die gebruikt kan worden als fietsenstalling? Neem contact met ons op en we kijken of we ze kunnen omvormen tot een fietsenstalling.
+      Hebben je deelnemers ***geen veilige plek*** om hun solidaire velo te stallen? We zoeken samen een oplossing! Heb je in jouw buurt een garage, loods of andere plek gezien die gebruikt kan worden als fietsenstalling? Neem contact met ons op en we kijken of we ze kunnen omvormen tot een fietsenstalling.:
 ---
