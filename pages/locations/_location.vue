@@ -1,17 +1,18 @@
 <template>
   <div>
 
-    <div v-if="!user" class="w-full my-8  bg-pink-200 p-8 border-2 border-pink-500 rounded-lg">
-      <div v-if="lang === 'fr'">
-        <p>Vélo Solidaire met des flottes de vélos gratuitement à disposition des associations désireuses d’organiser des activités à vélo avec leur public.</p>
-        <p><br>Pour y avoir accès, veuillez envoyer un email à <a class="underline" href="mailto:velosolidaire@cyclo.org">velosolidaire@cyclo.org</a>.</p>
+    <client-only>
+      <div v-if="!user" class="w-full my-8  bg-pink-200 p-8 border-2 border-pink-500 rounded-lg">
+        <div v-if="lang === 'fr'">
+          <p>Vélo Solidaire met des flottes de vélos gratuitement à disposition des associations désireuses d’organiser des activités à vélo avec leur public.</p>
+          <p><br>Pour y avoir accès, veuillez envoyer un email à <a class="underline" href="mailto:velosolidaire@cyclo.org">velosolidaire@cyclo.org</a>.</p>
+        </div>
+        <div v-else>
+            <p>Vélo Solidaire stelt fietsen gratis te beschikking voor organisaties die activeiten met de fiets willen organiseren.</p>
+            <p><br>Om toegang te krijgen tot het platform, kan je een e-mail sturen naar <a class="underline" href="mailto:velosolidaire@cyclo.org">velosolidaire@cyclo.org</a>.</p>
+        </div>
       </div>
-      <div v-else>
-          <p>Vélo Solidaire stelt fietsen gratis te beschikking voor organisaties die activeiten met de fiets willen organiseren.</p>
-          <p><br>Om toegang te krijgen tot het platform, kan je een e-mail sturen naar <a class="underline" href="mailto:velosolidaire@cyclo.org">velosolidaire@cyclo.org</a>.</p>
-      </div>
-    </div>
-
+    </client-only>
 
     <!--  this is a copy from _page  -->
     <div v-if="bookingsPageContent.image">
