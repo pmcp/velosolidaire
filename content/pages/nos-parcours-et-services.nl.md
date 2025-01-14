@@ -82,6 +82,6 @@ elements:
       Vormen de kosten van je deelname een obstakel? Neem contact met ons op en samen zoeken we naar een oplossing.
 
 
-      #### **\>>> Inscrijving verzoek [hier](https://docs.google.com/forms/d/e/1FAIpQLSdrn0IXxMrafrRrKzJ8utwI6cMOI-TYf1OS7nWarHRDrTchow/viewform) <<<**[](https://www.velosolidaire.brussels/contact.nl)
+      #### **\>>> Inscrijving verzoek [hier](https://docs.google.com/forms/d/e/1FAIpQLSdrn0IXxMrafrRrKzJ8utwI6cMOI-TYf1OS7nWarHRDrTchow/viewform) <<<**
 ---
  A faire
