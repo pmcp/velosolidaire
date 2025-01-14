@@ -32,10 +32,10 @@ elements:
       Geïnteresseerd in een van onze trajecten? Vul het **deelnameaanvraagformulier** in dat bij de gewenste parcours hoort.
 
 
-      Aanvraagformulier deelname voor de leer-parcours: [hier](https://docs.google.com/forms/d/e/1FAIpQLSdjs11lZgiI2kXcJsNo-jnkaf69M23ukL3z0D4Wn3lakGhEaA/viewform)
+      **Aanvraagformulier deelname voor de leer-parcours:** [hier](https://docs.google.com/forms/d/e/1FAIpQLSdjs11lZgiI2kXcJsNo-jnkaf69M23ukL3z0D4Wn3lakGhEaA/viewform)
 
 
-      Aanvraagformulier deelname voor de parcours naar zelfstandigheid: [hier](https://docs.google.com/forms/d/e/1FAIpQLSdrn0IXxMrafrRrKzJ8utwI6cMOI-TYf1OS7nWarHRDrTchow/viewform)
+      **Aanvraagformulier deelname voor de parcours naar zelfstandigheid:** [hier](https://docs.google.com/forms/d/e/1FAIpQLSdrn0IXxMrafrRrKzJ8utwI6cMOI-TYf1OS7nWarHRDrTchow/viewform)
 
 
       **Vragen?**

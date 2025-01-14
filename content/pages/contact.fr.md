@@ -12,10 +12,10 @@ elements:
       Intéressé.e.s par un de nos parcours ? Veuillez remplir le **formulaire de demande de participation** correspondant au parcours souhaité.
 
 
-      Formulaire de demande de participation pour le parcours d'apprentissage : [ici](https://docs.google.com/forms/d/e/1FAIpQLSfUZG9idqEHy4TLxdLb6C-Hb9IJngMaG9PR7wDTUd3BPD9WqA/viewform)
+      **Formulaire de demande de participation pour le parcours d'apprentissage** : [ici](https://docs.google.com/forms/d/e/1FAIpQLSfUZG9idqEHy4TLxdLb6C-Hb9IJngMaG9PR7wDTUd3BPD9WqA/viewform)
 
 
-      Formulaire de demande de participation pour le parcours d'autonomie : [ici](https://docs.google.com/forms/d/e/1FAIpQLSfDXdj8sUn8bQgjkmfj-jGmC2k74P9LHzPGz2UhqqQ5sDeXiA/viewform)
+      **Formulaire de demande de participation pour le parcours d'autonomie** : [ici](https://docs.google.com/forms/d/e/1FAIpQLSfDXdj8sUn8bQgjkmfj-jGmC2k74P9LHzPGz2UhqqQ5sDeXiA/viewform)
 
 
       **Des questions ?**
