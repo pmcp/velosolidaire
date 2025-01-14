@@ -21,7 +21,7 @@ elements:
 
       **Solidaire Velo in cijfers**\
 
-      Sinds het begin van het project hebben meer dan 1.000 mensen leren fietsen, een opgeknapte fiets gekregen en geleerd hoe ze die goed kunnen onderhouden.\
+      Sinds het begin van het project hebben meer dan 1.400 mensen leren fietsen, een opgeknapte fiets gekregen en geleerd hoe ze die goed kunnen onderhouden.\
 
       Ongeveer 75% van de mensen die een fiets hebben gekregen, wil die kopen nadat ze hem een jaar hebben gebruikt. De anderen leveren de fiets in zodat voor aan een andere deelnemer kan dienen.\
 
