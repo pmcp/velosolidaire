@@ -4,7 +4,7 @@
       <div class="w-full pt-10 flex flex-col md:flex-row gap-8">
         <div class="w-full h-auto" style="position:relative;padding-top:56.25%;" >
           <iframe class="w-full h-auto"
-                  src="https://iframe.mediadelivery.net/embed/350779/fff51d50-e7e0-4e42-9400-351f69cb8e1f?autoplay=true&loop=false&muted=false&preload=true&responsive=true"
+                  src="https://iframe.mediadelivery.net/embed/350779/0ef64869-4ad6-484b-93e8-cfa8c80dc163?autoplay=true&loop=false&muted=false&preload=true&responsive=true"
                   loading="lazy"
                   style="border:0;position:absolute;top:0;height:100%;width:100%;"
                   allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;"
