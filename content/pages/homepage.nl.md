@@ -11,7 +11,7 @@ elements:
       ### Welkom op de website van Solidaire Velo !
 
 
-      Ontdek hier hoe we jou en je vereniging kunnen helpen om te beginnen fietsen, om fietsen te bekomen of om jullie eigen fietsproject mee vorm te geven.
+      Ontdek hier hoe we jou en je vereniging kunnen helpen om je groep te leren fietsen, om fietsen te bekomen of bij het vormgeven van jullie eigen fietsproject.
 
 
       Solidaire Velo richt zich uitsluitend op Brusselse verenigingen.
