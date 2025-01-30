@@ -39,42 +39,44 @@ elements:
 
       * 6 sessies om veilig in het verkeer te leren fietsen
 
-      * de overhandiging van een fiets aan elke deelnemer gevolgd door een opleiding fietsen in het verkeer
+      * de overhandiging van een fiets aan elke deelnemer + opleiding fietsen in het verkeer
 
-      * 1 les in fietsonderhoud en basismechanica
+      * 1 les in fietsonderhoud +basismechanica
 
 
       **Prijs:**\
 
-      € 800 voor de hele groep (tussen 5 en maximaal 12 personen)\
+      € 800 voor de hele groep (tussen 5 en maximaal 12 personen)
 
-      Als de kosten van de deelname een obstakel vormen, aarzel dan niet om contact met ons op te nemen en dan zoeken we samen naar een oplossing.
+      Vormen de kosten van je deelname een obstakel? Neem contact met ons op en samen zoeken
+
+      we naar een oplossing!
 
 
-      #### \>>> Inscrijving verzoek [hier](https://docs.google.com/forms/d/e/1FAIpQLSdjs11lZgiI2kXcJsNo-jnkaf69M23ukL3z0D4Wn3lakGhEaA/viewform) <<<
-
-
+      #### **\>>> Inscrijving verzoek [hier](https://docs.google.com/forms/d/e/1FAIpQLSdjs11lZgiI2kXcJsNo-jnkaf69M23ukL3z0D4Wn3lakGhEaA/viewform) <<<**
 
 
       ### *Traject naar zelfstandigheid*
 
 
-      Dit traject is bedoeld voor mensen die al kunnen fietsen, maar die zich in een precaire mobiliteitssituatie  bevinden en die vooral een fiets ter beschikking nodig hebben. Het traject is als volgt samengesteld:
+      Dit traject is bedoeld voor mensen die al kunnen fietsen, maar die zich in een precaire mobiliteitssituatie  bevinden en die vooral een fiets voor verplaatsingen nodig hebben.
+
+      Het traject is als volgt samengesteld:
 
 
       **Doelstelling:**\
 
-      Wennen aan de fiets:
+      Wennen aan de fiets
 
 
       **Etappes van het traject:**
 
 
-      * de overhandiging van een fiets aan elke deelnemer gevolgd door een opleiding fietsen in het verkeer
+      * de overhandiging van een fiets aan elke deelnemer + opleiding fietsen in het verkeer
 
       * 2 sessies op maat op basis van behoeften
 
-      * 1 opleiding fietsonderhoud en basismechanica
+      * 1 opleiding fietsonderhoud + basismechanica
 
 
       **Prijs:**\
