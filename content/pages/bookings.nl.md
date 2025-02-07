@@ -33,7 +33,7 @@ elements:
 
       6. *Stal de fietsen* volgens grootte en sluit de kabel met het hangslot.
 
-      7. *Als een fiets een mechanisch probleem heeft of gestolen is*, meld dit dan per mail aan velosolidaire@cyclo.org en zet de fiets op de plek die voorzien is voor fietsen die hersteld moeten worden.
+      7. *Als een fiets een mechanisch probleem heeft*, meld dit dan per mail aan velosolidaire@cyclo.org en zet de fiets op de plek die voorzien is voor fietsen die hersteld moeten worden.
 
       8. Zorg ervoor dat de ruimte *opgeruimd, netjes en afgesloten* is wanneer je weggaat.
 
