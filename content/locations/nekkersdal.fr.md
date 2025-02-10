@@ -1,15 +1,14 @@
 ---
-title: Flotte de Nekkersdal
+title: Marolles
 active: false
-idInSheet: Nekkersdal
+idInSheet: Miroir
 safetyPeriod: 14
 location: '{"type":"Point","coordinates":[4.346331,50.8733201]}'
-info: L'accès à la flotte est géré par le Centre Communautaire Nekkersdal et
-  c'est la KWB (qui occupe la cave du GC Nekkersdal) qui accepte de nous
-  réserver un espace pour la flotte.
-street: Avenue Emile Bockstael 107
-zip: 1020
-city: Laeken
+info: L'accès à la flotte est géré par l'atelier CyCLO. En cas de réservation le
+  weekend, l'accès peut se faire via la boite à clés.
+street: Rue du miroir 22
+zip: 1000
+city: Bruxelles
 mails:
   confirmation:
     subject: Confirmation de votre réservation
@@ -24,13 +23,13 @@ mails:
       %BOOKING%
 
 
-      Le jour de votre réservation, vous devrez vous rendre dans les locaux du Gemeenschapcentrum Nekkersdal, vous présenter à l'accueil et demander l'accès à la flotte de Vélo Solidaire en mentionnant votre nom et votre association. La personne de l'accueil vous accompagnera jusqu'à la cave où se trouve la flotte de Vélo Solidaire.
+      Le jour de votre réservation, vous devrez vous rendre dans l'atelier CyCLO, vous présenter et demander l'accès à la flotte de Vélo Solidaire en mentionnant votre nom et votre association. Un.e mécanicien.ne  vous accompagnera au garage où se trouve la flotte de Vélo Solidaire.
 
 
       Prévoyez de prendre un peu de temps pour gonfler les pneus des vélos avant votre activité. Tout le matériel (dont les pompes) se trouve dans la grande armoire fermée à clé.
 
 
-      Quand vous avez terminé, c'est à nouveau la personne de l'accueil qui vous donnera accès à la cave. Remettez les vélos à leur place et si un vélo était défectueux, rangez-le dans l'espace prévu à cet effet et dites-le nous!
+      Quand vous avez terminé, c'est à nouveau une personne de l'atelier qui vous donnera accès à la cave. Remettez les vélos à leur place et si un vélo était défectueux, rangez-le dans l'espace prévu à cet effet et dites-le nous!
 
 
       Bonne route, 
@@ -50,13 +49,13 @@ mails:
       %BOOKING%
 
 
-      Le jour de votre réservation, vous devrez vous rendre dans les locaux du Gemeenschapcentrum Nekkersdal, vous présenter à l'accueil et demander l'accès à la flotte de Vélo Solidaire en mentionnant votre nom et votre association. La personne de l'accueil vous accompagnera jusqu'à la cave où se trouve la flotte de Vélo Solidaire.
+      Le jour de votre réservation, vous devrez vous rendre dans l'atelier CyCLO, vous présenter et demander l'accès à la flotte de Vélo Solidaire en mentionnant votre nom et votre association. Un.e mécanicien.ne  vous accompagnera au garage où se trouve la flotte de Vélo Solidaire.
 
 
       Prévoyez de prendre un peu de temps pour gonfler les pneus des vélos avant votre activité. Tout le matériel (dont les pompes) se trouve dans la grande armoire fermée à clé.
 
 
-      Quand vous avez terminé, c'est à nouveau la personne de l'accueil qui vous donnera accès à la cave. Remettez les vélos à leur place et si un vélo était défectueux, rangez-le dans l'espace prévu à cet effet et dites-le nous!
+      Quand vous avez terminé, c'est à nouveau une personne de l'atelier qui vous donnera accès à la cave. Remettez les vélos à leur place et si un vélo était défectueux, rangez-le dans l'espace prévu à cet effet et dites-le nous!
 
 
       Bonne route, 
@@ -84,10 +83,10 @@ mails:
 
       L'équipe Vélo Solidaire
 ---
-**!!! Le Centre communautaire Nekkersdal déménage : la flotte ne sera plus accessible à partir du 31 octobre 2024. Nous sommes à la recherche d'un nouveau lieu pour l'accueillir !!!**
+**!!! La flotte des Marolles sera accessible à partir du printemps 2025. Si vous souhaitez déjà réserver des dates, vous pouvez envoyer un Email à velosolidaire@cyclo.org !!!**
 
-L'accès à la flotte est géré par le [Centre Communautaire Nekkersdal](https://www.nekkersdal.be/) et la [KWB](https://korpus.kwb.be/page?page=afd_home&orl=579).
-La flotte est disponible **du lundi au vendredi entre 9h et 17h**. Pour une bonne organisation, elle doit être **réservée minimum 2 semaines à l'avance**. 
+L'accès à la flotte se fait via l'atelier CyCLO[](https://korpus.kwb.be/page?page=afd_home&orl=579). Veuillez vous y présenter pour qu'on vous donne les clés.
+La flotte est disponible **du lundi au vendredi entre 9h et 17h**.
 
 ### V﻿élos disponibles
 
@@ -101,9 +100,4 @@ La flotte est disponible **du lundi au vendredi entre 9h et 17h**. Pour une bonn
 
 ### Matériel divers
 
-Cadenas, casques, chasubles, clips pour pantalon, plots, pompes, boite à outils
-
-### Où faire de la mise en selle ?
-
-[Parc L28 - Tour & Taxi](https://www.google.com/maps/place/Av.+Jean+Dubrucq+240,+1020+Molenbeek-Saint-Jean/@50.8705879,4.3395347,17z/data=!4m5!3m4!1s0x47c3c3be4730c85b:0xef6a9b35d8e3a682!8m2!3d50.8708283!4d4.3414552?entry=ttu)\
-Avenue Jean Dubrucq 240, 1080 Molenbeek
+Cadenas, casques, chasubles, clips pour pantalon, plots, pompes, boite à outils[](https://www.google.com/maps/place/Av.+Jean+Dubrucq+240,+1020+Molenbeek-Saint-Jean/@50.8705879,4.3395347,17z/data=!4m5!3m4!1s0x47c3c3be4730c85b:0xef6a9b35d8e3a682!8m2!3d50.8708283!4d4.3414552?entry=ttu)

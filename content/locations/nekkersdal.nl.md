@@ -1,15 +1,14 @@
 ---
-title: Nekkersdalvloot
+title: Marollen
 active: false
-idInSheet: Nekkersdal
-safetyPeriod: 14
+idInSheet: Miroir
+safetyPeriod: 0
 location: '{"type":"Point","coordinates":[4.346331,50.8733201]}'
-info: L'accès à la flotte est géré par le Centre Communautaire Nekkersdal et
-  c'est la KWB (qui occupe la cave du GC Nekkersdal) qui accepte de nous
-  réserver un espace pour la flotte.
-street: Avenue Emile Bockstael 107
-zip: 1020
-city: Laeken
+info: L'accès à la flotte est géré par l'atelier CyCLO. En cas de réservation le
+  weekend, l'accès peut se faire via la boite à clés.
+street: Spiegelstraat 22
+zip: 1000
+city: Brussel
 mails:
   confirmation:
     subject: Bevestiging van uw reservering
@@ -24,15 +23,13 @@ mails:
       %BOOKING%
 
 
-      Op de dag van je reservatie meld je je aan bij het onthaal van het Gemeenschapscentrum Nekkersdal, waar je toegang vraagt tot de fietsvloot van Vélo Solidaire. Vermeld hierbij je naam en je vereniging.
-
-      De onthaalmedewerker zal je begeleiden naar de kelder waar de Solidaire Velo-vloot staat.
+      Op de dag van je reservatie meld je je aan bij het atelier, waar je toegang vraagt tot de fietsvloot van Solidaire Velo. Vermeld hierbij je naam en je vereniging. Een fietsmekanieker zal je begeleiden naar de garage waar de Solidaire Velo-vloot staat.
 
 
       Voor je activiteit, neem de tijd om de fietsbanden op te pompen. Alle materiaal (inclusief de pompen) bevindt zich in de grote afgesloten kast.
 
 
-      Als je de fietsen komt terugbrengen, geeft de receptionist je weer toegang tot de kelder. Zet de fietsen terug op hun plaats en als een fiets defect is, zet hem dan in op de daarvoor bestemde plaats en laat het ons weten!
+      Als je de fietsen komt terugbrengen, geeft de fietsmekanieker je weer toegang tot de garage. Zet de fietsen terug op hun plaats en als een fiets defect is, zet hem dan in op de daarvoor bestemde plaats en laat het ons weten!
 
 
       Fiets ze,
@@ -52,15 +49,13 @@ mails:
       %BOOKING%
 
 
-      Op de dag van je reservatie meld je je aan bij het onthaal van het Gemeenschapscentrum Nekkersdal, waar je toegang vraagt tot de fietsvloot van Vélo Solidaire. Vermeld hierbij je naam en je vereniging.
-
-      De onthaalmedewerker zal je begeleiden naar de kelder waar de Solidaire Velo-vloot staat.
+      Op de dag van je reservatie meld je je aan bij het atelier, waar je toegang vraagt tot de fietsvloot van Solidaire Velo. Vermeld hierbij je naam en je vereniging. Een fietsmekanieker zal je begeleiden naar de garage waar de Solidaire Velo-vloot staat.
 
 
       Voor je activiteit, neem de tijd om de fietsbanden op te pompen. Alle materiaal (inclusief de pompen) bevindt zich in de grote afgesloten kast.
 
 
-      Als je de fietsen komt terugbrengen, geeft de receptionist je weer toegang tot de kelder. Zet de fietsen terug op hun plaats en als een fiets defect is, zet hem dan in op de daarvoor bestemde plaats en laat het ons weten!
+      Als je de fietsen komt terugbrengen, geeft de fietsmekanieker je weer toegang tot de garage. Zet de fietsen terug op hun plaats en als een fiets defect is, zet hem dan in op de daarvoor bestemde plaats en laat het ons weten!
 
 
       Fiets ze,
@@ -88,9 +83,11 @@ mails:
       Het Solidaire Velo-team
     subject: Terugbrengen van je reservering
 ---
-**!!! Het Gemeenschapscentrum Nekkersdal verhuist: de vloot is vanaf 31 oktober 2024 niet meer beschikbaar. Hiervoor zoeken wij een nieuwe locatie !!!**
+**!!! De vloot van de Marollen is beschikbaar vanaf het voorjaar van 2025. Als je nu data wilt reserveren, stuur dan een e-mail naar velosolidaire@cyclo.org !!!**
 
-De toegang tot de vloot wordt beheerd door het [Gemeenschapscentrum Nekkersdal](https://www.nekkersdal.be/) en de [KWB](https://korpus.kwb.be/page?page=afd_home&orl=579). De vloot is beschikbaar **van maandag tot vrijdag tussen 9u en 17u**. Om de organisatie vlot te laten verlopen, moet de vloot **minstens twee weken op voorhand worden gereserveerd**.
+De toegang tot de vloot wordt beheerd door het CyCLO atelier[](https://korpus.kwb.be/page?page=afd_home&orl=579). Kom langs en we geven je de sleutels.
+
+De vloot is beschikbaar **van maandag tot vrijdag tussen 9u en 17u**.
 
 ### Beschikbare fietsen
 
@@ -105,8 +102,3 @@ De toegang tot de vloot wordt beheerd door het [Gemeenschapscentrum Nekkersdal](
 ### Accessoires
 
 Fietssloten, helmen, fluohesjes, broekclips, kegels, pompen, gereedschapskid
-
-### Waar kan je leren fietsen ?
-
-[L28 park - Tour & Taxi](https://www.google.com/maps/place/Av.+Jean+Dubrucq+240,+1020+Molenbeek-Saint-Jean/@50.8705879,4.3395347,17z/data=!4m5!3m4!1s0x47c3c3be4730c85b:0xef6a9b35d8e3a682!8m2!3d50.8708283!4d4.3414552?entry=ttu)\
-Jean Dubrucqlaan 240, 1080 Molenbeek
