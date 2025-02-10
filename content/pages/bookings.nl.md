@@ -40,7 +40,7 @@ elements:
       9. Elke vereniging die gebruik maakt van de fietsvloot is verondersteld te beschikken
          over een *verzekering* voor Burgerlijke Aansprakelijkheid en voor Schade op het Werk.
       10. In geval van *diefstal of verlies* wordt een schadevergoeding van €250 per fiets
-          aangerekend (+15€ voor het slot).
+          aangerekend (+ €15 voor het slot).
 
       *Spread the word*, om zo veel mogelijk mensen van deze dienst te laten genieten !
 image: /img/dsc_2001.jpg
