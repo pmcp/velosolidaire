@@ -30,9 +30,13 @@ elements:
 
       6. *Ranger les vélos* selon leur taille et refermer la longe avec le cadenas à clé.
 
-      7. *Si un vélo a un souci mécanique ou est volé*, le signaler par Email à velosolidaire@cyclo.org et placer le vélo à l’endroit prévu pour les vélos nécessitant une réparation.
+      7. *Si un vélo a un souci mécanique*, le signaler par Email à velosolidaire@cyclo.org et placer le vélo à l’endroit prévu pour les vélos nécessitant une réparation.
 
       8. Veiller à ce que le *local* soit *propre*, *rangé* et *bien fermé* à votre départ
+
+      9. Chaque association qui utilise la flotte est responsable d'avoir une *assurance* Responsabilité Civile et accident du travail.
+
+      10. *En cas de vol ou de perte*, un dédommagement de 250€ vous sera demandé (+ 15€ pour le cadenas, le cas échéant).
 
 
       *En parler autour de vous* pour en faire profiter un maximum de personnes !

@@ -33,10 +33,14 @@ elements:
 
       6. *Stal de fietsen* volgens grootte en sluit de kabel met het hangslot.
 
-      7. *Als een fiets een mechanisch probleem heeft of gestolen is*, meld dit dan per mail aan velosolidaire@cyclo.org en zet de fiets op de plek die voorzien is voor fietsen die hersteld moeten worden.
+      7. *Als een fiets een mechanisch probleem heeft*, meld dit dan per mail aan velosolidaire@cyclo.org en zet de fiets op de plek die voorzien is voor fietsen die hersteld moeten worden.
 
       8. Zorg ervoor dat de ruimte *opgeruimd, netjes en afgesloten* is wanneer je weggaat.
 
+      9. Elke vereniging die gebruik maakt van de fietsvloot is verondersteld te beschikken
+         over een *verzekering* voor Burgerlijke Aansprakelijkheid en voor Schade op het Werk.
+      10. In geval van *diefstal of verlies* wordt een schadevergoeding van €250 per fiets
+          aangerekend (+ €15 voor het slot).
 
       *Spread the word*, om zo veel mogelijk mensen van deze dienst te laten genieten !
 image: /img/dsc_2001.jpg
