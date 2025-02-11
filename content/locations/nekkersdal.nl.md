@@ -1,5 +1,5 @@
 ---
-title: Marollen
+title: Vloot van de Marollen
 active: false
 idInSheet: Miroir
 safetyPeriod: 0

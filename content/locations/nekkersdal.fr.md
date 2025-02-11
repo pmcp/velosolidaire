@@ -1,5 +1,5 @@
 ---
-title: Marolles
+title: Flotte des Marolles
 active: false
 idInSheet: Miroir
 safetyPeriod: 14
