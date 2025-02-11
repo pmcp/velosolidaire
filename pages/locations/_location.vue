@@ -57,7 +57,7 @@
       <div class="w-full grid grid-cols-1 gap-8 md:grid-cols-2 mt-12">
         <div v-if="user && user.locations">
 
-          <div v-if="!location.active && user.locations.includes(location.idInSheet)" class="mt-4 font-semibold">
+          <div v-if="!location.active && !user.locations.includes(location.idInSheet)" class="mt-4 font-semibold">
             <translation :id="37" />
           </div>
           <div>
@@ -67,12 +67,12 @@
           </div>
         </div>
 
-        <div class="mt-4 w-full">
+        <div class="mt-4 w-full" v-if="user && user.locations">
           <heading-two class="pb-4">
             <translation :id="18" />
           </heading-two>
           <div class="sticky top-20 mb-20">
-            <div v-if="!location.active" class="w-full h-full bg-gray-50 absolute top-o left-0 z-30 opacity-80 flex justify-center items-center font-semibold">
+            <div v-if="!location.active || !user.locations.includes(location.idInSheet)" class="w-full h-full bg-gray-50 absolute top-o left-0 z-30 opacity-80 flex justify-center items-center font-semibold">
               <translation :id="37" />
             </div>
             <booking-module :safetyPeriod="location.safetyPeriod || 0"/>
