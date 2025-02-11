@@ -1,6 +1,6 @@
 ---
 title: Flotte des Marolles
-active: false
+active: true
 idInSheet: marolles
 safetyPeriod: 14 
 location: '{"type":"Point","coordinates":[4.347782555942949,50.84030544819478]}'

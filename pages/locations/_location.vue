@@ -56,10 +56,6 @@
 
       <div class="w-full grid grid-cols-1 gap-8 md:grid-cols-2 mt-12">
         <div v-if="user && user.locations">
-<!--  I should add a check if the user can use this location.-->
-
-
-          {{ user}}
 
           <div v-if="!location.active && user.locations.includes(location.idInSheet)" class="mt-4 font-semibold">
             <translation :id="37" />
