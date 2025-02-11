@@ -1,9 +1,9 @@
 ---
 title: Flotte des Marolles
 active: false
-idInSheet: Miroir
-safetyPeriod: 14
-location: '{"type":"Point","coordinates":[4.346331,50.8733201]}'
+idInSheet: marolles
+safetyPeriod: 14 
+location: '{"type":"Point","coordinates":[4.347782555942949,50.84030544819478]}'
 info: L'accès à la flotte est géré par l'atelier CyCLO. En cas de réservation le
   weekend, l'accès peut se faire via la boite à clés.
 street: Rue du miroir 22

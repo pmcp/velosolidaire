@@ -1,9 +1,9 @@
 ---
 title: Vloot van de Marollen
 active: false
-idInSheet: Miroir
+idInSheet: marolles
 safetyPeriod: 0
-location: '{"type":"Point","coordinates":[4.346331,50.8733201]}'
+location: '{"type":"Point","coordinates":[4.347782555942949,50.84030544819478]}'
 info: L'accès à la flotte est géré par l'atelier CyCLO. En cas de réservation le
   weekend, l'accès peut se faire via la boite à clés.
 street: Spiegelstraat 22
