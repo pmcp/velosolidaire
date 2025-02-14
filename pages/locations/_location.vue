@@ -72,8 +72,10 @@
             <translation :id="18" />
           </heading-two>
           <div class="sticky top-20 mb-20">
-            <div v-if="!location.active || !user.locations.includes(location.idInSheet)" class="w-full h-full bg-gray-50 absolute top-o left-0 z-30 opacity-80 flex justify-center items-center font-semibold">
-              <translation :id="37" />
+
+            <div v-if="!location.active || !user.locations.includes(location.idInSheet)" class="w-full h-full p-6 bg-gray-50 absolute top-o left-0 z-30 opacity-80 flex justify-center items-center font-semibold">
+                <translation v-if="!user.locations.includes(location.idInSheet)" :id="39" />
+                <translation v-else :id="37" />
             </div>
             <booking-module :safetyPeriod="location.safetyPeriod || 0"/>
           </div>

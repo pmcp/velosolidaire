@@ -51,7 +51,7 @@ export const actions = {
 				  username: user.user_metadata.full_name,
 				  email: user.email,
 				  roles: userInSheet[0].role,
-				  locations: userInSheet[0].locations.split(',')
+				  locations: userInSheet[0].locations.split(', ')
 			  })
 		  }
 	  }

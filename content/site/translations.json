@@ -155,6 +155,10 @@
     {
       "fr": "Vous n'êtes pas connecté. Connectez-vous d'abord pour utiliser le module.",
       "nl": "Je bent niet ingelogd. Log eerst in om de module te gebruiken."
+    },
+    {
+      "fr": "L’accès à cette flotte est limité à certaines associations, veuillez contacter Vélo Solidaire via velosolidaire@cyclo.org si vous souhaitez réserver cette flotte.",
+      "nl": "De toegang tot deze vloot is beperkt tot bepaalde verenigingen, neem contact op met Vélo Solidaire via velosolidaire@cyclo.org als je deze vloot wilt reserveren."
     }
   ]
 }
