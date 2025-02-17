@@ -83,8 +83,6 @@ mails:
       Het Solidaire Velo-team
     subject: Terugbrengen van je reservering
 ---
-**!!! De vloot van de Marollen is beschikbaar vanaf het voorjaar van 2025. Als je nu data wilt reserveren, stuur dan een e-mail naar velosolidaire@cyclo.org !!!**
-
 De toegang tot de vloot wordt beheerd door het CyCLO atelier[](https://korpus.kwb.be/page?page=afd_home&orl=579). Kom langs en we geven je de sleutels.
 
 De vloot is beschikbaar **van maandag tot vrijdag tussen 9u en 17u**.

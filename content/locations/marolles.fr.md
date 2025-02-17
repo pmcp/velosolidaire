@@ -2,7 +2,7 @@
 title: Flotte des Marolles
 active: true
 idInSheet: marolles
-safetyPeriod: 14 
+safetyPeriod: 14
 location: '{"type":"Point","coordinates":[4.347782555942949,50.84030544819478]}'
 info: L'accès à la flotte est géré par l'atelier CyCLO. En cas de réservation le
   weekend, l'accès peut se faire via la boite à clés.
@@ -83,8 +83,6 @@ mails:
 
       L'équipe Vélo Solidaire
 ---
-**!!! La flotte des Marolles sera accessible à partir du printemps 2025. Si vous souhaitez déjà réserver des dates, vous pouvez envoyer un Email à velosolidaire@cyclo.org !!!**
-
 L'accès à la flotte se fait via l'atelier CyCLO[](https://korpus.kwb.be/page?page=afd_home&orl=579). Veuillez vous y présenter pour qu'on vous donne les clés.
 La flotte est disponible **du lundi au vendredi entre 9h et 17h**.
 
