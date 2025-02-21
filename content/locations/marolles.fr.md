@@ -32,6 +32,9 @@ mails:
       Quand vous avez terminé, c'est à nouveau une personne de l'atelier qui vous donnera accès à la cave. Remettez les vélos à leur place et si un vélo était défectueux, rangez-le dans l'espace prévu à cet effet et dites-le nous!
 
 
+      Pour rappel, en cas de vol ou de perte, un dédommagement de 250€ vous sera demandé (+ 15€ pour le cadenas, le cas échéant).
+
+
       Bonne route, 
 
 
@@ -58,6 +61,9 @@ mails:
       Quand vous avez terminé, c'est à nouveau une personne de l'atelier qui vous donnera accès à la cave. Remettez les vélos à leur place et si un vélo était défectueux, rangez-le dans l'espace prévu à cet effet et dites-le nous!
 
 
+      Pour rappel, en cas de vol ou de perte, un dédommagement de 250€ vous sera demandé (+ 15€ pour le cadenas, le cas échéant).
+
+
       Bonne route, 
 
 
@@ -75,7 +81,7 @@ mails:
       %BOOKING%
 
 
-      J'espère que votre réservation s'est bien déroulée. Est-ce que certains vélos ont été endommagés? Veuillez dans ce cas nous décrire les problèmes détectés par retour de cet Email pour que nous puissions au plus vite les réparer. 
+      J'espère que votre réservation s'est bien déroulée. Est-ce que certains vélos ont été endommagés, volés ou perdus ? Veuillez dans ce cas nous en avertir et décrire les problèmes détectés par retour de cet Email pour que nous puissions au plus vite les réparer. 
 
 
       A tout bientôt.

@@ -32,6 +32,9 @@ mails:
       Als je de fietsen komt terugbrengen, geeft de fietsmekanieker je weer toegang tot de garage. Zet de fietsen terug op hun plaats en als een fiets defect is, zet hem dan in op de daarvoor bestemde plaats en laat het ons weten!
 
 
+      Ter herinnering, in geval van diefstal of verlies wordt een schadevergoeding van €250 per fiets aangerekend (+ €15 voor het slot).
+
+
       Fiets ze,
 
 
@@ -58,6 +61,9 @@ mails:
       Als je de fietsen komt terugbrengen, geeft de fietsmekanieker je weer toegang tot de garage. Zet de fietsen terug op hun plaats en als een fiets defect is, zet hem dan in op de daarvoor bestemde plaats en laat het ons weten!
 
 
+      Ter herinnering, in geval van diefstal of verlies wordt een schadevergoeding van €250 per fiets aangerekend (+ €15 voor het slot).
+
+
       Fiets ze,
 
 
@@ -74,7 +80,7 @@ mails:
       %BOOKING%
 
 
-      Wij hopen dat je reservatie goed is verlopen. Zijn er fietsen beschadigd? Zo ja, laat ons dan weten over welke problemen het precies gaat door deze e-mail te beantwoorden, zodat we die zo snel mogelijk kunnen herstellen. 
+      Wij hopen dat je reservatie goed is verlopen. Zijn er fietsen beschadigd, gestolen of verloren? Zo ja, laat ons dan weten en over welke problemen het precies gaat door deze e-mail te beantwoorden, zodat we die zo snel mogelijk kunnen herstellen. 
 
 
       Tot ziens,
