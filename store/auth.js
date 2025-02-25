@@ -17,9 +17,9 @@ export const mutations = {
 
 export const actions = {
   async init({ commit }) {
+
 	this.$netlifyIdentity.on('init', async (user) => {
 		console.log('init', user)
-
 	  if (user) {
 
 		commit('SET_USER', {
@@ -29,31 +29,6 @@ export const actions = {
 		})
 
 
-
-
-		  // check in google sheets to what locations this user has access to
-		  const resultSheet = await fetch('/.netlify/functions/get-sheet', {
-			  method: 'POST',
-			  body: JSON.stringify({ sheet: 'users' }),
-		  })
-		  const res = await resultSheet.json()
-		  console.log('here', res)
-		  // find in the array "res" the user based on the email of the current user
-		  console.log('user', user.email)
-		  const userInSheet = res.filter((u) => u.email === user.email)
-		  console.log('userInSheet', userInSheet)
-
-		  if (userInSheet.length > 0) {
-
-			  // const locations = this.$store.getters.localisedLocations
-			  // if the user is in the sheet, add the roles to the user
-			  commit('SET_USER', {
-				  username: user.user_metadata.full_name,
-				  email: user.email,
-				  roles: userInSheet[0].role,
-				  locations: userInSheet[0].locations.split(', ')
-			  })
-		  }
 	  }
 	})
 	this.$netlifyIdentity.on('close', () => {
@@ -80,14 +55,51 @@ export const actions = {
 	this.$netlifyIdentity.logout()
 	commit('SET_USER', null)
   },
-  open({ commit }, action) {
+  async open({ commit }, action) {
+	  console.log('open', action)
 	this.$netlifyIdentity.open(action)
-		this.$netlifyIdentity.on(action, (user) => {
-	  commit('SET_USER', {
-		username: user.user_metadata.full_name,
-		email: user.email,
-			roles: user.app_metadata.roles
-	  })
+		this.$netlifyIdentity.on(action, async (user) => {
+
+
+
+
+
+			// THIS IS THE SAME CODE AS IN INIT
+			// check in google sheets to what locations this user has access to
+			const resultSheet = await fetch('/.netlify/functions/get-sheet', {
+				method: 'POST',
+				body: JSON.stringify({ sheet: 'users' }),
+			})
+			const res = await resultSheet.json()
+			// find in the array "res" the user based on the email of the current user
+			const userInSheet = res.filter((u) => u.email === user.email)
+
+			if (userInSheet.length > 0) {
+
+				// const locations = this.$store.getters.localisedLocations
+				// if the user is in the sheet, add the roles to the user
+				commit('SET_USER', {
+					username: user.user_metadata.full_name,
+					email: user.email,
+					roles: userInSheet[0].role,
+					locations: userInSheet[0].locations.split(', ')
+				})
+			}
+
+
+
+		//
+		// 	commit('SET_USER', {
+		// username: user.user_metadata.full_name,
+		// email: user.email,
+		// 	roles: user.app_metadata.roles
+	  // })
+
+
+
+
+
+
 	  this.$netlifyIdentity.close()
 	})
 	}

@@ -53,11 +53,13 @@
           <location-map class="h-40 md:h-full "></location-map>
         </div>
       </div>
-
       <div class="w-full grid grid-cols-1 gap-8 md:grid-cols-2 mt-12">
-        <div v-if="user && user.locations">
+        <p>logged in: {{ isLoggedIn}}
+        {{ user }}
+        <p>can NOT book: {{ canNOTbook}}</p>
+        <div v-if="isLoggedIn">
 
-          <div v-if="!location.active && !user.locations.includes(location.idInSheet)" class="mt-4 font-semibold">
+          <div v-if="canNOTbook" class="mt-4 font-semibold">
             <translation :id="37" />
           </div>
           <div>
@@ -67,13 +69,13 @@
           </div>
         </div>
 
-        <div class="mt-4 w-full" v-if="user && user.locations">
+        <div class="mt-4 w-full" v-if="isLoggedIn">
           <heading-two class="pb-4">
             <translation :id="18" />
           </heading-two>
           <div class="sticky top-20 mb-20">
 
-            <div v-if="!location.active || !user.locations.includes(location.idInSheet)" class="w-full h-full p-6 bg-gray-50 absolute top-o left-0 z-30 opacity-80 flex justify-center items-center font-semibold">
+            <div v-if="canNOTbook" class="w-full h-full p-6 bg-gray-50 absolute top-o left-0 z-30 opacity-80 flex justify-center items-center font-semibold">
                 <translation v-if="!user.locations.includes(location.idInSheet)" :id="39" />
                 <translation v-else :id="37" />
             </div>
@@ -135,6 +137,15 @@ export default {
     ...mapGetters({
       user: 'auth/user',
     }),
+    canNOTbook() {
+      return (!this.location.active && !this.user.locations.includes(this.location.idInSheet))
+    },
+    isLoggedIn() {
+      if(this.user) {
+        return true
+      }
+      return false
+    }
   },
 }
 </script>
