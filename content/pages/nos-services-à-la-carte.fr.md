@@ -31,7 +31,7 @@ elements:
 
       Vous voulez organiser des activités à vélo pour votre public mais vos bénéficiaires n’ont jamais appris à pédaler ? Nous proposons un module de formation pour vous transmettre notre méthodologie pour apprendre l'équilibre dynamique à vélo, en se mettant dans les conditions réelles d’apprentissage.\
 
-      **Dates et inscriptions** [ici](https://www.billetweb.fr/formation-je-veux-apprendre-a-quelquun-a-rouler-a-velo)
+      **Dates et inscriptions** [ici](https://www.billetweb.fr/formation-mise-en-selle)
 
 
       ### Encadrer un groupe dans la circulation
