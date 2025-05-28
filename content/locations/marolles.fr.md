@@ -2,7 +2,7 @@
 title: Flotte des Marolles
 active: true
 idInSheet: marolles
-safetyPeriod: 14
+safetyPeriod: 0
 location: '{"type":"Point","coordinates":[4.347782555942949,50.84030544819478]}'
 info: L'accès à la flotte est géré par l'atelier CyCLO. En cas de réservation le
   weekend, l'accès peut se faire via la boite à clés.
