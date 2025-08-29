@@ -1,5 +1,5 @@
 ---
-title: Vloot van de Evere
+title: Vloot van de Ever
 active: false
 idInSheet: evere
 safetyPeriod: 0
