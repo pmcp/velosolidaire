@@ -8,23 +8,19 @@ import mapboxgl from 'mapbox-gl'
 export default {
   computed: {
     locations() {
-      console.log('locations')
+
       return this.$store.getters.localisedLocations
     },
     activeLocationId() {
-      console.log('activeLocationId')
+
       return this.$store.state.activeLocationId
     },
   },
   watch: {
     locations: function (val) {
-      console.log('HHHERRRE', val)
-      // // TODO: add all markers
-      console.log('locat', this.locations)
       if (!this.locations) return
       const mapboxgl = require('mapbox-gl')
 
-      console.log('HERE', this.activeLocationId)
       if (this.activeLocationId != null) {
         const activeLocationObject = this.locations[0]
         const coordinates = JSON.parse(activeLocationObject.location).coordinates
@@ -65,13 +61,12 @@ export default {
       }
     },
     activeLocationId: function (val) {
-      console.log('get', val)
+
       // TODO: add all markers
-      console.log('locat', this.locations)
+
       if (!this.locations) return
       const mapboxgl = require('mapbox-gl')
 
-      console.log('HERE', this.activeLocationId)
       if (this.activeLocationId != null) {
         const activeLocationObject = this.locations.filter((l) => l.idInSheet === this.activeLocationId)[0]
         const coordinates = JSON.parse(activeLocationObject.location).coordinates

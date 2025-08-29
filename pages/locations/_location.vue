@@ -54,9 +54,6 @@
         </div>
       </div>
       <div class="w-full grid grid-cols-1 gap-8 md:grid-cols-2 mt-12">
-        <p>logged in: {{ isLoggedIn}}
-        {{ user }}
-        <p>can NOT book: {{ canNOTbook}}</p>
         <div v-if="isLoggedIn">
 
           <div v-if="canNOTbook" class="mt-4 font-semibold">
@@ -138,7 +135,7 @@ export default {
       user: 'auth/user',
     }),
     canNOTbook() {
-      return (!this.location.active && !this.user.locations.includes(this.location.idInSheet))
+      return (!this.location.active || !this.user.locations.includes(this.location.idInSheet))
     },
     isLoggedIn() {
       if(this.user) {

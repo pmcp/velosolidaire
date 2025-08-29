@@ -353,7 +353,7 @@ export const getters = {
   disabledDates: (state, getters) => {
     // Get the dates settings for this location
     const datesSettingsForActiveLocation = state.activeLocationId
-    console.log(datesSettingsForActiveLocation)
+
 
     // Filter out only bookings with the active location
     const filteredBookings = getters.combinedBookings.filter((b) => b.location === state.activeLocationId)
