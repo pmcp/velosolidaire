@@ -88,8 +88,7 @@ mails:
       Het Solidaire Velo-team
     subject: Terugbrengen van je reservering
 ---
-
-L'accès à la flotte se fait via Everecity. Il faut impérativement avoir un rendez-vous fixé avec Evercity pour que quelqu'un vienne vous ouvrir le garage où se trouve la flotte (les coordonnées de la personne de contact vous seront communiquées par Email une fois la flotte réservée).
+L'accès à la flotte se fait via Everecity. Il faut impérativement avoir un rendez-vous fixé avec Everecity pour que quelqu'un vienne vous ouvrir le garage où se trouve la flotte (les coordonnées de la personne de contact vous seront communiquées par Email une fois la flotte réservée).
 
 De vloot is beschikbaar **van maandag tot vrijdag tussen 9u en 17u**.
 
