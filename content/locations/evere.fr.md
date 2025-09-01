@@ -4,11 +4,10 @@ active: false
 idInSheet: evere
 safetyPeriod: 0
 location: '{"type":"Point","coordinates":[4.347782555942949,50.84030544819478]}'
-info: L'accès à la flotte est géré par l'atelier CyCLO. En cas de réservation le
-  weekend, l'accès peut se faire via la boite à clés.
-street: Rue du miroir 22
-zip: 1000
-city: Bruxelles
+info: L'accès à la flotte est géré par Everecity.
+street: Rue Fernand Léger 39
+zip: 1140
+city: Evere
 mails:
   confirmation:
     subject: Confirmation de votre réservation
@@ -23,7 +22,7 @@ mails:
       %BOOKING%
 
 
-      Le jour de votre réservation, vous devrez vous rendre dans l'atelier CyCLO, vous présenter et demander l'accès à la flotte de Vélo Solidaire en mentionnant votre nom et votre association. Un.e mécanicien.ne  vous accompagnera au garage où se trouve la flotte de Vélo Solidaire.
+      La première chose à faire est de prendre contact avec Sophie Rosmant (srosmant@everecity.brussels) pour fixer une heure de rdv pour qu'elle vienne vous ouvrir la porte. Soyez ponctuel (ou prévoyez de vous retrouver avec votre groupe à l'avance) et pensez à la prévenir en cas de changement de programme.
 
 
       Prévoyez de prendre un peu de temps pour gonfler les pneus des vélos avant votre activité. Tout le matériel (dont les pompes) se trouve dans la grande armoire fermée à clé.
@@ -52,7 +51,7 @@ mails:
       %BOOKING%
 
 
-      Le jour de votre réservation, vous devrez vous rendre dans l'atelier CyCLO, vous présenter et demander l'accès à la flotte de Vélo Solidaire en mentionnant votre nom et votre association. Un.e mécanicien.ne  vous accompagnera au garage où se trouve la flotte de Vélo Solidaire.
+      Avez-vous bien pris rdv avec Sophie Rosmant d'everecity pour qu'elle vienne vous ouvrir la porte ?
 
 
       Prévoyez de prendre un peu de temps pour gonfler les pneus des vélos avant votre activité. Tout le matériel (dont les pompes) se trouve dans la grande armoire fermée à clé.
@@ -89,7 +88,9 @@ mails:
 
       L'équipe Vélo Solidaire
 ---
-L'accès à la flotte se fait via l'atelier CyCLO[](https://korpus.kwb.be/page?page=afd_home&orl=579). Veuillez vous y présenter pour qu'on vous donne les clés.
+L'accès à la flotte se fait via Evercity. Il faut impérativement avoir un rendez-vous fixé avec Everecity pour que quelqu'un vienne vous ouvrir le garage où se trouve la flotte (les coordonnées de la personne de contact vous seront communiquées par Email une fois la flotte réservée).
+
+
 La flotte est disponible **du lundi au vendredi entre 9h et 17h**.
 
 ### V﻿élos disponibles

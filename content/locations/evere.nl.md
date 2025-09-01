@@ -2,13 +2,12 @@
 title: Vloot van de Ever
 active: false
 idInSheet: evere
-safetyPeriod: 0
+safetyPeriod: 7
 location: '{"type":"Point","coordinates":[4.347782555942949,50.84030544819478]}'
-info: L'accès à la flotte est géré par l'atelier CyCLO. En cas de réservation le
-  weekend, l'accès peut se faire via la boite à clés.
-street: Spiegelstraat 22
-zip: 1000
-city: Brussel
+info: L'accès à la flotte est géré par Everecity.
+street: Rue Fernand Léger 39
+zip: 1140
+city: Ever
 mails:
   confirmation:
     subject: Bevestiging van uw reservering
@@ -23,7 +22,7 @@ mails:
       %BOOKING%
 
 
-      Op de dag van je reservatie meld je je aan bij het atelier, waar je toegang vraagt tot de fietsvloot van Solidaire Velo. Vermeld hierbij je naam en je vereniging. Een fietsmekanieker zal je begeleiden naar de garage waar de Solidaire Velo-vloot staat.
+      La première chose à faire est de prendre contact avec Sophie Rosmant (srosmant@everecity.brussels) pour fixer une heure de rdv pour qu'elle vienne vous ouvrir la porte. Soyez ponctuel (ou prévoyez de vous retrouver avec votre groupe à l'avance) et pensez à la prévenir en cas de changement de programme.
 
 
       Voor je activiteit, neem de tijd om de fietsbanden op te pompen. Alle materiaal (inclusief de pompen) bevindt zich in de grote afgesloten kast.
@@ -52,7 +51,7 @@ mails:
       %BOOKING%
 
 
-      Op de dag van je reservatie meld je je aan bij het atelier, waar je toegang vraagt tot de fietsvloot van Solidaire Velo. Vermeld hierbij je naam en je vereniging. Een fietsmekanieker zal je begeleiden naar de garage waar de Solidaire Velo-vloot staat.
+      Avez-vous bien pris rdv avec Sophie Rosmant d'everecity pour qu'elle vienne vous ouvrir la porte ?
 
 
       Voor je activiteit, neem de tijd om de fietsbanden op te pompen. Alle materiaal (inclusief de pompen) bevindt zich in de grote afgesloten kast.
@@ -89,7 +88,8 @@ mails:
       Het Solidaire Velo-team
     subject: Terugbrengen van je reservering
 ---
-De toegang tot de vloot wordt beheerd door het CyCLO atelier[](https://korpus.kwb.be/page?page=afd_home&orl=579). Kom langs en we geven je de sleutels.
+
+L'accès à la flotte se fait via Everecity. Il faut impérativement avoir un rendez-vous fixé avec Evercity pour que quelqu'un vienne vous ouvrir le garage où se trouve la flotte (les coordonnées de la personne de contact vous seront communiquées par Email une fois la flotte réservée).
 
 De vloot is beschikbaar **van maandag tot vrijdag tussen 9u en 17u**.
 
