@@ -1,5 +1,5 @@
 ---
-title: Flotte de Evere
+title: Flotte d'Evere
 active: false
 idInSheet: evere
 safetyPeriod: 0
