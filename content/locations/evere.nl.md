@@ -22,13 +22,13 @@ mails:
       %BOOKING%
 
 
-      La première chose à faire est de prendre contact avec Sophie Rosmant (srosmant@everecity.brussels) pour fixer une heure de rdv pour qu'elle vienne vous ouvrir la porte. Soyez ponctuel (ou prévoyez de vous retrouver avec votre groupe à l'avance) et pensez à la prévenir en cas de changement de programme.
+      La première chose à faire est de prendre contact avec Sophie  (srosmant@everecity.brussels) et Marjorie (MPeckel@everecity.brussels) pour fixer une heure de rdv pour qu'une d'elle vienne vous ouvrir la porte. Soyez ponctuel (éventuellement, prévoyez de vous retrouver avec votre groupe à l'avance) et pensez à la prévenir en cas de changement de programme.
 
 
-      Voor je activiteit, neem de tijd om de fietsbanden op te pompen. Alle materiaal (inclusief de pompen) bevindt zich in de grote afgesloten kast.
+      Voor je activiteit, neem de tijd om de fietsbanden op te pompen. Alle materiaal (inclusief de pompen) bevindt zich in de grote afgesloten kasten.
 
 
-      Als je de fietsen komt terugbrengen, geeft de fietsmekanieker je weer toegang tot de garage. Zet de fietsen terug op hun plaats en als een fiets defect is, zet hem dan in op de daarvoor bestemde plaats en laat het ons weten!
+      Als je de fietsen komt terugbrengen, geeft Sophie of Marjorie je weer toegang tot de garage. Zet de fietsen terug op hun plaats en als een fiets defect is,  laat het ons weten!
 
 
       Ter herinnering, in geval van diefstal of verlies wordt een schadevergoeding van €250 per fiets aangerekend (+ €15 voor het slot).
@@ -51,13 +51,13 @@ mails:
       %BOOKING%
 
 
-      Avez-vous bien pris rdv avec Sophie Rosmant d'everecity pour qu'elle vienne vous ouvrir la porte ?
+      Avez-vous bien pris rdv avec Sophie ou Marjorie d'Everecity pour qu'une d'elle vienne vous ouvrir la porte ?
 
 
-      Voor je activiteit, neem de tijd om de fietsbanden op te pompen. Alle materiaal (inclusief de pompen) bevindt zich in de grote afgesloten kast.
+      Voor je activiteit, neem de tijd om de fietsbanden op te pompen. Alle materiaal (inclusief de pompen) bevindt zich in de grote afgesloten kasten.
 
 
-      Als je de fietsen komt terugbrengen, geeft de fietsmekanieker je weer toegang tot de garage. Zet de fietsen terug op hun plaats en als een fiets defect is, zet hem dan in op de daarvoor bestemde plaats en laat het ons weten!
+      Als je de fietsen komt terugbrengen, geeft de fietsmekanieker je weer toegang tot de garage. Zet de fietsen terug op hun plaats en als een fiets defect is, laat het ons weten!
 
 
       Ter herinnering, in geval van diefstal of verlies wordt een schadevergoeding van €250 per fiets aangerekend (+ €15 voor het slot).
@@ -104,4 +104,4 @@ De vloot is beschikbaar **van maandag tot vrijdag tussen 9u en 17u**.
 
 ### Accessoires
 
-Fietssloten, helmen, fluohesjes, broekclips, kegels, pompen, gereedschapskid
+Fietssloten, helmen, fluohesjes, broekclips, fietstassen, kegels, pompen, gereedschapskid

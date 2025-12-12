@@ -22,13 +22,13 @@ mails:
       %BOOKING%
 
 
-      La première chose à faire est de prendre contact avec Sophie Rosmant (srosmant@everecity.brussels) pour fixer une heure de rdv pour qu'elle vienne vous ouvrir la porte. Soyez ponctuel (ou prévoyez de vous retrouver avec votre groupe à l'avance) et pensez à la prévenir en cas de changement de programme.
+      La première chose à faire est de prendre contact avec Sophie  (srosmant@everecity.brussels) et Marjorie (MPeckel@everecity.brussels) pour fixer une heure de rdv pour qu'une d'elle vienne vous ouvrir la porte. Soyez ponctuel (éventuellement, prévoyez de vous retrouver avec votre groupe à l'avance) et pensez à la prévenir en cas de changement de programme.
 
 
-      Prévoyez de prendre un peu de temps pour gonfler les pneus des vélos avant votre activité. Tout le matériel (dont les pompes) se trouve dans la grande armoire fermée à clé.
+      Prévoyez de prendre un peu de temps pour gonfler les pneus des vélos avant votre activité. Tout le matériel (dont les pompes) se trouve dans les armoires fermées à clé.
 
 
-      Quand vous avez terminé, c'est à nouveau une personne de l'atelier qui vous donnera accès à la cave. Remettez les vélos à leur place et si un vélo était défectueux, rangez-le dans l'espace prévu à cet effet et dites-le nous!
+      Quand vous avez terminé, c'est à nouveau Sophie ou Marjorie qui vous donnera accès à la cave. Remettez les vélos à leur place et si un vélo était défectueux, dites-le nous !
 
 
       Pour rappel, en cas de vol ou de perte, un dédommagement de 250€ vous sera demandé (+ 15€ pour le cadenas, le cas échéant).
@@ -51,13 +51,13 @@ mails:
       %BOOKING%
 
 
-      Avez-vous bien pris rdv avec Sophie Rosmant d'everecity pour qu'elle vienne vous ouvrir la porte ?
+      Avez-vous bien pris rdv avec Sophie ou Marjorie d'Everecity pour qu'une d'elle vienne vous ouvrir la porte ?
 
 
-      Prévoyez de prendre un peu de temps pour gonfler les pneus des vélos avant votre activité. Tout le matériel (dont les pompes) se trouve dans la grande armoire fermée à clé.
+      Prévoyez de prendre un peu de temps pour gonfler les pneus des vélos avant votre activité. Tout le matériel (dont les pompes) se trouve dans les armoires fermées à clé.
 
 
-      Quand vous avez terminé, c'est à nouveau une personne de l'atelier qui vous donnera accès à la cave. Remettez les vélos à leur place et si un vélo était défectueux, rangez-le dans l'espace prévu à cet effet et dites-le nous!
+      Quand vous avez terminé, c'est à nouveau une personne de l'atelier qui vous donnera accès à la cave. Remettez les vélos à leur place et si un vélo était défectueux, dites-le nous !
 
 
       Pour rappel, en cas de vol ou de perte, un dédommagement de 250€ vous sera demandé (+ 15€ pour le cadenas, le cas échéant).
@@ -104,4 +104,4 @@ La flotte est disponible **du lundi au vendredi entre 9h et 17h**.
 
 ### Matériel divers
 
-Cadenas, casques, chasubles, clips pour pantalon, plots, pompes, boite à outils[](https://www.google.com/maps/place/Av.+Jean+Dubrucq+240,+1020+Molenbeek-Saint-Jean/@50.8705879,4.3395347,17z/data=!4m5!3m4!1s0x47c3c3be4730c85b:0xef6a9b35d8e3a682!8m2!3d50.8708283!4d4.3414552?entry=ttu)
+Cadenas, casques, chasubles, clips pour pantalon, sacoches, plots, pompes, boite à outils[](https://www.google.com/maps/place/Av.+Jean+Dubrucq+240,+1020+Molenbeek-Saint-Jean/@50.8705879,4.3395347,17z/data=!4m5!3m4!1s0x47c3c3be4730c85b:0xef6a9b35d8e3a682!8m2!3d50.8708283!4d4.3414552?entry=ttu)
