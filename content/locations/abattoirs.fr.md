@@ -105,7 +105,7 @@ L'accès à la flotte est géré par [Cultureghem](https://cultureghem.be/fr/acc
 
 ### Matériel divers
 
-Cadenas, casques, chasubles, clips pour pantalon, plots, pompes, boite à outils
+Cadenas, casques, chasubles, clips pour pantalon, sacoches, plots, pompes, boite à outils
 
 ### Où faire de la mise en selle ?
 

@@ -105,7 +105,7 @@ De toegang tot de vloot wordt beheerd door [Cultureghem](https://cultureghem.be/
 
 ### Materiaal
 
-Fietssloten, helmen, fluohesjes, broekclips, kegels, pompen, gereedschapskid
+Fietssloten, helmen, fluohesjes, broekclips, fietstassen, kegels, pompen, gereedschapskid
 
 ### Waar kan je leren fietsen?
 
