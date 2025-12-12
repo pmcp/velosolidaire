@@ -105,4 +105,4 @@ De vloot is beschikbaar **van maandag tot vrijdag tussen 9u en 17u**.
 
 ### Accessoires
 
-Fietssloten, helmen, fluohesjes, broekclips, kegels, pompen, gereedschapskid
+Fietssloten, helmen, fluohesjes, broekclips, fietstassen, kegels, pompen, gereedschapskid
