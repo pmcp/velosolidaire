@@ -1,6 +1,6 @@
 ---
 title: Vloot van Ever
-active: false
+active: true
 idInSheet: evere
 safetyPeriod: 7
 location: '{"type":"Point","coordinates":[4.347782555942949,50.84030544819478]}'
