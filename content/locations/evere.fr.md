@@ -1,6 +1,6 @@
 ---
 title: Flotte d'Evere
-active: false
+active: true
 idInSheet: evere
 safetyPeriod: 0
 location: '{"type":"Point","coordinates":[4.347782555942949,50.84030544819478]}'
