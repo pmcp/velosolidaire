@@ -5,7 +5,7 @@ idInSheet: evere
 safetyPeriod: 0
 location: '{"type":"Point","coordinates":[4.347782555942949,50.84030544819478]}'
 info: L'accès à la flotte est géré par Everecity.
-street: Rue Fernand Léger 39
+street: Rue Fernand Léger 47
 zip: 1140
 city: Evere
 mails:
