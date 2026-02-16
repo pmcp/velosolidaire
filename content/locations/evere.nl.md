@@ -1,13 +1,13 @@
 ---
-title: Vloot van Ever
+title: Vloot van Evere
 active: true
 idInSheet: evere
 safetyPeriod: 7
-location: '{"type":"Point","coordinates":[4.347782555942949,50.84030544819478]}'
+location: '{"type":"Point","coordinates":[4.4119317,50.8726922]}'
 info: L'accès à la flotte est géré par Everecity.
 street: Rue Fernand Léger 47
 zip: 1140
-city: Ever
+city: Evere
 mails:
   confirmation:
     subject: Bevestiging van uw reservering
