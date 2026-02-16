@@ -3,7 +3,7 @@ title: Flotte d'Evere
 active: true
 idInSheet: evere
 safetyPeriod: 0
-location: '{"type":"Point","coordinates":[4.347782555942949,50.84030544819478]}'
+location: '{"type":"Point","coordinates":[4.4119166,50.8726998]}'
 info: L'accès à la flotte est géré par Everecity.
 street: Rue Fernand Léger 47
 zip: 1140
