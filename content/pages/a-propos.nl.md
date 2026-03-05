@@ -31,8 +31,8 @@ elements:
       **Activiteitenverslag**
   - type: buttons
     button:
-      - label: Activiteitenverslag Solidaire Velo 2023
-        download: /img/rapport-d-activité-vélo-solidaire-2023.pdf
+      - label: Activiteitenverslag Solidaire Velo 2024
+        download: /img/rapport-d-activité-vélo-solidaire-2024_compressed.pdf
   - type: text
     markdown: >-
       **Impactstudie**\
