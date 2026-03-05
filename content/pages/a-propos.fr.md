@@ -25,8 +25,9 @@ elements:
       **Rapport d'activité**
   - type: buttons
     button:
-      - label: Rapport d'activité Vélo Solidaire 2023
-        download: /img/rapport-d-activité-vélo-solidaire-2023.pdf
+      - label: Rapport d'activité Vélo Solidaire 2024
+        download: /img/rapport-d-activité-vélo-solidaire-2024_compressed.pdf
+      - {}
   - type: text
     markdown: >-
       **Etude d'impact**\
