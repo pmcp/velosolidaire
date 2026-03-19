@@ -88,13 +88,17 @@ mails:
       Het Solidaire Velo-team
     subject: Terugbrengen van je reservering
 ---
-L'accès à la flotte se fait via Everecity. Il faut impérativement avoir un rendez-vous fixé avec Everecity pour que quelqu'un vienne vous ouvrir le garage où se trouve la flotte (les coordonnées de la personne de contact vous seront communiquées par Email une fois la flotte réservée).
+De fietsen van de vloot in Evere zijn aangeschaft dankzij de steun van de Nationale Loterij.
+
+![](/img/logo_lotnatlot_rgb_baseline.jpg)
+
+Toegang tot de fietsen verloopt via Everecity. U moet verplicht een afspraak maken met Everecity, zodat iemand de garage waar de fietsen zich bevinden kan openen (de contactgegevens van de contactpersoon worden u per e-mail toegestuurd zodra het vloot gereserveerd is).
 
 De vloot is beschikbaar **van maandag tot vrijdag tussen 9u en 17u**.
 
 ### Beschikbare fietsen
 
-**Leer-fietsen**\
+**oefenfietsen**\
 1 fiets Oxford 24''
 
 10 fietsen Oxford framemaat 26'' (center-top 38cm)
