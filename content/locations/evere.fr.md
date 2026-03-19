@@ -88,6 +88,10 @@ mails:
 
       L'équipe Vélo Solidaire
 ---
+Les vélos de la flotte d'Evere ont été achetés grâce au soutien de la Loterie Nationale.
+
+![](/img/logo_lotnatlot_rgb_baseline.jpg)
+
 L'accès à la flotte se fait via Everecity. Il faut impérativement avoir un rendez-vous fixé avec Everecity pour que quelqu'un vienne vous ouvrir le garage où se trouve la flotte (les coordonnées de la personne de contact vous seront communiquées par Email une fois la flotte réservée).
 
 La flotte est disponible **du lundi au vendredi entre 9h et 17h**.
