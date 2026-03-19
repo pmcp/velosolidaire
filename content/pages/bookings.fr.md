@@ -6,7 +6,14 @@ elements:
       # Réserver une flotte de vélos
 
 
-      Les flottes Vélos Solidaire sont accessibles à toute association psyco/socio/culturelle ou de promotion de la santé et de la cohésion sociale active en Région bruxelloise et qui s’adresse à un public moins favorisé. Les vélos sont disponibles à titre gratuit pour des activités d’apprentissage du vélo ou pour des sorties à vélo en groupe. 
+      Les flottes Vélos Solidaire sont accessibles à toute association psycho/socio/culturelle ou de promotion de la santé et de la cohésion sociale active en Région bruxelloise et qui s’adresse à un public moins favorisé. Les vélos sont disponibles à titre gratuit pour des activités d’apprentissage du vélo ou pour des sorties à vélo en groupe. 
+
+
+
+      Les vélos de la flotte d'Evere ont été achetés grâce au soutien de la Loterie Nationale.
+
+
+      ![](/img/logo_lotnatlot_rgb_baseline.jpg)
 
 
       Les flottes Vélo Solidaire sont reprises ci-dessous avec une description des vélos et du matériel disponible ainsi que les horaires d'ouverture (en fonction du partenaire qui accueille la flotte).
