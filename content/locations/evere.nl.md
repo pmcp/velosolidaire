@@ -95,12 +95,12 @@ De vloot is beschikbaar **van maandag tot vrijdag tussen 9u en 17u**.
 ### Beschikbare fietsen
 
 **Leer-fietsen**\
-11 fietsen Oxford framemaat 26'' (center-top 38cm)
+1 fiets Oxford 24''
+
+10 fietsen Oxford framemaat 26'' (center-top 38cm)
 
 **Fietstocht-fietsen**\
-7 fietsen Oxford Avanti framemaat S (center-top 43cm)\
-7 fietsen Btwin Elops 360 framemaat M (center-top 48cm)\
-1 fiets Btwin Elops 360 framemaat L (center-top 51,5cm)
+15 fietsen Oxford Avanti framemaat S (center-top 43cm)
 
 ### Accessoires
 
