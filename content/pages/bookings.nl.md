@@ -1,15 +1,23 @@
 ---
 title: Bookings
+intro: ""
 layout: "0"
 formActive: false
-intro: ""
 elements:
   - type: text
     markdown: >-
       # Een fietsvloot reserveren
 
 
-      De fietsvloot van Solidaire Velo staat ter beschikking van elke (socio-)culturele vereniging die zich inzet voor de gezondheid en de sociale cohesie van een kansarm publiek en actief is in het Brussels Gewest. De fietsen zijn gratis beschikbaar om te léren fietsen of voor een fietstocht in groep.
+      De fietsvloot van Solidaire Velo staat ter beschikking van elke (socio-)culturele vereniging die zich inzet voor de gezondheid en de sociale cohesie van een kansarm publiek en actief is in het Brussels Gewest. De fietsen zijn gratis beschikbaar om te leren fietsen of voor een fietstocht in groep.
+
+
+
+      Les vélos de la flotte d'Evere ont été achetés grâce au soutien de la Loterie Nationale.
+
+
+
+      ![](/img/logo_lotnatlot_rgb_baseline.jpg)
 
 
       Hieronder vindt u de vloten van Solidaire Velo met een beschrijving van de fietsen en het beschikbare materiaal, evenals de openingstijden (afhankelijk van de partner die de vloot host).
