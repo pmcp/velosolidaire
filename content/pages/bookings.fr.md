@@ -9,7 +9,6 @@ elements:
       Les flottes Vélos Solidaire sont accessibles à toute association psycho/socio/culturelle ou de promotion de la santé et de la cohésion sociale active en Région bruxelloise et qui s’adresse à un public moins favorisé. Les vélos sont disponibles à titre gratuit pour des activités d’apprentissage du vélo ou pour des sorties à vélo en groupe. 
 
 
-
       Les vélos de la flotte d'Evere ont été achetés grâce au soutien de la Loterie Nationale.
 
 
@@ -44,6 +43,8 @@ elements:
       9. Chaque association qui utilise la flotte est responsable d'avoir une *assurance* Responsabilité Civile et accident du travail.
 
       10. *En cas de vol ou de perte*, un dédommagement de 250€ vous sera demandé (+ 15€ pour le cadenas, le cas échéant).
+
+      11. Toutes les réparations (suite à des dégâts liés au vandalisme, à une utilisation inappropriée ou à un accident) seront à votre charge. Vélo Solidaire facturera les frais sur base du prix d'achat des pièces à remplacer et du cout de la main d'œuvre.
 
 
       *En parler autour de vous* pour en faire profiter un maximum de personnes !

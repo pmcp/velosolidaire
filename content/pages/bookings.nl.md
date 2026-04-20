@@ -12,9 +12,7 @@ elements:
       De fietsvloot van Solidaire Velo staat ter beschikking van elke (socio-)culturele vereniging die zich inzet voor de gezondheid en de sociale cohesie van een kansarm publiek en actief is in het Brussels Gewest. De fietsen zijn gratis beschikbaar om te leren fietsen of voor een fietstocht in groep.
 
 
-
       Les vélos de la flotte d'Evere ont été achetés grâce au soutien de la Loterie Nationale.
-
 
 
       ![](/img/logo_lotnatlot_rgb_baseline.jpg)
@@ -49,6 +47,8 @@ elements:
          over een *verzekering* voor Burgerlijke Aansprakelijkheid en voor Schade op het Werk.
       10. In geval van *diefstal of verlies* wordt een schadevergoeding van €250 per fiets
           aangerekend (+ €15 voor het slot).
+      11. Alle herstellingen (als gevolg van vandalisme, onaangepast gebruik of een ongeval) zijn op eigen kosten. Solidaire Velo factureert de kosten van de te vervangen onderdelen en de gepresteerde werkuren.
+
 
       *Spread the word*, om zo veel mogelijk mensen van deze dienst te laten genieten !
 image: /img/dsc_2001.jpg
