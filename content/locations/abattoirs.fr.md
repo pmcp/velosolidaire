@@ -7,7 +7,7 @@ location: '{"type":"Point","coordinates":[4.3272099,50.8428152]}'
 info: |-
   Géré par Cultureghem
 
-  Horaires d’ouverture : lundi à Jeudi 9h30-16h30
+  Horaires d’ouverture : mardi à Jeudi 9h30-16h30
 street: Abattoirs rue Chaudron Ropsy
 zip: 1070
 city: Anderlecht
