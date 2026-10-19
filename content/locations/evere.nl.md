@@ -109,3 +109,5 @@ De vloot is beschikbaar **van maandag tot vrijdag tussen 9u en 17u**.
 ### Accessoires
 
 Fietssloten, helmen, fluohesjes, broekclips, fietstassen, kegels, pompen, gereedschapskid
+
+Let op: Vélo Solidaire heeft geen EHBO-doos. Vergeet niet er een mee te nemen tijdens uw activiteit.
