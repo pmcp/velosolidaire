@@ -107,6 +107,8 @@ L'accès à la flotte est géré par [Cultureghem](https://cultureghem.be/fr/acc
 
 Cadenas, casques, chasubles, clips pour pantalon, sacoches, plots, pompes, boite à outils
 
+Attention, Vélo Solidaire ne prévoit pas de pharmacie. Pensez à en prendre une lors de votre activité.
+
 ### Où faire de la mise en selle ?
 
 [De Grote Hal](https://www.google.com/maps/place/De+Grote+Hal/@50.8473512,4.3282256,17z/data=!3m1!4b1!4m6!3m5!1s0x47c3c514f5acfd69:0x72b95ab710ca289c!8m2!3d50.8473478!4d4.3308005!16s%2Fg%2F11j_0nn_ts?entry=ttu) (à 800m de la flotte)\
